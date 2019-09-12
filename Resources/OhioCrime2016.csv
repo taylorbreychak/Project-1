@@ -1,1367 +1,680 @@
-<<<<<<< HEAD
-County,City,AGENCY NAME,POPULATION,VIOLENT CRIME,PROPERTY CRIME,MURDER,RAPE,ROBBERY,AGGRAVATED ASSAULT,BURGLARY,LARCENY,MTR VEHICLE THEFT,ARSON,,,,,,,,,,,,,,,,,
-#N/A,#N/A,,0,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OHIO DEPARTMENT OF NATURAL RESOURCES,0,2,17,0,0,1,1,2,15,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OHIO STATE HGHWAY PATROL ,0,291,233,1,35,4,251,12,179,42,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MANCHESTER,"1,967",3,31,0,1,2,0,12,18,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PEEBLES,"1,758",3,6,0,0,1,2,4,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WEST UNION,"3,167",5,44,0,0,0,5,15,23,6,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SEAMAN,920,0,19,0,0,0,0,9,9,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WINCHESTER,"1,032",0,3,0,0,0,0,2,1,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ADAMS COUNTY SHERIFF,"19,039",6,157,0,3,0,3,57,83,17,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Allen County,Lima,LIMA,"37,715",356,"2,259",8,44,123,181,602,"1,540",117,22,Allen County,Lima,,,,,,,,,,,,,,,
-Allen County,Bluffton,BLUFFTON,"3,953",1,78,0,0,1,0,15,59,4,0,Allen County,Bluffton,,,,,,,,,,,,,,,
-Allen County,Delphos,DELPHOS,"3,884",2,83,0,1,0,1,13,69,1,0,Allen County,Delphos,,,,,,,,,,,,,,,
-Allen County,Spencerville,SPENCERVILLE,"2,195",1,28,0,0,0,1,5,23,0,1,Allen County,Spencerville,,,,,,,,,,,,,,,
-Allen County,Elida,ELIDA,"1,852",0,16,0,0,0,0,3,12,1,0,Allen County,Elida,,,,,,,,,,,,,,,
-#N/A,#N/A,SHAWNEE TOWNSHIP,"12,173",7,144,0,4,0,3,40,99,5,0,Allen County,Fort Shawnee,,,,,,,,,,,,,,,
-#N/A,#N/A,AMERICAN TOWNSHIP,"12,254",6,167,0,0,3,3,10,152,5,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MARION TOWNSHIP,"2,910",0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ALLEN COUNTY SHERIFF,"23,534",27,870,0,6,14,7,205,639,26,3,#N/A,#N/A,,,,,,,,,,,,,,,
-Ashland County,Ashland,ASHLAND,"20,278",24,405,2,14,1,7,73,325,7,1,Ashland County,Ashland,,,,,,,,,,,,,,,
-Ashland County,Loudonville,LOUDONVILLE,"2,561",14,46,0,7,0,7,4,41,1,0,Ashland County,Loudonville,,,,,,,,,,,,,,,
-Ashland County,Ashland,ASHLAND COUNTY SHERIFF,"29,425",31,190,1,15,4,11,63,116,11,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Ashtabula County,Geneva,GENEVA-ON-THE-LAKE,"1,207",7,27,1,2,0,4,9,17,1,0,Ashtabula County,Geneva,,,,,,,,,,,,,,,
-Ashtabula County,Roaming Shores,ROAMING SHORES VILLAGE,"1,471",0,2,0,0,0,0,0,2,0,0,Ashtabula County,Roaming Shores,,,,,,,,,,,,,,,
-Ashtabula County,Ashtabula,ASHTABULA COUNTY SHERIFF,"49,784",54,640,1,10,14,29,172,438,30,4,Ashtabula County,Ashtabula,,,,,,,,,,,,,,,
-Athens County,Athens,ATHENS,"25,203",27,462,0,6,8,13,47,404,11,1,Athens County,Athens,,,,,,,,,,,,,,,
-Athens County,Glouster,GLOUSTER,"1,798",3,39,0,2,0,1,15,23,1,2,Athens County,Glouster,,,,,,,,,,,,,,,
-Athens County,Nelsonville,NELSONVILLE,"5,159",11,195,0,1,7,3,34,148,13,1,Athens County,Nelsonville,,,,,,,,,,,,,,,
-Athens County,Albany,ALBANY,918,0,20,0,0,0,0,6,13,1,0,Athens County,Albany,,,,,,,,,,,,,,,
-#N/A,#N/A,OHIO UNIVERSITY,0,15,172,0,13,0,2,10,157,5,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Athens County,Athens,ATHENS COUNTY SHERIFF,"31,340",19,458,0,5,3,11,145,284,29,1,Athens County,Athens,,,,,,,,,,,,,,,
-Auglaize County,Saint Marys,ST. MARYS,"8,256",5,130,0,0,2,3,29,98,3,1,Auglaize County,Saint Marys,,,,,,,,,,,,,,,
-Auglaize County,Wapakoneta,WAPAKONETA,"9,815",10,144,0,3,0,7,20,121,3,0,Auglaize County,Wapakoneta,,,,,,,,,,,,,,,
-Auglaize County,Minster,MINSTER,"2,853",0,9,0,0,0,0,2,5,2,0,Auglaize County,Minster,,,,,,,,,,,,,,,
-Auglaize County,New Bremen,NEW BREMEN,"2,961",0,16,0,0,0,0,1,15,0,0,Auglaize County,New Bremen,,,,,,,,,,,,,,,
-Auglaize County,New Knoxville,NEW KNOXVILLE,865,0,5,0,0,0,0,1,4,0,0,Auglaize County,New Knoxville,,,,,,,,,,,,,,,
-#N/A,#N/A,AUGLAIZE COUNTY SHERIFF,"17,933",7,97,0,2,0,5,25,71,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Belmont County,Barnesville,BARNESVILLE,"4,112",1,14,0,0,0,1,6,8,0,0,Belmont County,Barnesville,,,,,,,,,,,,,,,
-#N/A,#N/A,BELLAIRE,"4,172",9,46,0,0,1,8,5,38,3,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BRIDGEPORT,"1,786",3,18,1,1,0,1,5,12,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Belmont County,Martins Ferry,MARTINS FERRY,"6,761",12,110,0,2,0,10,33,72,5,0,Belmont County,Martins Ferry,,,,,,,,,,,,,,,
-Belmont County,Powhatan Point,POWHATAN POINT,"1,569",1,1,0,0,0,1,0,1,0,0,Belmont County,Powhatan Point,,,,,,,,,,,,,,,
-#N/A,#N/A,SHADYSIDE,"3,701",0,6,0,0,0,0,3,2,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Belmont County,Saint Clairsville,ST. CLAIRSVILLE,"5,090",4,9,0,0,0,4,1,8,0,0,Belmont County,Saint Clairsville,,,,,,,,,,,,,,,
-Belmont County,Flushing,FLUSHING,860,0,2,0,0,0,0,0,2,0,0,Belmont County,Flushing,,,,,,,,,,,,,,,
-Belmont County,Bethesda,BETHESDA,"1,243",0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,YORKVILLE,451,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BELMONT COUNTY SHERIFF,"29,124",45,374,1,21,1,22,77,274,23,1,Belmont County,Belmont,,,,,,,,,,,,,,,
-#N/A,#N/A,ABERDEEN,"1,601",2,25,0,0,0,2,6,18,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GEORGETOWN,"4,436",5,102,0,3,1,1,21,78,3,0,Brown County,Georgetown,,,,,,,,,,,,,,,
-#N/A,#N/A,RIPLEY,"1,715",0,0,0,0,0,0,0,0,0,0,Brown County,Ripley,,,,,,,,,,,,,,,
-#N/A,#N/A,MOUNT ORAB,"3,649",5,94,0,0,2,3,4,89,1,0,Brown County,Mount Orab,,,,,,,,,,,,,,,
-#N/A,#N/A,RUSSELLVILLE,539,1,6,0,0,0,1,1,5,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BROWN COUNTY SHERIFF,"30,366",17,309,1,5,2,9,103,191,15,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Butler County,Fairfield,FAIRFIELD,"42,810",110,"1,045",1,17,21,71,144,866,35,2,Butler County,Fairfield,,,,,,,,,,,,,,,
-Butler County,Hamilton,HAMILTON,"62,423",320,"3,316",9,64,131,116,942,"2,365",9,26,Butler County,Hamilton,,,,,,,,,,,,,,,
-Butler County,Middletown,MIDDLETOWN,"46,067",242,"3,115",5,41,67,129,735,"2,253",127,0,Butler County,Middletown,,,,,,,,,,,,,,,
-Butler County,Monroe,MONROE,"15,789",24,432,0,3,3,18,26,402,4,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW MIAMI,"2,328",0,2,0,0,0,0,2,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Butler County,Oxford,OXFORD,"22,197",23,270,1,3,4,15,53,206,11,2,Butler County,Oxford,,,,,,,,,,,,,,,
-#N/A,#N/A,OXFORD TOWNSHIP,"2,175",4,32,0,1,0,3,11,21,0,0,Butler County,Oxford,,,,,,,,,,,,,,,
-Butler County,West Chester,WEST CHESTER TOWNSHIP,"61,080",43,"1,340",0,15,14,14,155,"1,161",24,4,Butler County,West Chester,,,,,,,,,,,,,,,
-#N/A,#N/A,ROSS TOWNSHIP,"8,720",6,83,0,2,1,3,19,60,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MIAMI UNIVERSITY,0,26,232,0,15,0,11,57,170,5,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FAIRFIELD TOWNSHIP,"22,417",28,598,1,9,4,14,56,534,8,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BUTLER COUNTY SHERIFF,"76,582",45,"1,035",0,17,6,22,276,748,11,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BUTLER COUNTY METROPARKS,0,0,2,0,0,0,0,2,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MINERVA,"1,724",2,22,0,0,0,2,0,21,1,0,Stark County,Minerva,,,,,,,,,,,,,,,
-#N/A,#N/A,MAGNOLIA,258,1,11,0,0,0,1,3,7,1,0,Stark County,Magnolia,,,,,,,,,,,,,,,
-#N/A,#N/A,MECHANICSBURG,"1,591",3,45,0,1,0,2,10,32,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,URBANA,"11,482",14,420,0,3,5,6,78,323,19,7,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ST. PARIS,"2,014",0,16,0,0,0,0,0,15,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CHAMPAIGN COUNTY SHERIFF,"23,639",17,330,1,4,0,12,108,191,31,3,#N/A,#N/A,,,,,,,,,,,,,,,
-Clark County,Springfield,SPRINGFIELD,"59,503",411,"4,040",5,34,184,188,963,"2,817",260,58,Clark County,Springfield,,,,,,,,,,,,,,,
-Clark County,Enon,ENON,"2,389",0,2,0,0,0,0,1,1,0,0,Clark County,Enon,,,,,,,,,,,,,,,
-Clark County,South Charleston,SOUTH CHARLESTON,"1,655",2,23,0,0,0,2,3,18,2,0,Clark County,South Charleston,,,,,,,,,,,,,,,
-Clark County,South Vienna,SOUTH VIENNA,378,1,14,0,0,0,1,1,12,1,0,Clark County,South Vienna,,,,,,,,,,,,,,,
-#N/A,#N/A,CLARK COUNTY SHERIFF,"63,842",46,"1,174",0,10,9,27,303,807,64,4,#N/A,#N/A,,,,,,,,,,,,,,,
-Clermont County,Batavia,BATAVIA,"1,654",6,55,0,1,2,3,11,42,2,2,Clermont County,Batavia,,,,,,,,,,,,,,,
-Clermont County,Bethel,BETHEL,"2,782",6,95,0,1,0,5,9,84,2,0,Clermont County,Bethel,,,,,,,,,,,,,,,
-Clermont County,Milford,MILFORD,"6,881",9,230,0,1,5,3,25,201,4,0,Clermont County,Milford,,,,,,,,,,,,,,,
-Clermont County,Amelia,AMELIA,"4,957",0,25,0,0,0,0,5,20,0,0,Clermont County,Amelia,,,,,,,,,,,,,,,
-Clermont County,Felicity,FELICITY,830,2,42,0,0,0,2,6,36,0,0,Clermont County,Felicity,,,,,,,,,,,,,,,
-Clermont County,New Richmond,NEW RICHMOND,"2,651",12,74,0,3,2,7,22,47,5,1,Clermont County,New Richmond,,,,,,,,,,,,,,,
-#N/A,#N/A,NEWTONSVILLE,393,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OWENSVILLE,818,4,3,0,2,1,1,0,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Clermont County,Williamsburg,WILLIAMSBURG,"2,560",3,63,0,0,1,2,9,54,0,0,Clermont County,Williamsburg,,,,,,,,,,,,,,,
-Clermont County,Goshen,GOSHEN TOWNSHIP,"15,787",6,166,0,3,1,2,33,126,7,1,Clermont County,Goshen,,,,,,,,,,,,,,,
-#N/A,#N/A,MIAMI TOWNSHIP,"42,109",26,569,0,11,4,11,84,459,26,4,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UNION TOWNSHIP,"47,933",43,962,0,17,12,14,87,854,21,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PIERCE TOWNSHIP,"11,559",3,182,0,1,1,1,33,148,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Clermont County,Loveland,LOVELAND,"2,036",0,21,0,0,0,0,3,16,2,0,Clermont County,Loveland,,,,,,,,,,,,,,,
-#N/A,#N/A,CLERMONT COUNTY SHERIFF,"59,626",98,"1,366",1,27,7,63,501,814,51,3,#N/A,#N/A,,,,,,,,,,,,,,,
-Clinton County,Blanchester,BLANCHESTER,"4,249",6,75,1,0,1,4,6,65,4,1,Clinton County,Blanchester,,,,,,,,,,,,,,,
-Clinton County,New Vienna,NEW VIENNA,"1,199",0,5,0,0,0,0,0,5,0,0,Clinton County,New Vienna,,,,,,,,,,,,,,,
-Clinton County,Sabina,SABINA,"2,530",2,63,0,1,0,1,14,46,3,0,Clinton County,Sabina,,,,,,,,,,,,,,,
-Clinton County,Wilmington,WILMINGTON,"12,443",18,578,0,9,2,7,59,499,20,2,Clinton County,Wilmington,,,,,,,,,,,,,,,
-#N/A,#N/A,LYNCHBURG,2,0,0,0,0,0,0,0,0,0,0,Highland County,Lynchburg,,,,,,,,,,,,,,,
-#N/A,#N/A,CLINTON COUNTY SHERIFF,"21,443",2,28,0,0,0,2,9,19,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Columbiana County,Columbiana,COLUMBIANA,"5,604",3,79,0,2,0,1,20,59,0,2,Columbiana County,Columbiana,,,,,,,,,,,,,,,
-Columbiana County,East Palestine,EAST PALESTINE,"4,548",6,62,0,1,2,3,21,39,2,0,Columbiana County,East Palestine,,,,,,,,,,,,,,,
-Columbiana County,Lisbon,LISBON,"2,709",0,39,0,0,0,0,5,33,1,0,Columbiana County,Lisbon,,,,,,,,,,,,,,,
-Columbiana County,Salem,SALEM,"11,939",9,310,0,1,1,7,18,286,6,1,Columbiana County,Salem,,,,,,,,,,,,,,,
-#N/A,#N/A,SALINEVILLE,"1,266",1,23,0,0,0,1,1,22,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Columbiana County,New Waterford,NEW WATERFORD,"1,195",0,2,0,0,0,0,1,1,0,0,Columbiana County,New Waterford,,,,,,,,,,,,,,,
-#N/A,#N/A,WASHINGTONVILLE,435,0,2,0,0,0,0,0,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ST. CLAIR TOWNSHIP,"7,704",0,40,0,0,0,0,0,40,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PERRY TOWNSHIP,"4,420",0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MINERVA,2,0,0,0,0,0,0,0,0,0,0,Stark County,Minerva,,,,,,,,,,,,,,,
-#N/A,#N/A,COLUMBIANA COUNTY SHERIFF,"37,848",19,5,1,9,0,9,3,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Coshocton County,West Lafayette,WEST LAFAYETTE,"2,279",3,8,0,2,0,1,1,7,0,0,Coshocton County,West Lafayette,,,,,,,,,,,,,,,
-Coshocton County,Coshocton,COSHOCTON COUNTY SHERIFF,"34,172",39,514,0,9,5,25,184,307,23,7,Coshocton County,Coshocton,,,,,,,,,,,,,,,
-#N/A,#N/A,BUCYRUS,"11,830",24,491,0,4,9,11,90,394,7,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CRESTLINE,"4,384",9,98,0,3,2,4,35,56,7,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GALION,"10,053",17,341,0,5,4,8,73,264,4,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CRAWFORD COUNTY SHERIFF,"14,769",6,138,0,5,0,1,61,70,7,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Cleveland,CLEVELAND,"386,227","6,299","20,533",135,488,"2,980","2,696","6,333","10,001","4,199",315,Cuyahoga County,Cleveland,,,,,,,,,,,,,,,
-#N/A,#N/A,NOTRE DAME COLLEGE,0,1,39,0,1,0,0,6,32,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Bay Village,BAY VILLAGE,"15,346",2,64,0,1,0,1,12,49,3,0,Cuyahoga County,Bay Village,,,,,,,,,,,,,,,
-Cuyahoga County,Bedford,BEDFORD,"12,678",30,255,0,1,18,11,29,187,39,0,Cuyahoga County,Bedford,,,,,,,,,,,,,,,
-#N/A,#N/A,BEDFORD HEIGHTS,"10,594",28,290,0,4,9,15,71,176,43,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BENTLEYVILLE VILLAGE,855,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Berea,BEREA,"18,805",11,181,0,2,5,4,19,154,8,1,Cuyahoga County,Berea,,,,,,,,,,,,,,,
-Cuyahoga County,Brecksville,BRECKSVILLE,"13,390",4,54,0,0,2,2,5,47,2,1,Cuyahoga County,Brecksville,,,,,,,,,,,,,,,
-Cuyahoga County,Broadview Heights,BROADVIEW HEIGHTS,"19,186",0,24,0,0,0,0,7,17,0,0,Cuyahoga County,Broadview Heights,,,,,,,,,,,,,,,
-#N/A,#N/A,BROOKLYN,"10,841",29,673,2,5,15,7,44,585,44,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CHAGRIN FALLS,"4,003",4,27,2,1,0,1,3,24,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Cleveland Heights,CLEVELAND HEIGHTS,"44,696",145,997,3,9,80,53,118,781,98,3,Cuyahoga County,Cleveland Heights,,,,,,,,,,,,,,,
-#N/A,#N/A,EAST CLEVELAND,"17,240",111,342,7,4,66,34,94,131,117,4,Cuyahoga County,Cleveland,,,,,,,,,,,,,,,
-Cuyahoga County,Euclid,EUCLID,"47,416",275,"1,329",8,17,107,143,343,804,182,5,Cuyahoga County,Euclid,,,,,,,,,,,,,,,
-Cuyahoga County,Fairview Park,FAIRVIEW PARK,"16,318",32,227,0,0,6,26,35,183,9,0,Cuyahoga County,Fairview Park,,,,,,,,,,,,,,,
-Cuyahoga County,Garfield Heights,GARFIELD HEIGHTS,"27,938",37,190,0,7,17,13,74,116,0,2,Cuyahoga County,Garfield Heights,,,,,,,,,,,,,,,
-#N/A,#N/A,GLENWILLOW,926,0,7,0,0,0,0,0,6,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HIGHLAND HEIGHTS,"8,402",1,99,0,0,1,0,5,93,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,INDEPENDENCE,"7,132",11,120,0,0,1,10,6,111,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Lakewood,LAKEWOOD,"50,349",63,876,3,8,32,20,144,665,67,4,Cuyahoga County,Lakewood,,,,,,,,,,,,,,,
-Cuyahoga County,Lyndhurst,LYNDHURST,"13,624",14,194,0,5,6,3,19,169,6,2,Cuyahoga County,Lyndhurst,,,,,,,,,,,,,,,
-#N/A,#N/A,MAYFIELD HEIGHTS,"18,770",14,189,0,0,9,5,11,176,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MORELAND HILLS,"3,303",1,10,0,0,1,0,3,7,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,North Olmsted,NORTH OLMSTED,"31,851",26,619,1,6,13,6,69,512,38,0,Cuyahoga County,North Olmsted,,,,,,,,,,,,,,,
-#N/A,#N/A,OLMSTED TOWNSHIP,"13,228",1,43,0,0,1,0,15,25,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Olmsted Falls,OLMSTED FALLS,"8,859",3,30,0,0,0,3,11,17,2,0,Cuyahoga County,Olmsted Falls,,,,,,,,,,,,,,,
-Cuyahoga County,Parma,PARMA,"79,576",108,"1,102",0,26,43,39,271,712,119,11,Cuyahoga County,Parma,,,,,,,,,,,,,,,
-#N/A,#N/A,PEPPER PIKE,"6,247",1,32,0,0,1,0,6,25,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Richmond Heights,RICHMOND HEIGHTS,"10,445",27,249,0,2,15,10,56,165,28,0,Cuyahoga County,Richmond Heights,,,,,,,,,,,,,,,
-Cuyahoga County,Rocky River,ROCKY RIVER,"20,400",7,81,0,1,0,6,15,62,4,0,Cuyahoga County,Rocky River,,,,,,,,,,,,,,,
-Cuyahoga County,Seven Hills,SEVEN HILLS,"11,661",4,64,0,1,1,2,16,46,2,0,Cuyahoga County,Seven Hills,,,,,,,,,,,,,,,
-Cuyahoga County,Solon,SOLON,"22,971",11,175,1,5,1,4,15,154,6,1,Cuyahoga County,Solon,,,,,,,,,,,,,,,
-Cuyahoga County,South Euclid,SOUTH EUCLID,"21,686",35,570,0,4,23,8,57,474,39,0,Cuyahoga County,South Euclid,,,,,,,,,,,,,,,
-Cuyahoga County,Strongsville,STRONGSVILLE,"44,626",19,882,0,0,14,5,65,797,20,1,Cuyahoga County,Strongsville,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIVERSITY HEIGHTS,"13,131",45,305,0,7,27,11,29,260,16,4,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,VALLEY VIEW,"2,007",0,35,0,0,0,0,8,23,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WALTON HILLS,"2,236",0,29,0,0,0,0,3,24,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Westlake,WESTLAKE,"32,353",14,461,0,0,5,9,37,403,21,3,Cuyahoga County,Westlake,,,,,,,,,,,,,,,
-#N/A,#N/A,WOODMERE VILLAGE,859,2,56,0,1,0,1,1,38,17,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CLEVELAND STATE UNIVERSITY,0,8,187,0,4,3,1,3,178,6,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LINNDALE,175,0,1,0,0,0,0,1,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CLEVELAND METRO PARK,0,12,164,0,5,5,2,3,159,2,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CUYAHOGA COMMUNITY COLLEGE,0,3,66,0,1,1,1,4,58,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GREENVILLE,"12,962",44,315,0,13,8,23,74,217,24,14,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UNION CITY,"1,632",0,8,0,0,0,0,1,7,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DARKE COUNTY SHERIFF,"33,140",6,44,0,0,0,6,16,27,1,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Defiance County,Defiance,DEFIANCE,"16,697",25,341,0,16,1,8,42,291,8,3,Defiance County,Defiance,,,,,,,,,,,,,,,
-#N/A,#N/A,DEFIANCE COUNTY SHERIFF,"18,017",22,141,1,13,3,5,38,102,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,COLUMBUS,"8,024",41,316,1,8,19,13,70,214,32,4,Franklin County,Columbus,,,,,,,,,,,,,,,
-#N/A,#N/A,DELAWARE,"38,658",73,890,0,35,14,24,154,714,22,7,#N/A,#N/A,,,,,,,,,,,,,,,
-Delaware County,Ostrander,OSTRANDER,697,1,0,0,0,0,1,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Delaware County,Powell,POWELL,"13,273",0,106,0,0,0,0,24,80,2,0,Delaware County,Powell,,,,,,,,,,,,,,,
-#N/A,#N/A,SHAWNEE HILLS,746,0,6,0,0,0,0,2,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SUNBURY,"5,242",0,56,0,0,0,0,9,46,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DUBLIN,"4,476",2,51,0,1,0,1,10,40,1,0,Franklin County,Dublin,,,,,,,,,,,,,,,
-#N/A,#N/A,WESTERVILLE,"8,411",5,202,0,2,2,1,16,183,3,1,Franklin County,Westerville,,,,,,,,,,,,,,,
-#N/A,#N/A,DELAWARE COUNTY SHERIFF,"90,604",63,"1,107",1,23,14,25,246,847,14,5,#N/A,#N/A,,,,,,,,,,,,,,,
-Erie County,Sandusky,SANDUSKY,"25,078",45,911,1,6,19,19,199,680,32,3,Erie County,Sandusky,,,,,,,,,,,,,,,
-#N/A,#N/A,VERMILION,"4,621",1,47,0,0,0,1,6,40,1,0,Lorain County,Vermilion,,,,,,,,,,,,,,,
-#N/A,#N/A,BAY VIEW,609,0,3,0,0,0,0,1,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Erie County,Milan,MILAN,984,1,19,0,1,0,0,4,15,0,0,Erie County,Milan,,,,,,,,,,,,,,,
-#N/A,#N/A,PERKINS TOWNSHIP,"11,844",16,308,0,0,7,9,5,303,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CEDAR POINT,0,0,16,0,0,0,0,1,15,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BELLEVUE,2,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ERIE COUNTY SHERIFF,"24,027",3,378,0,0,1,2,84,289,5,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,COLUMBUS,"10,285",54,422,1,10,26,17,93,286,43,5,Franklin County,Columbus,,,,,,,,,,,,,,,
-Fairfield County,Lancaster,LANCASTER,"39,959",141,"1,826",0,30,46,65,271,"1,499",56,6,Fairfield County,Lancaster,,,,,,,,,,,,,,,
-Fairfield County,Baltimore,BALTIMORE,"2,970",1,25,0,0,0,1,7,16,2,0,Fairfield County,Baltimore,,,,,,,,,,,,,,,
-Fairfield County,Carroll,CARROLL,519,0,6,0,0,0,0,0,6,0,0,Fairfield County,Carroll,,,,,,,,,,,,,,,
-Fairfield County,Lithopolis,LITHOPOLIS,"1,350",0,13,0,0,0,0,3,10,0,0,Fairfield County,Lithopolis,,,,,,,,,,,,,,,
-#N/A,#N/A,MILLERSPORT,"1,050",0,2,0,0,0,0,0,2,0,0,Fairfield County,Millersport,,,,,,,,,,,,,,,
-Fairfield County,Pickerington,PICKERINGTON,"19,964",16,428,0,0,10,6,42,380,6,0,Fairfield County,Pickerington,,,,,,,,,,,,,,,
-#N/A,#N/A,REYNOLDSBURG,927,2,33,0,0,1,1,4,28,1,0,Franklin County,Reynoldsburg,,,,,,,,,,,,,,,
-#N/A,#N/A,FAIRFIELD COUNTY SHERIFF,"74,766",40,946,0,14,1,25,143,791,12,4,#N/A,#N/A,,,,,,,,,,,,,,,
-Fayette County,Washington Court House,WASHINGTON COURT HOUSE,"13,986",37,612,0,9,9,19,137,459,16,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FAYETTE COUNTY SHERIFF,"14,589",24,513,2,10,5,7,157,346,10,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Franklin County,Columbus,COLUMBUS,"844,206","4,405","34,368",89,849,"2,099","1,368","7,593","23,300","3,475",396,Franklin County,Columbus,,,,,,,,,,,,,,,
-#N/A,#N/A,LITHOPOLIS,51,0,0,0,0,0,0,0,0,0,0,Fairfield County,Lithopolis,,,,,,,,,,,,,,,
-#N/A,#N/A,PICKERINGTON,76,0,2,0,0,0,0,0,2,0,0,Fairfield County,Pickerington,,,,,,,,,,,,,,,
-#N/A,#N/A,CAPITAL UNIVERSITY,0,0,51,0,0,0,0,20,30,1,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Franklin County,Bexley,BEXLEY,"13,775",26,359,0,12,13,1,99,242,18,0,Franklin County,Bexley,,,,,,,,,,,,,,,
-Franklin County,Dublin,DUBLIN,"38,892",20,438,0,8,5,7,82,344,12,2,Franklin County,Dublin,,,,,,,,,,,,,,,
-Franklin County,Gahanna,GAHANNA,"34,859",20,789,0,10,6,4,99,660,30,2,Franklin County,Gahanna,,,,,,,,,,,,,,,
-Franklin County,Grandview Heights,GRANDVIEW HEIGHTS,"7,502",1,144,0,0,1,0,43,95,6,0,Franklin County,Grandview Heights,,,,,,,,,,,,,,,
-Franklin County,Grove City,GROVE CITY,"40,161",43,"1,678",2,7,26,8,144,"1,476",58,4,Franklin County,Grove City,,,,,,,,,,,,,,,
-Franklin County,Hilliard,HILLIARD,"34,832",33,344,0,11,9,13,67,253,24,0,Franklin County,Hilliard,,,,,,,,,,,,,,,
-Franklin County,Reynoldsburg,REYNOLDSBURG,"27,474",61,987,5,6,26,24,115,833,39,5,Franklin County,Reynoldsburg,,,,,,,,,,,,,,,
-Franklin County,Upper Arlington,UPPER ARLINGTON,"35,150",16,535,1,4,8,3,67,449,19,1,Franklin County,Upper Arlington,,,,,,,,,,,,,,,
-Franklin County,Westerville,WESTERVILLE,"30,397",16,733,0,5,7,4,59,661,13,4,Franklin County,Westerville,,,,,,,,,,,,,,,
-Franklin County,Whitehall,WHITEHALL,"18,804",153,"1,163",2,25,74,52,299,794,70,9,Franklin County,Whitehall,,,,,,,,,,,,,,,
-Franklin County,Worthington,WORTHINGTON,"14,689",5,233,0,0,4,1,28,195,10,2,Franklin County,Worthington,,,,,,,,,,,,,,,
-#N/A,#N/A,FRANKLIN COUNTY METRO PARKS,0,0,10,0,0,0,0,0,10,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Franklin County,Groveport,GROVEPORT,"5,813",5,178,0,2,1,2,19,149,10,2,Franklin County,Groveport,,,,,,,,,,,,,,,
-#N/A,#N/A,HARRISBURG,337,0,1,0,0,0,0,1,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MINERVA PARK,"1,327",1,19,0,0,1,0,3,16,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Franklin County,New Albany,NEW ALBANY,"10,210",5,168,0,2,1,2,16,142,10,0,Franklin County,New Albany,,,,,,,,,,,,,,,
-#N/A,#N/A,THE OHIO STATE UNIVERSITY: COLUMBUS,0,33,820,0,14,8,11,23,783,14,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PERRY TOWNSHIP,"3,799",0,53,0,0,0,0,5,48,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MADISON TOWNSHIP,"18,466",22,210,0,1,12,9,59,137,14,0,Lake County,Madison,,,,,,,,,,,,,,,
-#N/A,#N/A,SHARON TOWNSHIP,"2,451",0,33,0,0,0,0,3,29,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,COLUMBUS STATE COMMUNITY COLLEGE,0,0,52,0,0,0,0,1,51,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OTTERBEIN UNIVERSITY,0,0,34,0,0,0,0,2,32,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FRANKLIN COUNTY SHERIFF,"54,322",3,55,0,2,1,0,15,38,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Fulton County,Archbold,ARCHBOLD,"4,342",4,58,0,0,0,4,12,46,0,1,Fulton County,Archbold,,,,,,,,,,,,,,,
-Fulton County,Fayette,FAYETTE,"1,266",6,10,0,5,0,1,6,4,0,0,Fulton County,Fayette,,,,,,,,,,,,,,,
-Fulton County,Swanton,SWANTON,"3,754",3,27,0,2,0,1,4,23,0,0,Fulton County,Swanton,,,,,,,,,,,,,,,
-Fulton County,Wauseon,WAUSEON,"7,311",7,197,0,3,1,3,13,183,1,0,Fulton County,Wauseon,,,,,,,,,,,,,,,
-#N/A,#N/A,FULTON COUNTY SHERIFF,"22,667",15,250,2,7,1,5,82,156,12,4,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GALLIPOLIS,"3,435",10,442,0,1,3,6,46,382,14,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,RIO GRANDE,839,3,16,0,2,0,1,7,9,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIVERSITY OF RIO GRANDE,0,1,0,0,1,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GALLIA COUNTY SHERIFF,"25,513",21,302,1,4,2,14,98,188,16,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Geauga County,Chardon,CHARDON,"5,162",7,66,0,0,0,7,3,63,0,0,Geauga County,Chardon,,,,,,,,,,,,,,,
-Geauga County,Burton,BURTON,"1,463",0,3,0,0,0,0,1,2,0,0,Geauga County,Burton,,,,,,,,,,,,,,,
-Geauga County,Middlefield,MIDDLEFIELD,"2,694",0,44,0,0,0,0,1,43,0,0,Geauga County,Middlefield,,,,,,,,,,,,,,,
-#N/A,#N/A,SOUTH RUSSELL,"3,827",2,4,0,1,1,0,0,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,RUSSELL TOWNSHIP,"5,250",1,15,0,0,0,1,0,15,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Geauga County,Chesterland,CHESTER TOWNSHIP,"10,371",0,18,0,0,0,0,3,15,0,0,Geauga County,Chesterland,,,,,,,,,,,,,,,
-#N/A,#N/A,GEAUGA COUNTY SHERIFF,"53,686",20,210,2,7,2,9,49,144,17,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FAIRBORN,"33,587",84,908,3,32,21,28,189,664,55,8,#N/A,#N/A,,,,,,,,,,,,,,,
-Greene County,Xenia,XENIA,"26,037",53,821,1,13,11,28,134,665,22,6,Greene County,Xenia,,,,,,,,,,,,,,,
-Greene County,Yellow Springs,YELLOW SPRINGS,"3,857",2,79,0,0,1,1,18,59,2,0,Greene County,Yellow Springs,,,,,,,,,,,,,,,
-Greene County,Bellbrook,BELLBROOK,"7,074",3,57,0,2,0,1,4,51,2,0,Greene County,Bellbrook,,,,,,,,,,,,,,,
-Greene County,Jamestown,JAMESTOWN,"2,034",1,72,0,0,0,1,28,42,2,0,Greene County,Jamestown,,,,,,,,,,,,,,,
-Greene County,Beavercreek,BEAVERCREEK,"46,490",32,"1,065",0,14,13,5,64,969,32,2,Greene County,Beavercreek,,,,,,,,,,,,,,,
-#N/A,#N/A,WRIGHT STATE UNIVERSITY,0,5,88,0,2,2,1,13,72,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SUGARCREEK TOWNSHIP,"8,283",3,159,0,1,2,0,9,146,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CENTRAL STATE UNIVERSITY,0,2,77,0,1,0,1,13,60,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CENTERVILLE,2,0,0,0,0,0,0,0,0,0,0,Dayton,Centerville,,,,,,,,,,,,,,,
-#N/A,#N/A,KETTERING,469,0,8,0,0,0,0,2,6,0,0,Dayton,Kettering,,,,,,,,,,,,,,,
-#N/A,#N/A,GREENE COUNTY SHERIFF,"32,737",15,384,0,7,2,6,101,262,21,4,#N/A,#N/A,,,,,,,,,,,,,,,
-Guernsey County,Cambridge,CAMBRIDGE,"10,341",14,484,1,0,3,10,83,388,13,0,Guernsey County,Cambridge,,,,,,,,,,,,,,,
-Guernsey County,Byesville,BYESVILLE,"2,363",0,8,0,0,0,0,0,8,0,1,Guernsey County,Byesville,,,,,,,,,,,,,,,
-Guernsey County,Senecaville,SENECAVILLE,443,0,0,0,0,0,0,0,0,0,0,Guernsey County,Senecaville,,,,,,,,,,,,,,,
-Hamilton County,Cincinnati,CINCINNATI,"298,880","2,720","15,382",57,249,"1,278","1,136","3,929","10,216","1,237",485,Hamilton County,Cincinnati,,,,,,,,,,,,,,,
-#N/A,#N/A,MILFORD,29,0,1,0,0,0,0,0,1,0,0,Clermont County,Milford,,,,,,,,,,,,,,,
-#N/A,#N/A,AMBERLEY VILLAGE,"3,592",1,43,0,0,1,0,0,42,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Blue Ash,BLUE ASH,"12,169",11,320,0,4,4,3,41,273,6,3,Hamilton County,Blue Ash,,,,,,,,,,,,,,,
-#N/A,#N/A,CHEVIOT,"8,281",30,254,0,4,10,16,46,198,10,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Deer Park,DEER PARK,"5,672",9,74,0,1,4,4,9,63,2,0,Hamilton County,Deer Park,,,,,,,,,,,,,,,
-#N/A,#N/A,DELHI TOWNSHIP,"29,573",20,514,0,10,1,9,84,409,21,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ELMWOOD PLACE,"2,160",10,35,2,2,3,3,10,21,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,EVENDALE,"2,766",6,238,0,0,1,5,7,231,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FAIRFAX,"1,704",3,261,0,0,2,1,12,249,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Forest Park,FOREST PARK,"18,669",47,633,0,9,21,17,157,449,27,2,Hamilton County,Forest Park,,,,,,,,,,,,,,,
-#N/A,#N/A,GLENDALE,"2,153",1,9,0,0,1,0,0,6,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Greenhills,GREENHILLS,"3,589",1,36,0,1,0,0,8,27,1,1,Hamilton County,Greenhills,,,,,,,,,,,,,,,
-Hamilton County,Harrison,HARRISON,"10,819",0,306,0,0,0,0,15,282,9,0,Hamilton County,Harrison,,,,,,,,,,,,,,,
-#N/A,#N/A,INDIAN HILL,"5,801",1,44,0,0,0,1,8,36,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LOCKLAND,"3,422",20,121,0,3,10,7,22,92,7,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LOVELAND,"9,840",6,102,0,2,3,1,17,78,7,1,Clermont County,Loveland,,,,,,,,,,,,,,,
-#N/A,#N/A,MARIEMONT,"3,431",1,45,0,0,1,0,3,40,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Montgomery,MONTGOMERY,"10,558",4,148,0,0,0,4,14,130,4,0,Hamilton County,Montgomery,,,,,,,,,,,,,,,
-#N/A,#N/A,MOUNT HEALTHY,"6,028",31,259,4,3,16,8,45,196,18,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEWTOWN,"2,663",3,31,0,0,1,2,6,22,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NORTH COLLEGE HILL,"9,320",30,311,1,4,13,12,38,247,26,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Norwood,NORWOOD,"20,065",52,"1,013",0,12,28,12,166,798,49,2,Hamilton County,Norwood,,,,,,,,,,,,,,,
-Hamilton County,Springdale,SPRINGDALE,"11,175",7,118,0,0,3,4,16,95,7,1,Hamilton County,Springdale,,,,,,,,,,,,,,,
-#N/A,#N/A,SPRINGFIELD TOWNSHIP,"36,527",60,794,1,6,33,20,172,565,57,5,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WOODLAWN,"3,292",6,115,0,1,1,4,11,98,6,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WYOMING,"8,407",5,159,0,0,4,1,17,139,3,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIVERSITY OF CINCINNATI,0,45,254,0,40,2,3,18,233,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,COLERAIN TOWNSHIP,"58,907",111,"2,135",2,19,59,31,310,"1,760",65,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GREEN TOWNSHIP,"58,764",39,"1,215",0,10,22,7,176,989,50,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MOUNT ST. JOSEPH UNIVERSITY,0,0,13,0,0,0,0,3,10,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HAMILTON COUNTY SHERIFF,"109,990",183,"2,743",2,41,38,102,436,"2,163",144,12,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HAMILTON COUNTY PARKS,0,0,66,0,0,0,0,1,62,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BLUFFTON,174,0,4,0,0,0,0,1,3,0,0,Allen County,Bluffton,,,,,,,,,,,,,,,
-Hancock County,Findlay,FINDLAY,"41,156",53,630,3,15,9,26,104,515,11,1,Hancock County,Findlay,,,,,,,,,,,,,,,
-#N/A,#N/A,FOSTORIA,"2,900",1,8,0,0,0,1,2,6,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HANCOCK COUNTY SHERIFF,"29,782",12,227,1,3,2,6,80,142,5,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ADA,"5,782",1,38,0,0,0,1,7,27,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,KENTON,"8,199",19,415,0,7,5,7,96,311,8,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FOREST,"1,437",1,16,0,0,1,0,4,12,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HARDIN COUNTY SHERIFF,"16,141",8,147,0,2,1,5,43,97,7,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CADIZ,"3,256",7,60,0,2,2,3,16,42,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW ATHENS,320,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HARRISON COUNTY SHERIFF,"10,987",6,94,0,1,2,3,34,56,4,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NAPOLEON,"8,566",11,197,0,3,1,7,25,171,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DESHLER,"1,779",0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HENRY COUNTY SHERIFF,"16,102",20,164,2,1,1,16,43,120,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Highland County,Greenfield,GREENFIELD,"4,559",6,102,0,1,1,4,20,72,10,1,Highland County,Greenfield,,,,,,,,,,,,,,,
-Highland County,Hillsboro,HILLSBORO,"6,547",8,203,1,2,1,4,33,166,4,0,Highland County,Hillsboro,,,,,,,,,,,,,,,
-Highland County,Leesburg,VILLAGE OF LEESBURG,"1,289",0,46,0,0,0,0,9,37,0,0,Highland County,Leesburg,,,,,,,,,,,,,,,
-Highland County,Lynchburg,LYNCHBURG,"1,482",4,20,0,3,0,1,8,12,0,0,Highland County,Lynchburg,,,,,,,,,,,,,,,
-#N/A,#N/A,MOWRYSTOWN,359,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HIGHLAND COUNTY SHERIFF,"28,369",26,385,4,6,1,15,130,237,18,7,#N/A,#N/A,,,,,,,,,,,,,,,
-Hocking County,Logan,LOGAN,"7,106",15,243,0,6,1,8,38,200,5,2,Hocking County,Logan,,,,,,,,,,,,,,,
-#N/A,#N/A,HOCKING COUNTY SHERIFF,"20,628",14,358,0,5,1,8,120,218,20,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LOUDONVILLE,60,0,1,0,0,0,0,0,1,0,0,Ashland County,Loudonville,,,,,,,,,,,,,,,
-#N/A,#N/A,MILLERSBURG,"3,174",3,91,0,0,3,0,4,86,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HOLMES COUNTY SHERIFF,"40,626",5,204,1,4,0,0,50,139,15,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MILAN,359,0,6,0,0,0,0,1,5,0,0,Erie County,Milan,,,,,,,,,,,,,,,
-#N/A,#N/A,NORWALK,"16,792",10,440,0,3,2,5,68,365,7,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WILLARD,"6,031",4,302,0,1,2,1,68,222,12,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BELLEVUE,"3,555",0,5,0,0,0,0,1,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MONROEVILLE,"1,364",0,3,0,0,0,0,0,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PLYMOUTH,878,0,4,0,0,0,0,1,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JACKSON,"6,211",10,151,1,3,1,5,18,127,6,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WELLSTON,"5,459",18,161,0,2,6,10,40,115,6,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OAK HILL,"1,490",2,30,0,0,0,2,4,25,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JACKSON COUNTY SHERIFF,"18,798",26,234,1,12,7,6,73,148,13,4,#N/A,#N/A,,,,,,,,,,,,,,,
-Jefferson County,Steubenville,STEUBENVILLE,"18,137",60,"1,085",2,4,22,32,132,945,8,0,Jefferson County,Steubenville,,,,,,,,,,,,,,,
-#N/A,#N/A,MINGO JUNCTION,"3,299",15,44,0,0,3,12,14,28,2,10,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TORONTO,"4,843",6,16,0,3,0,3,4,12,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WINTERSVILLE,"3,770",1,57,0,0,0,1,3,54,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,YORKVILLE,586,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DILLONVALE,633,0,1,0,0,0,0,1,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MOUNT PLEASANT,451,0,3,0,0,0,0,0,2,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TILTONSVILLE,"1,310",2,6,0,0,0,2,1,5,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SALINE TOWNSHIP,"1,290",5,13,0,0,0,5,4,6,3,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WELLS TOWNSHIP,"2,706",0,9,0,0,0,0,2,7,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JEFFERSON COUNTY SHERIFF,"21,320",2,55,0,0,0,2,19,33,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Knox County,Mount Vernon,MOUNT VERNON,"16,685",17,680,0,6,2,9,87,592,1,1,Knox County,Mount Vernon,,,,,,,,,,,,,,,
-#N/A,#N/A,DANVILLE,"1,013",1,4,1,0,0,0,2,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Knox County,Fredericktown,FREDERICKTOWN,"2,486",6,41,0,2,0,4,11,29,1,0,Knox County,Fredericktown,,,,,,,,,,,,,,,
-#N/A,#N/A,UTICA,20,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,KNOX COUNTY SHERIFF,"40,774",33,487,0,18,0,15,99,388,0,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Lake County,Eastlake,EASTLAKE,"18,166",10,443,1,0,3,6,54,375,14,1,Lake County,Eastlake,,,,,,,,,,,,,,,
-#N/A,#N/A,FAIRPORT HARBOR,"3,093",5,102,0,0,1,4,19,77,6,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,KIRTLAND HILLS,640,1,0,0,0,0,1,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Lake County,Mentor,MENTOR,"46,852",51,"1,034",0,10,11,30,105,899,30,6,Lake County,Mentor,,,,,,,,,,,,,,,
-#N/A,#N/A,MENTOR-ON-THE-LAKE,"7,375",10,91,0,1,0,9,19,67,5,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Lake County,Painesville,PAINESVILLE,"19,827",8,9,0,0,1,7,3,5,1,0,Lake County,Painesville,,,,,,,,,,,,,,,
-#N/A,#N/A,WAITE HILL,464,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Lake County,Wickliffe,WICKLIFFE,"12,506",17,233,0,0,9,8,41,178,14,0,Lake County,Wickliffe,,,,,,,,,,,,,,,
-Lake County,Willoughby,WILLOUGHBY,"22,701",45,478,1,8,21,15,62,394,22,1,Lake County,Willoughby,,,,,,,,,,,,,,,
-#N/A,#N/A,LAKELAND COMMUNITY COLLEGE,0,0,11,0,0,0,0,0,11,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,KIRTLAND,"6,780",3,27,0,2,0,1,4,23,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LAKE COUNTY SHERIFF,"45,181",240,341,0,15,10,215,93,244,4,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LAKE METROPARKS,0,3,11,0,0,2,1,0,11,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,IRONTON,"10,856",21,270,0,3,7,11,70,190,10,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CHESAPEAKE,722,1,9,0,1,0,0,0,9,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SOUTH POINT,"3,917",3,28,0,1,1,1,4,23,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LAWRENCE COUNTY SHERIFF,"42,921",75,663,1,19,8,47,191,443,29,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,REYNOLDSBURG,"9,005",19,325,1,2,8,8,38,274,13,2,Franklin County,Reynoldsburg,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW ALBANY,130,0,2,0,0,0,0,0,2,0,0,Franklin County,New Albany,,,,,,,,,,,,,,,
-#N/A,#N/A,NEWARK,"48,055",10,426,0,2,4,4,125,283,18,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GRANVILLE,"5,762",0,41,0,0,0,0,5,35,1,0,Licking County,Granville,,,,,,,,,,,,,,,
-#N/A,#N/A,HEATH,"10,528",23,664,0,10,2,11,155,488,21,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JOHNSTOWN,"4,973",6,79,0,1,0,5,9,69,1,0,Licking County,Johnstown,,,,,,,,,,,,,,,
-#N/A,#N/A,UTICA,"2,186",5,16,1,1,0,3,4,11,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LICKING COUNTY SHERIFF,"64,681",24,810,0,11,9,4,292,479,39,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Logan County,Bellefontaine,BELLEFONTAINE,"13,073",23,404,0,8,2,13,59,342,3,1,Logan County,Bellefontaine,,,,,,,,,,,,,,,
-Logan County,Russells Point,RUSSELLS POINT,"1,355",0,26,0,0,0,0,6,19,1,0,Logan County,Russells Point,,,,,,,,,,,,,,,
-Logan County,De Graff,DE GRAFF,"1,259",0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Logan County,West Liberty,WEST LIBERTY,"1,769",3,21,0,0,0,3,8,13,0,0,Logan County,West Liberty,,,,,,,,,,,,,,,
-#N/A,#N/A,LOGAN COUNTY SHERIFF,"25,596",14,368,1,3,0,10,148,210,10,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Lorain County,Elyria,ELYRIA,"53,633",161,"1,483",4,26,71,60,344,"1,042",97,8,Lorain County,Elyria,,,,,,,,,,,,,,,
-Lorain County,Vermilion,VERMILION,"5,783",2,60,0,0,0,2,8,50,2,0,Lorain County,Vermilion,,,,,,,,,,,,,,,
-Lorain County,Amherst,AMHERST,"12,156",7,188,0,1,3,3,21,164,3,0,Lorain County,Amherst,,,,,,,,,,,,,,,
-Lorain County,Avon Lake,AVON LAKE,"23,625",1,8,0,0,0,1,1,7,0,0,Lorain County,Avon Lake,,,,,,,,,,,,,,,
-Lorain County,Lorain,LORAIN,"63,561",127,778,6,14,43,64,287,463,28,12,Lorain County,Lorain,,,,,,,,,,,,,,,
-Lorain County,Oberlin,OBERLIN,"8,342",38,212,0,27,4,7,27,184,1,0,Lorain County,Oberlin,,,,,,,,,,,,,,,
-Lorain County,North Ridgeville,NORTH RIDGEVILLE,"33,095",12,193,1,4,3,4,37,154,2,0,Lorain County,North Ridgeville,,,,,,,,,,,,,,,
-Lorain County,Grafton,GRAFTON,"6,105",4,38,1,0,2,1,10,28,0,0,Lorain County,Grafton,,,,,,,,,,,,,,,
-#N/A,#N/A,LORAIN COUNTY SHERIFF,"60,135",50,686,0,17,8,25,260,385,41,4,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LORAIN COUNTY METRO PARKS ,0,0,3,0,0,0,0,0,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Lucas County,Toledo,TOLEDO,"278,366","3,319","11,191",37,316,803,"2,163","3,381","7,081",729,0,Lucas County,Toledo,,,,,,,,,,,,,,,
-#N/A,#N/A,SWANTON,135,0,1,0,0,0,0,0,1,0,0,Fulton County,Swanton,,,,,,,,,,,,,,,
-Lucas County,Maumee,MAUMEE,"13,875",15,380,0,8,3,4,37,336,7,0,Lucas County,Maumee,,,,,,,,,,,,,,,
-Lucas County,Oregon,OREGON,"20,055",37,665,0,5,6,26,85,553,27,1,Lucas County,Oregon,,,,,,,,,,,,,,,
-#N/A,#N/A,OTTAWA HILLS,"4,429",1,37,0,0,0,1,10,24,3,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SYLVANIA TOWNSHIP,"29,416",18,632,0,2,7,9,99,507,26,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Lucas County,Holland,HOLLAND,"1,698",6,288,0,1,5,0,21,266,1,0,Lucas County,Holland,,,,,,,,,,,,,,,
-Lucas County,Waterville,WATERVILLE,"5,511",2,29,0,0,1,1,4,24,1,0,Lucas County,Waterville,,,,,,,,,,,,,,,
-Lucas County,Whitehouse,WHITEHOUSE,"4,528",1,30,0,0,0,1,4,23,3,0,Lucas County,Whitehouse,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIVERSITY OF TOLED,0,10,207,0,6,3,1,14,192,1,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WASHINGTON TOWNSHIP,"3,239",1,6,0,0,0,1,3,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WATERVILLE TOWNSHIP,"1,653",0,6,0,0,0,0,0,6,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TOLEDO FIRE DPT FIR,0,0,0,0,0,0,0,0,0,0,152,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TOLEDO METRO PARK DISTRICT ,0,1,10,0,1,0,0,1,9,0,5,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LUCAS COUNTY SHERIFF,"49,471",128,852,3,26,31,68,240,518,94,5,#N/A,#N/A,,,,,,,,,,,,,,,
-Madison County,London,LONDON,"10,092",7,284,0,2,2,3,48,221,15,0,Madison County,London,,,,,,,,,,,,,,,
-Madison County,West Jefferson,WEST JEFFERSON,"4,291",3,101,0,0,1,2,14,84,3,0,Madison County,West Jefferson,,,,,,,,,,,,,,,
-#N/A,#N/A,PLAIN CITY,"3,490",1,15,0,0,0,1,2,12,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MADISON COUNTY SHERIFF,"25,945",20,444,0,8,4,8,148,274,22,7,#N/A,#N/A,,,,,,,,,,,,,,,
-Mahoning County,Boardman,BOARDMAN,"39,692",54,"1,346",0,6,22,26,189,"1,126",31,5,Mahoning County,Boardman,,,,,,,,,,,,,,,
-Mahoning County,Youngstown,YOUNGSTOWN,"64,170",415,"2,426",12,28,151,224,921,"1,264",241,137,Mahoning County,Youngstown,,,,,,,,,,,,,,,
-#N/A,#N/A,COLUMBIANA,665,0,9,0,0,0,0,2,7,0,0,Columbiana County,Columbiana,,,,,,,,,,,,,,,
-#N/A,#N/A,SALEM,4,0,0,0,0,0,0,0,0,0,0,Columbiana County,Salem,,,,,,,,,,,,,,,
-#N/A,#N/A,WASHINGTONVILLE,337,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Mahoning County,Austintown,AUSTINTOWN,"35,680",52,818,0,9,13,30,114,674,30,0,Mahoning County,Austintown,,,,,,,,,,,,,,,
-#N/A,#N/A,CAMPBELL,"7,936",4,41,0,3,1,0,15,21,5,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Mahoning County,Canfield,CANFIELD,"7,323",1,60,0,1,0,0,8,52,0,0,Mahoning County,Canfield,,,,,,,,,,,,,,,
-#N/A,#N/A,LOWELLVILLE,"1,098",0,3,0,0,0,0,1,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,POLAND VILLAGE,"2,471",1,11,0,1,0,0,1,10,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SEBRING,"4,240",4,149,0,1,1,2,25,121,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Mahoning County,Struthers,STRUTHERS,"10,314",27,244,0,1,8,18,75,161,8,0,Mahoning County,Struthers,,,,,,,,,,,,,,,
-Mahoning County,Craig Beach,CRAIG BEACH,"1,137",0,3,0,0,0,0,0,3,0,0,Mahoning County,Craig Beach,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW MIDDLETOWN,"1,568",1,10,0,0,0,1,2,8,0,0,Mahoning County,New Middletown,,,,,,,,,,,,,,,
-#N/A,#N/A,BEAVER TOWNSHIP,"6,492",4,95,0,0,0,4,31,56,8,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,YOUNGSTOWN STATE UNIVERSITY,0,5,29,4,0,0,1,1,28,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Mahoning County,New Springfield,SPRINGFIELD TOWNSHIP,"6,446",3,76,0,2,0,1,32,40,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GOSHEN TOWNSHIP,"3,106",5,76,0,0,0,5,17,57,2,0,Clermont County,Goshen,,,,,,,,,,,,,,,
-#N/A,#N/A,MILTON TOWNSHIP,"2,470",1,33,0,1,0,0,9,23,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JACKSON TOWNSHIP,"2,042",1,16,0,0,0,1,4,10,2,0,Mahoning County,North Jackson,,,,,,,,,,,,,,,
-#N/A,#N/A,POLAND TOWNSHIP,"12,052",3,66,0,1,0,2,16,48,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,COITSVILLE TOWNSHIP,"1,344",3,35,0,0,0,3,14,18,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ALLIANCE,39,0,1,0,0,0,0,0,1,0,0,Stark County,Alliance,,,,,,,,,,,,,,,
-#N/A,#N/A,MAHONING COUNTY SHERIFF,"15,411",1,94,0,0,0,1,30,53,11,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MARION,"36,278",107,"1,320",1,22,37,47,517,772,31,9,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MARION COUNTY SHERIFF,"28,776",38,"1,175",0,19,12,7,166,"1,001",8,4,#N/A,#N/A,,,,,,,,,,,,,,,
-Medina County,Brunswick,BRUNSWICK,"34,774",25,224,0,1,0,24,28,182,14,1,Medina County,Brunswick,,,,,,,,,,,,,,,
-Medina County,Medina,MEDINA,"26,280",13,119,1,5,1,6,12,107,0,0,Medina County,Medina,,,,,,,,,,,,,,,
-Medina County,Wadsworth,WADSWORTH,"21,910",24,479,0,7,2,15,40,436,3,4,Medina County,Wadsworth,,,,,,,,,,,,,,,
-#N/A,#N/A,WESTFIELD CENTER,"1,137",0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Medina County,Lodi,LODI,"2,770",0,1,0,0,0,0,1,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Medina County,Spencer,SPENCER,766,0,6,0,0,0,0,0,6,0,0,Medina County,Spencer,,,,,,,,,,,,,,,
-Medina County,Hinckley,HINCKLEY TOWNSHIP,"8,041",6,28,2,0,0,4,15,13,0,0,Medina County,Hinckley,,,,,,,,,,,,,,,
-#N/A,#N/A,MONTVILLE TOWNSHIP,"11,815",2,46,0,1,0,1,8,38,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MEDINA TOWNSHIP,"9,015",5,141,0,2,0,3,13,126,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BRUNSWICK HILLS TOWNSHIP,"10,402",5,38,0,0,0,5,9,29,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,RITTMAN,114,0,2,0,0,0,0,1,1,0,0,Wayne County,Rittman,,,,,,,,,,,,,,,
-#N/A,#N/A,CRESTON,92,0,0,0,0,0,0,0,0,0,0,Wayne County,Creston,,,,,,,,,,,,,,,
-#N/A,#N/A,MEDINA COUNTY SHERIFF,"47,486",2,106,0,0,0,2,36,70,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MIDDLEPORT,"2,464",4,17,0,0,1,3,4,13,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,POMEROY,"1,815",0,3,0,0,0,0,0,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,RACINE,659,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,RUTLAND,379,0,4,0,0,0,0,1,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SYRACUSE,820,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MEIGS COUNTY SHERIFF,"16,996",36,232,2,4,6,24,71,146,15,5,#N/A,#N/A,,,,,,,,,,,,,,,
-Mercer County,Coldwater,COLDWATER,"4,501",0,20,0,0,0,0,2,17,1,0,Mercer County,Coldwater,,,,,,,,,,,,,,,
-Mercer County,Fort Recovery,FORT RECOVERY,"1,430",1,6,0,1,0,0,0,6,0,0,Mercer County,Fort Recovery,,,,,,,,,,,,,,,
-Mercer County,Rockford,ROCKFORD,"1,105",2,6,0,1,1,0,2,4,0,0,Mercer County,Rockford,,,,,,,,,,,,,,,
-#N/A,#N/A,MERCER COUNTY SHERIFF,"21,004",11,138,0,3,1,7,18,111,9,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Miami County,Piqua,PIQUA,"20,845",39,882,1,19,13,6,135,728,19,7,Miami County,Piqua,,,,,,,,,,,,,,,
-Miami County,Tipp City,TIPP CITY,"9,941",7,181,0,1,1,5,23,148,10,1,Miami County,Tipp City,,,,,,,,,,,,,,,
-Miami County,Troy,TROY,"25,745",22,724,0,13,3,6,145,567,12,6,Miami County,Troy,,,,,,,,,,,,,,,
-Miami County,Covington,COVINGTON,"2,633",3,29,0,0,2,1,2,27,0,0,Miami County,Covington,,,,,,,,,,,,,,,
-#N/A,#N/A,HUBER HEIGHTS,989,2,33,0,0,1,1,5,26,2,0,Dayton,Huber Heights,,,,,,,,,,,,,,,
-#N/A,#N/A,MIAMI COUNTY SHERIFF,"39,534",24,372,0,12,2,10,107,252,13,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WOODSFIELD,"2,343",0,5,0,0,0,0,1,3,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MONROE COUNTY SHERIFF,"12,014",11,56,0,5,0,6,19,31,6,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Montgomery County,Dayton,DAYTON,"140,260","1,402","7,235",36,133,496,737,"2,269","4,252",714,80,Dayton,Dayton,,,,,,,,,,,,,,,
-Montgomery County,Centerville,CENTERVILLE,"23,851",13,352,0,0,3,10,41,290,21,0,Dayton,Centerville,,,,,,,,,,,,,,,
-Montgomery County,Germantown,GERMANTOWN,"5,495",6,40,0,0,0,6,5,34,1,0,Dayton,Germantown,,,,,,,,,,,,,,,
-Montgomery County,Kettering,KETTERING,"54,915",73,"1,000",0,26,26,21,221,726,53,10,Dayton,Kettering,,,,,,,,,,,,,,,
-#N/A,#N/A,MIAMI TOWNSHIP,"29,140",39,"1,159",0,16,11,12,130,985,44,3,#N/A,#N/A,,,,,,,,,,,,,,,
-Montgomery County,Miamisburg,MIAMISBURG,"20,000",20,228,0,4,12,4,40,178,10,1,Dayton,Miamisburg,,,,,,,,,,,,,,,
-#N/A,#N/A,MORAINE,"6,385",34,684,1,14,10,9,82,565,37,3,Dayton,Moraine,,,,,,,,,,,,,,,
-Montgomery County,Clayton,CLAYTON,"13,129",6,135,0,0,3,3,27,97,11,0,Dayton,Clayton,,,,,,,,,,,,,,,
-Montgomery County,Trotwood,TROTWOOD,"24,024",90,962,11,20,37,22,341,506,115,11,Dayton,Trotwood,,,,,,,,,,,,,,,
-Montgomery County,Vandalia,VANDALIA,"15,073",14,328,0,2,9,3,63,232,33,3,Dayton,Vandalia,,,,,,,,,,,,,,,
-#N/A,#N/A,HUBER HEIGHTS,"37,191",82,"1,237",1,19,29,33,171,977,89,10,Dayton,Huber Heights,,,,,,,,,,,,,,,
-#N/A,#N/A,WEST CARROLLTON,"12,944",22,358,0,8,6,8,87,235,36,4,Dayton,West Carrollton,,,,,,,,,,,,,,,
-Montgomery County,Brookville,BROOKVILLE,"5,902",7,59,0,5,1,1,15,43,1,0,Dayton,Brookville,,,,,,,,,,,,,,,
-#N/A,#N/A,ENGLEWOOD,"13,455",13,409,0,2,5,6,30,367,12,0,Dayton,Englewood,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW LEBANON,"4,001",9,116,0,0,2,7,26,79,11,0,Dayton,New Lebanon,,,,,,,,,,,,,,,
-#N/A,#N/A,RIVERSIDE,"24,920",51,618,1,15,16,19,133,429,56,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BUTLER TOWNSHIP,"7,856",36,458,0,10,18,8,51,382,25,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GERMAN TOWNSHIP,"2,893",1,42,0,0,0,1,13,26,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JACKSON TOWNSHIP,"3,682",1,14,0,0,0,1,3,10,1,0,Mahoning County,North Jackson,,,,,,,,,,,,,,,
-#N/A,#N/A,PERRY TOWNSHIP,"3,346",1,9,0,0,0,1,4,5,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Montgomery County,Clayton,CLAY TOWNSHIP,"4,217",2,20,0,2,0,0,6,14,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SINCLAIR COMMUNITY COLLEGE ,0,0,40,0,0,0,0,11,29,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CARLISLE,214,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SPRINGBORO,"1,260",0,7,0,0,0,0,1,6,0,0,Warren County,Springboro,,,,,,,,,,,,,,,
-#N/A,#N/A,MONTGOMERY COUNTY SHERIFF,"61,169",234,"1,440",7,50,89,88,527,723,190,23,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MCCONNELSVILLE,"1,790",4,29,0,2,0,2,5,22,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MORGAN COUNTY SHERIFF,"12,911",24,172,0,5,1,18,57,101,14,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CARDINGTON,"2,047",2,27,0,2,0,0,6,20,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Muskingum County,Zanesville,ZANESVILLE,"25,494",93,"1,288",0,18,28,47,230,"1,036",22,10,Muskingum County,Zanesville,,,,,,,,,,,,,,,
-Muskingum County,Dresden,DRESDEN,"1,736",2,0,0,0,0,2,0,0,0,0,Muskingum County,Dresden,,,,,,,,,,,,,,,
-Muskingum County,Frazeysburg,FRAZEYSBURG,"1,321",1,16,0,1,0,0,1,12,3,0,Muskingum County,Frazeysburg,,,,,,,,,,,,,,,
-Muskingum County,New Concord,NEW CONCORD,"2,317",0,15,0,0,0,0,1,14,0,0,Muskingum County,New Concord,,,,,,,,,,,,,,,
-Muskingum County,Roseville,ROSEVILLE,755,3,14,0,0,0,3,4,9,1,0,Muskingum County,Roseville,,,,,,,,,,,,,,,
-#N/A,#N/A,SOUTH ZANESVILLE,"1,974",1,22,0,0,1,0,6,15,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MUSKINGUM UNIVERSITY,0,1,8,0,1,0,0,4,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MUSKINGUM COUNTY SHERIFF,"52,599",48,"1,029",0,27,9,12,310,653,66,5,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NOBLE COUNTY SHERIFF,"12,569",0,88,0,0,0,0,24,59,5,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Ottawa County,Oak Harbor,OAK HARBOR,"2,705",1,42,0,1,0,0,5,37,0,0,Ottawa County,Oak Harbor,,,,,,,,,,,,,,,
-Ottawa County,Port Clinton,PORT CLINTON,"5,939",13,170,0,8,2,3,38,129,3,1,Ottawa County,Port Clinton,,,,,,,,,,,,,,,
-Ottawa County,Genoa,GENOA,"2,301",1,5,0,0,0,1,0,5,0,0,Ottawa County,Genoa,,,,,,,,,,,,,,,
-Ottawa County,Marblehead,MARBLEHEAD,885,0,2,0,0,0,0,0,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Ottawa County,Put in Bay,PUT-IN-BAY,136,3,1,0,0,0,3,0,1,0,0,Ottawa County,Put in Bay,,,,,,,,,,,,,,,
-#N/A,#N/A,CARROLL TOWNSHIP,"2,109",1,31,0,1,0,0,3,26,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OTTAWA COUNTY SHERIFF,"19,724",8,231,0,5,2,1,50,178,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PAYNE,"1,148",0,4,0,0,0,0,0,3,1,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Paulding County,Paulding,PAULDING COUNTY SHERIFF,"13,259",14,138,1,7,1,5,39,99,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ROSEVILLE,"1,096",5,20,0,0,0,5,5,14,1,0,Muskingum County,Roseville,,,,,,,,,,,,,,,
-Perry County,Crooksville,CROOKSVILLE,"2,491",0,2,0,0,0,0,0,1,1,0,Perry County,Crooksville,,,,,,,,,,,,,,,
-Perry County,New Lexington,NEW LEXINGTON,"4,721",12,188,0,5,1,6,34,149,5,0,Perry County,New Lexington,,,,,,,,,,,,,,,
-#N/A,#N/A,JUNCTION CITY,808,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SHAWNEE,644,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Perry County,Somerset,SOMERSET,"1,461",0,4,0,0,0,0,0,4,0,0,Perry County,Somerset,,,,,,,,,,,,,,,
-Perry County,Thornville,THORNVILLE,997,0,12,0,0,0,0,0,12,0,0,Perry County,Thornville,,,,,,,,,,,,,,,
-#N/A,#N/A,PERRY COUNTY SHERIFF,"22,424",15,150,0,10,2,3,42,105,3,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Pickaway County,Circleville,CIRCLEVILLE,"13,930",37,674,0,5,12,20,97,569,8,0,Pickaway County,Circleville,,,,,,,,,,,,,,,
-Pickaway County,Ashville,ASHVILLE,"4,207",1,67,0,1,0,0,15,49,3,0,Pickaway County,Ashville,,,,,,,,,,,,,,,
-Pickaway County,Commercial Point,COMMERCIAL POINT,"1,616",2,10,0,2,0,0,0,9,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SOUTH BLOOMFIELD,"1,873",1,35,0,0,0,1,5,28,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PICKAWAY COUNTY SHERIFF,"35,552",29,700,0,3,3,23,173,497,30,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WAVERLY,"4,248",3,93,0,0,1,2,8,83,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PIKETON,"2,139",0,4,0,0,0,0,0,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PIKE COUNTY SHERIFF,"21,691",22,335,1,7,2,12,100,202,33,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Portage County,Aurora,AURORA,"15,897",11,168,0,2,5,4,9,157,2,0,Portage County,Aurora,,,,,,,,,,,,,,,
-Portage County,Garrettsville,GARRETTSVILLE,"2,326",0,9,0,0,0,0,1,8,0,0,Portage County,Garrettsville,,,,,,,,,,,,,,,
-Portage County,Kent,KENT,"29,995",67,496,1,0,13,53,95,385,16,2,Portage County,Kent,,,,,,,,,,,,,,,
-Portage County,Windham,WINDHAM,"2,201",3,32,0,0,1,2,6,26,0,0,Portage County,Windham,,,,,,,,,,,,,,,
-#N/A,#N/A,BRADY LAKE,464,1,5,0,0,0,1,2,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Portage County,Hiram,HIRAM,"1,238",0,1,0,0,0,0,0,1,0,0,Portage County,Hiram,,,,,,,,,,,,,,,
-#N/A,#N/A,KENT STATE UNIVERSITY,0,7,159,0,2,2,3,4,155,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Portage County,Streetsboro,STREETSBORO,"16,364",6,244,0,0,1,5,28,207,9,1,Portage County,Streetsboro,,,,,,,,,,,,,,,
-#N/A,#N/A,BRIMFIELD TOWNSHIP,"10,406",9,243,0,5,3,1,16,221,6,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ROBINSON MEMORIAL HOSPITAL,0,1,2,0,0,0,1,0,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Portage County,Mogadore,MOGADORE,"1,030",0,11,0,0,0,0,2,8,1,0,Portage County,Mogadore,,,,,,,,,,,,,,,
-#N/A,#N/A,TALLMADGE,289,0,6,0,0,0,0,1,5,0,0,Summit County,Tallmadge,,,,,,,,,,,,,,,
-#N/A,#N/A,PORTAGE COUNTY SHERIFF,"70,423",48,"1,109",4,10,13,21,294,778,37,7,#N/A,#N/A,,,,,,,,,,,,,,,
-Preble County,Camden,CAMDEN,"1,955",0,4,0,0,0,0,0,4,0,0,Preble County,Camden,,,,,,,,,,,,,,,
-#N/A,#N/A,GRATIS,855,2,4,0,0,0,2,0,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Preble County,West Alexandria,WEST ALEXANDRIA,"1,334",1,23,0,0,0,1,7,15,1,0,Preble County,West Alexandria,,,,,,,,,,,,,,,
-#N/A,#N/A,PREBLE COUNTY SHERIFF,"27,021",14,307,2,6,3,3,125,169,13,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Putnam County,Ottawa,OTTAWA,"4,385",3,7,0,0,0,3,2,5,0,0,Putnam County,Ottawa,,,,,,,,,,,,,,,
-Putnam County,Columbus Grove,COLUMBUS GROVE,"2,052",1,1,0,1,0,0,0,1,0,0,Putnam County,Columbus Grove,,,,,,,,,,,,,,,
-Putnam County,Leipsic,LEIPSIC,"2,021",1,15,0,0,0,1,3,11,1,0,Putnam County,Leipsic,,,,,,,,,,,,,,,
-#N/A,#N/A,OTTOVILLE,969,1,3,0,0,0,1,1,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Putnam County,Pandora,PANDORA,"1,146",0,4,0,0,0,0,0,4,0,0,Putnam County,Pandora,,,,,,,,,,,,,,,
-#N/A,#N/A,KALIDA,"1,566",0,2,0,0,0,0,1,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PUTNAM COUNTY SHERIFF,"20,339",13,91,1,8,0,4,21,68,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Richland County,Mansfield,MANSFIELD,"46,656",209,"2,605",3,58,63,85,679,"1,805",121,26,Richland County,Mansfield,,,,,,,,,,,,,,,
-#N/A,#N/A,CRESTLINE,18,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ONTARIO,"6,091",5,370,0,1,1,3,16,352,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Richland County,Plymouth,PLYMOUTH,914,1,6,0,1,0,0,2,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SHELBY,"9,012",17,258,0,5,2,10,58,199,1,0,Richland County,Shelby,,,,,,,,,,,,,,,
-Richland County,Bellville,BELLVILLE,"1,863",1,29,0,1,0,0,3,25,1,0,Richland County,Bellville,,,,,,,,,,,,,,,
-Richland County,Lexington,LEXINGTON,"4,715",0,5,0,0,0,0,0,5,0,0,Richland County,Lexington,,,,,,,,,,,,,,,
-#N/A,#N/A,RICHLAND COUNTY SHERIFF,"50,888",57,"1,164",3,24,7,23,447,694,23,5,#N/A,#N/A,,,,,,,,,,,,,,,
-Ross County,Chillicothe,CHILLICOTHE,"21,692",94,"1,747",0,8,34,52,350,"1,355",42,2,Ross County,Chillicothe,,,,,,,,,,,,,,,
-#N/A,#N/A,ROSS COUNTY SHERIFF,"55,194",120,"1,316",1,31,12,76,405,844,67,11,#N/A,#N/A,,,,,,,,,,,,,,,
-Sandusky County,Bellevue,BELLEVUE,"4,411",0,7,0,0,0,0,1,5,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Sandusky County,Clyde,CLYDE,"6,233",3,148,0,0,2,1,39,108,1,1,Sandusky County,Clyde,,,,,,,,,,,,,,,
-Sandusky County,Fremont,FREMONT,"16,215",32,842,2,0,11,19,155,668,19,0,Sandusky County,Fremont,,,,,,,,,,,,,,,
-#N/A,#N/A,SANDUSKY COUNTY SHERIFF,"27,156",54,211,0,0,1,53,41,166,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SANDUSKY COUNTY PARK DISTRICT,0,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PORTSMOUTH,"20,442",75,934,2,14,14,45,256,650,28,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SHAWNEE STATE UNIVERSITY,0,1,28,0,1,0,0,2,26,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SCIOTO COUNTY SHERIFF,"53,601",40,"1,026",0,13,11,16,344,620,62,9,#N/A,#N/A,,,,,,,,,,,,,,,
-Seneca County,Fostoria,FOSTORIA,"9,183",7,29,0,2,2,3,7,21,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Seneca County,Tiffin,TIFFIN,"17,637",13,418,0,5,3,5,76,328,14,0,Seneca County,Tiffin,,,,,,,,,,,,,,,
-#N/A,#N/A,SENECA COUNTY SHERIFF,"24,684",70,319,0,4,64,2,91,228,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Shelby County,Sidney,SIDNEY,"20,797",45,926,0,16,16,13,206,699,21,3,Shelby County,Sidney,,,,,,,,,,,,,,,
-Shelby County,Fort Loramie,FORT LORAMIE,"1,493",0,5,0,0,0,0,0,4,1,0,Shelby County,Fort Loramie,,,,,,,,,,,,,,,
-#N/A,#N/A,SHELBY COUNTY SHERIFF,"24,658",15,245,0,2,1,12,59,177,9,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Stark County,Canton,CANTON,"71,652",677,"3,664",8,77,171,421,951,"2,474",239,18,Stark County,Canton,,,,,,,,,,,,,,,
-#N/A,#N/A,MASSILLON,"32,268",100,684,2,25,27,46,161,498,25,10,Stark County,Massillon,,,,,,,,,,,,,,,
-Stark County,Alliance,ALLIANCE,"21,973",99,769,0,13,11,75,149,601,19,8,Stark County,Alliance,,,,,,,,,,,,,,,
-Stark County,Brewster,BREWSTER,"2,169",0,20,0,0,0,0,2,17,1,0,Stark County,Brewster,,,,,,,,,,,,,,,
-Stark County,Canal Fulton,CANAL FULTON,"5,489",2,73,0,2,0,0,14,56,3,0,Stark County,Canal Fulton,,,,,,,,,,,,,,,
-#N/A,#N/A,EAST CANTON,"1,602",1,18,0,1,0,0,0,18,0,1,Stark County,East Canton,,,,,,,,,,,,,,,
-Stark County,Hartville,HARTVILLE,"2,974",1,53,0,0,1,0,8,45,0,0,Stark County,Hartville,10,128,OH07609,6,MINERVA,"1,724",2,22,,,,2,,21,1
-Stark County,Louisville,LOUISVILLE,"9,115",14,114,0,2,2,10,24,84,6,0,Stark County,Louisville,10,128,OH07630,7,MAGNOLIA,258,1,11,,,,1,3,7,1
-Stark County,Minerva,MINERVA,"1,944",3,24,1,0,0,2,0,23,1,0,Stark County,Minerva,,,,,,,,,,,,,,,
-Stark County,Navarre,NAVARRE,"1,916",0,19,0,0,0,0,4,15,0,0,Stark County,Navarre,,,,,COUNTY TOTAL,"1,982",3,33,,,,3,3,28,2
-Stark County,North Canton,NORTH CANTON,"17,435",9,271,0,3,2,4,44,219,8,1,Stark County,North Canton,,,,,,,,,,,,,,,
-Stark County,Beach City,BEACH CITY,"1,007",0,0,0,0,0,0,0,0,0,0,Stark County,Beach City,,,,,,,,,,,,,,,
-#N/A,#N/A,LAWRENCE TOWNSHIP,"8,265",2,71,0,0,0,2,23,45,3,0,Stark County,North Lawrence,,,,,,,,,,,,,,,
-#N/A,#N/A,JACKSON TOWNSHIP,"40,780",72,"1,234",0,14,31,27,126,"1,087",21,3,Mahoning County,North Jackson,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIONTOWN,"3,330",2,81,0,1,0,1,21,58,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Stark County,Magnolia,MAGNOLIA,714,1,33,0,0,0,1,10,20,3,0,Stark County,Magnolia,,,,,,,,,,,,,,,
-#N/A,#N/A,STARK COUNTY SHERIFF,"117,913",89,"1,659",1,22,17,49,379,"1,146",134,10,#N/A,#N/A,,,,,,,,,,,,,,,
-Summit County,Akron,AKRON,"197,257","1,216","8,646",34,212,415,555,"2,483","5,483",680,94,Summit County,Akron,,,,,,,,,,,,,,,
-Summit County,Barberton,BARBERTON,"26,172",75,799,0,17,10,48,145,614,40,3,Summit County,Barberton,,,,,,,,,,,,,,,
-Summit County,Cuyahoga Falls,CUYAHOGA FALLS,"49,064",67,"1,143",0,24,14,29,116,977,50,5,Summit County,Cuyahoga Falls,,,,,,,,,,,,,,,
-Summit County,Hudson,HUDSON,"22,470",4,92,0,1,0,3,27,62,3,0,Summit County,Hudson,,,,,,,,,,,,,,,
-Summit County,Macedonia,MACEDONIA,"11,794",8,197,0,1,4,3,11,183,3,0,Summit County,Macedonia,,,,,,,,,,,,,,,
-#N/A,#N/A,MOGADORE,"2,889",1,30,0,0,0,1,6,23,1,0,Portage County,Mogadore,,,,,,,,,,,,,,,
-Summit County,Northfield,NORTHFIELD,"3,630",2,46,0,0,1,1,4,40,2,0,Summit County,Northfield,,,,,,,,,,,,,,,
-#N/A,#N/A,NORTON,"12,022",5,135,0,1,1,3,37,84,14,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,STOW,"34,792",30,642,0,11,5,14,66,569,7,2,Summit County,Stow,,,,,,,,,,,,,,,
-Summit County,Tallmadge,TALLMADGE,"17,213",23,397,0,4,9,10,72,310,15,0,Summit County,Tallmadge,,,,,,,,,,,,,,,
-Summit County,Twinsburg,TWINSBURG,"18,888",20,131,1,1,5,13,19,109,3,1,Summit County,Twinsburg,,,,,,,,,,,,,,,
-#N/A,#N/A,BOSTON HEIGHTS,"1,290",0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Summit County,Munroe Falls,MUNROE FALLS,"5,012",2,40,0,1,0,1,5,35,0,2,Summit County,Munroe Falls,,,,,,,,,,,,,,,
-Summit County,Peninsula,PENINSULA,572,1,27,0,0,1,0,3,24,0,0,Summit County,Peninsula,,,,,,,,,,,,,,,
-#N/A,#N/A,REMINDERVILLE,"4,097",0,30,0,0,0,0,1,28,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BATH TOWNSHIP,"9,896",4,156,0,1,0,3,13,141,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SPRINGFIELD TOWNSHIP,"17,813",34,895,0,10,4,20,119,748,28,3,#N/A,#N/A,,,,,,,,,,,,,,,
-Summit County,Copley,COPLEY TOWNSHIP,"17,653",5,108,0,2,1,2,12,91,5,0,Summit County,Copley,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIVERSITY OF AKRON,0,10,191,0,3,5,2,10,172,9,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW FRANKLIN,"14,285",9,110,0,1,2,6,30,74,6,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SAGAMORE HILLS,"11,184",4,46,0,3,1,0,8,37,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SUMMIT COUNTY SHERIFF,"49,694",63,"1,050",1,22,13,27,214,791,45,7,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,YOUNGSTOWN,11,0,0,0,0,0,0,0,0,0,0,Mahoning County,Youngstown,,,,,,,,,,,,,,,
-Trumbull County,Warren,WARREN,"40,005",228,"1,509",2,27,90,109,511,905,93,6,Trumbull County,Warren,,,,,,,,,,,,,,,
-Trumbull County,Hubbard,HUBBARD,"7,609",10,133,0,0,0,10,21,107,5,1,Trumbull County,Hubbard,,,,,,,,,,,,,,,
-#N/A,#N/A,LIBERTY TOWNSHIP,"11,655",32,188,1,1,7,23,42,132,14,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Trumbull County,Newton Falls,NEWTON FALLS,"4,628",9,92,0,3,2,4,17,72,3,0,Trumbull County,Newton Falls,,,,,,,,,,,,,,,
-Trumbull County,Niles,NILES,"18,538",53,524,1,8,21,23,79,431,14,1,Trumbull County,Niles,,,,,,,,,,,,,,,
-Trumbull County,Cortland,CORTLAND,"6,894",1,77,0,0,0,1,15,59,3,0,Trumbull County,Cortland,,,,,,,,,,,,,,,
-#N/A,#N/A,HOWLAND TOWNSHIP,"16,759",13,384,0,1,2,10,73,295,16,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Trumbull County,Lordstown,LORDSTOWN,"3,278",1,5,0,1,0,0,0,5,0,0,Trumbull County,Lordstown,,,,,,,,,,,,,,,
-#N/A,#N/A,BAZETTA TOWNSHIP,"5,683",2,207,0,0,0,2,14,190,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HUBBARD TOWNSHIP,"5,434",2,12,0,0,0,2,2,10,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HARTFORD TOWNSHIP,"1,999",0,8,0,0,0,0,0,8,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WARREN TOWNSHIP,"5,320",16,126,0,3,2,11,53,65,8,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WEATHERSFIELD,"8,035",4,73,0,1,2,1,22,44,7,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Trumbull County,Vienna Center,VIENNA TOWNSHIP,"3,817",5,65,0,1,0,4,15,49,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TRUMBULL COUNTY SHERIFF,"26,911",19,332,1,4,3,11,130,174,28,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Tuscarawas County,Dennison,DENNISON,"2,638",2,12,0,0,0,2,0,12,0,0,Tuscarawas County,Dennison,,,,,,,,,,,,,,,
-#N/A,#N/A,DOVER,"12,906",12,96,1,4,1,6,15,80,1,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEWCOMERSTOWN,"3,789",5,82,1,1,0,3,15,62,5,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW PHILADELPHIA,"17,526",3,188,0,1,0,2,9,177,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UHRICHSVILLE,"5,403",3,45,0,1,0,2,3,41,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BOLIVAR,992,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GNADENHUTTEN,"1,289",1,12,0,0,0,1,0,11,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PORT WASHINGTON,570,0,5,0,0,0,0,1,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,STRASBURG,"2,693",0,21,0,0,0,0,1,19,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TUSCARAWAS,"1,056",0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MUSKINGUM WATERSHED,0,3,40,0,0,0,3,5,33,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TUSCARAWAS COUNTY SHERIFF,"41,022",10,346,0,4,1,5,107,215,24,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DUBLIN,"2,492",0,28,0,0,0,0,5,22,1,0,Franklin County,Dublin,,,,,,,,,,,,,,,
-Union County,Plain City,PLAIN CITY,828,0,3,0,0,0,0,0,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Union County,Marysville,MARYSVILLE,"22,952",7,144,0,2,1,4,15,123,6,1,Union County,Marysville,,,,,,,,,,,,,,,
-#N/A,#N/A,UNION COUNTY SHERIFF,"26,024",17,173,0,7,1,9,48,113,12,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DELPHOS,"3,127",0,68,0,0,0,0,11,56,1,0,Allen County,Delphos,,,,,,,,,,,,,,,
-Van Wert County,Van Wert,VAN WERT,"10,794",29,353,0,10,1,18,86,262,5,0,Van Wert County,Van Wert,,,,,,,,,,,,,,,
-#N/A,#N/A,VAN WERT COUNTY SHERIFF,"14,584",9,138,1,7,0,1,46,88,4,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MCARTHUR,"1,656",2,27,0,2,0,0,8,18,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,VINTON COUNTY SHERIFF,"11,302",20,108,0,8,2,10,50,54,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MIDDLETOWN,"2,701",13,181,0,2,4,7,43,131,7,0,Butler County,Middletown,,,,,,,,,,,,,,,
-#N/A,#N/A,MONROE,144,0,4,0,0,0,0,0,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LOVELAND,815,0,9,0,0,0,0,1,7,1,0,Clermont County,Loveland,,,,,,,,,,,,,,,
-Warren County,Franklin,FRANKLIN,"11,782",23,542,1,4,10,8,136,390,16,0,Warren County,Franklin,,,,,,,,,,,,,,,
-#N/A,#N/A,LEBANON,"20,726",22,361,1,7,5,9,40,313,8,4,Warren County,Lebanon,,,,,,,,,,,,,,,
-Warren County,Mason,MASON,"33,026",6,330,0,3,2,1,17,305,8,1,Warren County,Mason,,,,,,,,,,,,,,,
-#N/A,#N/A,CARLISLE,"5,109",4,24,0,0,2,2,6,16,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HAMILTON TOWNSHIP,"22,670",2,58,0,1,0,1,7,50,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Warren County,Maineville,MAINEVILLE,992,0,2,0,0,0,0,1,1,0,0,Warren County,Maineville,,,,,,,,,,,,,,,
-Warren County,Springboro,SPRINGBORO,"17,119",11,96,0,6,1,4,8,82,6,0,Warren County,Springboro,,,,,,,,,,,,,,,
-#N/A,#N/A,CLEARCREEK TOWNSHIP,"15,322",4,92,1,2,0,1,18,73,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WARREN COUNTY SHERIFF,"92,439",58,912,0,11,13,34,150,703,59,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Washington County,Belpre,BELPRE,"6,484",11,107,0,3,2,6,13,85,9,1,Washington County,Belpre,,,,,,,,,,,,,,,
-Washington County,Marietta,MARIETTA,"13,867",8,101,0,2,4,2,16,82,3,1,Washington County,Marietta,,,,,,,,,,,,,,,
-#N/A,#N/A,MARIETTA COLLEGE,0,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WASHINGTON COUNTY SHERIFF,"37,826",31,305,1,6,1,23,94,190,21,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NORTON,4,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Wayne County,Orrville,ORRVILLE,"8,514",16,111,3,4,1,8,30,80,1,1,Wayne County,Orrville,,,,,,,,,,,,,,,
-Wayne County,Rittman,RITTMAN,"6,484",4,135,0,1,1,2,36,85,14,2,Wayne County,Rittman,,,,,,,,,,,,,,,
-Wayne County,Wooster,WOOSTER,"26,883",73,776,0,24,14,35,127,633,16,10,Wayne County,Wooster,,,,,,,,,,,,,,,
-Wayne County,Apple Creek,APPLE CREEK,"1,186",0,5,0,0,0,0,1,4,0,0,Wayne County,Apple Creek,,,,,,,,,,,,,,,
-#N/A,#N/A,CRESTON,"2,093",0,15,0,0,0,0,4,8,3,0,Wayne County,Creston,,,,,,,,,,,,,,,
-Wayne County,Smithville,SMITHVILLE,"1,273",3,3,0,1,0,2,0,3,0,0,Wayne County,Smithville,,,,,,,,,,,,,,,
-#N/A,#N/A,WAYNE COUNTY SHERIFF,"60,882",32,497,0,12,2,18,202,270,25,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Williams County,Montpelier,MONTPELIER,"3,980",14,146,1,5,3,5,18,113,15,2,Williams County,Montpelier,,,,,,,,,,,,,,,
-Williams County,Pioneer,PIONEER,"1,406",2,23,0,1,0,1,7,16,0,0,Williams County,Pioneer,,,,,,,,,,,,,,,
-#N/A,#N/A,WILLIAMS COUNTY SHERIFF,"19,568",1,0,1,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FOSTORIA,"1,036",0,3,0,0,0,0,1,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Wood County,Bowling Green,BOWLING GREEN,"31,404",42,560,0,19,8,15,64,486,10,1,Wood County,Bowling Green,,,,,,,,,,,,,,,
-Wood County,North Baltimore,NORTH BALTIMORE,"3,568",9,67,0,2,2,5,21,45,1,0,Wood County,North Baltimore,,,,,,,,,,,,,,,
-Wood County,Perrysburg,PERRYSBURG,"21,548",8,244,0,3,3,2,16,223,5,0,Wood County,Perrysburg,,,,,,,,,,,,,,,
-#N/A,#N/A,BLOOMDALE,695,0,1,0,0,0,0,1,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Wood County,Bradner,BRADNER,"1,026",0,4,0,0,0,0,1,3,0,0,Wood County,Bradner,,,,,,,,,,,,,,,
-Wood County,Haskins,HASKINS,"1,241",0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Wood County,Northwood,NORTHWOOD,"5,376",6,133,0,2,3,1,21,110,2,0,Wood County,Northwood,,,,,,,,,,,,,,,
-Wood County,Pemberville,PEMBERVILLE,"1,433",1,3,0,1,0,0,0,3,0,0,Wood County,Pemberville,,,,,,,,,,,,,,,
-Wood County,Wayne,WAYNE,900,0,0,0,0,0,0,0,0,0,0,Wood County,Wayne,,,,,,,,,,,,,,,
-#N/A,#N/A,BOWLING GREEN STATE UNIVERSITY,0,0,135,0,0,0,0,4,130,1,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PERRYSBURG TOWNSHIP,"12,813",6,162,0,1,2,3,28,129,5,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WOOD COUNTY SHERIFF,"29,598",13,358,0,7,1,5,85,251,22,4,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WOOD COUNTY PARK,0,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CAREY,"3,570",0,5,0,0,0,0,2,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UPPER SANDUSKY,"6,515",12,153,2,4,0,6,25,123,5,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WYANDOT COUNTY SHERIFF,"11,229",2,17,0,0,0,2,8,9,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-=======
-County,City,AGENCY NAME,POPULATION,VIOLENT CRIME,PROPERTY CRIME,MURDER,RAPE,ROBBERY,AGGRAVATED ASSAULT,BURGLARY,LARCENY,MTR VEHICLE THEFT,ARSON,,,,,,,,,,,,,,,,,
-#N/A,#N/A,,0,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OHIO DEPARTMENT OF NATURAL RESOURCES,0,2,17,0,0,1,1,2,15,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OHIO STATE HGHWAY PATROL ,0,291,233,1,35,4,251,12,179,42,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MANCHESTER,"1,967",3,31,0,1,2,0,12,18,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PEEBLES,"1,758",3,6,0,0,1,2,4,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WEST UNION,"3,167",5,44,0,0,0,5,15,23,6,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SEAMAN,920,0,19,0,0,0,0,9,9,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WINCHESTER,"1,032",0,3,0,0,0,0,2,1,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ADAMS COUNTY SHERIFF,"19,039",6,157,0,3,0,3,57,83,17,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Allen County,Lima,LIMA,"37,715",356,"2,259",8,44,123,181,602,"1,540",117,22,Allen County,Lima,,,,,,,,,,,,,,,
-Allen County,Bluffton,BLUFFTON,"3,953",1,78,0,0,1,0,15,59,4,0,Allen County,Bluffton,,,,,,,,,,,,,,,
-Allen County,Delphos,DELPHOS,"3,884",2,83,0,1,0,1,13,69,1,0,Allen County,Delphos,,,,,,,,,,,,,,,
-Allen County,Spencerville,SPENCERVILLE,"2,195",1,28,0,0,0,1,5,23,0,1,Allen County,Spencerville,,,,,,,,,,,,,,,
-Allen County,Elida,ELIDA,"1,852",0,16,0,0,0,0,3,12,1,0,Allen County,Elida,,,,,,,,,,,,,,,
-#N/A,#N/A,SHAWNEE TOWNSHIP,"12,173",7,144,0,4,0,3,40,99,5,0,Allen County,Fort Shawnee,,,,,,,,,,,,,,,
-#N/A,#N/A,AMERICAN TOWNSHIP,"12,254",6,167,0,0,3,3,10,152,5,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MARION TOWNSHIP,"2,910",0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ALLEN COUNTY SHERIFF,"23,534",27,870,0,6,14,7,205,639,26,3,#N/A,#N/A,,,,,,,,,,,,,,,
-Ashland County,Ashland,ASHLAND,"20,278",24,405,2,14,1,7,73,325,7,1,Ashland County,Ashland,,,,,,,,,,,,,,,
-Ashland County,Loudonville,LOUDONVILLE,"2,561",14,46,0,7,0,7,4,41,1,0,Ashland County,Loudonville,,,,,,,,,,,,,,,
-Ashland County,Ashland,ASHLAND COUNTY SHERIFF,"29,425",31,190,1,15,4,11,63,116,11,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Ashtabula County,Geneva,GENEVA-ON-THE-LAKE,"1,207",7,27,1,2,0,4,9,17,1,0,Ashtabula County,Geneva,,,,,,,,,,,,,,,
-Ashtabula County,Roaming Shores,ROAMING SHORES VILLAGE,"1,471",0,2,0,0,0,0,0,2,0,0,Ashtabula County,Roaming Shores,,,,,,,,,,,,,,,
-Ashtabula County,Ashtabula,ASHTABULA COUNTY SHERIFF,"49,784",54,640,1,10,14,29,172,438,30,4,Ashtabula County,Ashtabula,,,,,,,,,,,,,,,
-Athens County,Athens,ATHENS,"25,203",27,462,0,6,8,13,47,404,11,1,Athens County,Athens,,,,,,,,,,,,,,,
-Athens County,Glouster,GLOUSTER,"1,798",3,39,0,2,0,1,15,23,1,2,Athens County,Glouster,,,,,,,,,,,,,,,
-Athens County,Nelsonville,NELSONVILLE,"5,159",11,195,0,1,7,3,34,148,13,1,Athens County,Nelsonville,,,,,,,,,,,,,,,
-Athens County,Albany,ALBANY,918,0,20,0,0,0,0,6,13,1,0,Athens County,Albany,,,,,,,,,,,,,,,
-#N/A,#N/A,OHIO UNIVERSITY,0,15,172,0,13,0,2,10,157,5,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Athens County,Athens,ATHENS COUNTY SHERIFF,"31,340",19,458,0,5,3,11,145,284,29,1,Athens County,Athens,,,,,,,,,,,,,,,
-Auglaize County,Saint Marys,ST. MARYS,"8,256",5,130,0,0,2,3,29,98,3,1,Auglaize County,Saint Marys,,,,,,,,,,,,,,,
-Auglaize County,Wapakoneta,WAPAKONETA,"9,815",10,144,0,3,0,7,20,121,3,0,Auglaize County,Wapakoneta,,,,,,,,,,,,,,,
-Auglaize County,Minster,MINSTER,"2,853",0,9,0,0,0,0,2,5,2,0,Auglaize County,Minster,,,,,,,,,,,,,,,
-Auglaize County,New Bremen,NEW BREMEN,"2,961",0,16,0,0,0,0,1,15,0,0,Auglaize County,New Bremen,,,,,,,,,,,,,,,
-Auglaize County,New Knoxville,NEW KNOXVILLE,865,0,5,0,0,0,0,1,4,0,0,Auglaize County,New Knoxville,,,,,,,,,,,,,,,
-#N/A,#N/A,AUGLAIZE COUNTY SHERIFF,"17,933",7,97,0,2,0,5,25,71,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Belmont County,Barnesville,BARNESVILLE,"4,112",1,14,0,0,0,1,6,8,0,0,Belmont County,Barnesville,,,,,,,,,,,,,,,
-#N/A,#N/A,BELLAIRE,"4,172",9,46,0,0,1,8,5,38,3,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BRIDGEPORT,"1,786",3,18,1,1,0,1,5,12,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Belmont County,Martins Ferry,MARTINS FERRY,"6,761",12,110,0,2,0,10,33,72,5,0,Belmont County,Martins Ferry,,,,,,,,,,,,,,,
-Belmont County,Powhatan Point,POWHATAN POINT,"1,569",1,1,0,0,0,1,0,1,0,0,Belmont County,Powhatan Point,,,,,,,,,,,,,,,
-#N/A,#N/A,SHADYSIDE,"3,701",0,6,0,0,0,0,3,2,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Belmont County,Saint Clairsville,ST. CLAIRSVILLE,"5,090",4,9,0,0,0,4,1,8,0,0,Belmont County,Saint Clairsville,,,,,,,,,,,,,,,
-Belmont County,Flushing,FLUSHING,860,0,2,0,0,0,0,0,2,0,0,Belmont County,Flushing,,,,,,,,,,,,,,,
-Belmont County,Bethesda,BETHESDA,"1,243",0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,YORKVILLE,451,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BELMONT COUNTY SHERIFF,"29,124",45,374,1,21,1,22,77,274,23,1,Belmont County,Belmont,,,,,,,,,,,,,,,
-#N/A,#N/A,ABERDEEN,"1,601",2,25,0,0,0,2,6,18,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GEORGETOWN,"4,436",5,102,0,3,1,1,21,78,3,0,Brown County,Georgetown,,,,,,,,,,,,,,,
-#N/A,#N/A,RIPLEY,"1,715",0,0,0,0,0,0,0,0,0,0,Brown County,Ripley,,,,,,,,,,,,,,,
-#N/A,#N/A,MOUNT ORAB,"3,649",5,94,0,0,2,3,4,89,1,0,Brown County,Mount Orab,,,,,,,,,,,,,,,
-#N/A,#N/A,RUSSELLVILLE,539,1,6,0,0,0,1,1,5,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BROWN COUNTY SHERIFF,"30,366",17,309,1,5,2,9,103,191,15,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Butler County,Fairfield,FAIRFIELD,"42,810",110,"1,045",1,17,21,71,144,866,35,2,Butler County,Fairfield,,,,,,,,,,,,,,,
-Butler County,Hamilton,HAMILTON,"62,423",320,"3,316",9,64,131,116,942,"2,365",9,26,Butler County,Hamilton,,,,,,,,,,,,,,,
-Butler County,Middletown,MIDDLETOWN,"46,067",242,"3,115",5,41,67,129,735,"2,253",127,0,Butler County,Middletown,,,,,,,,,,,,,,,
-Butler County,Monroe,MONROE,"15,789",24,432,0,3,3,18,26,402,4,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW MIAMI,"2,328",0,2,0,0,0,0,2,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Butler County,Oxford,OXFORD,"22,197",23,270,1,3,4,15,53,206,11,2,Butler County,Oxford,,,,,,,,,,,,,,,
-#N/A,#N/A,OXFORD TOWNSHIP,"2,175",4,32,0,1,0,3,11,21,0,0,Butler County,Oxford,,,,,,,,,,,,,,,
-Butler County,West Chester,WEST CHESTER TOWNSHIP,"61,080",43,"1,340",0,15,14,14,155,"1,161",24,4,Butler County,West Chester,,,,,,,,,,,,,,,
-#N/A,#N/A,ROSS TOWNSHIP,"8,720",6,83,0,2,1,3,19,60,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MIAMI UNIVERSITY,0,26,232,0,15,0,11,57,170,5,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FAIRFIELD TOWNSHIP,"22,417",28,598,1,9,4,14,56,534,8,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BUTLER COUNTY SHERIFF,"76,582",45,"1,035",0,17,6,22,276,748,11,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BUTLER COUNTY METROPARKS,0,0,2,0,0,0,0,2,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MINERVA,"1,724",2,22,0,0,0,2,0,21,1,0,Stark County,Minerva,,,,,,,,,,,,,,,
-#N/A,#N/A,MAGNOLIA,258,1,11,0,0,0,1,3,7,1,0,Stark County,Magnolia,,,,,,,,,,,,,,,
-#N/A,#N/A,MECHANICSBURG,"1,591",3,45,0,1,0,2,10,32,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,URBANA,"11,482",14,420,0,3,5,6,78,323,19,7,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ST. PARIS,"2,014",0,16,0,0,0,0,0,15,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CHAMPAIGN COUNTY SHERIFF,"23,639",17,330,1,4,0,12,108,191,31,3,#N/A,#N/A,,,,,,,,,,,,,,,
-Clark County,Springfield,SPRINGFIELD,"59,503",411,"4,040",5,34,184,188,963,"2,817",260,58,Clark County,Springfield,,,,,,,,,,,,,,,
-Clark County,Enon,ENON,"2,389",0,2,0,0,0,0,1,1,0,0,Clark County,Enon,,,,,,,,,,,,,,,
-Clark County,South Charleston,SOUTH CHARLESTON,"1,655",2,23,0,0,0,2,3,18,2,0,Clark County,South Charleston,,,,,,,,,,,,,,,
-Clark County,South Vienna,SOUTH VIENNA,378,1,14,0,0,0,1,1,12,1,0,Clark County,South Vienna,,,,,,,,,,,,,,,
-#N/A,#N/A,CLARK COUNTY SHERIFF,"63,842",46,"1,174",0,10,9,27,303,807,64,4,#N/A,#N/A,,,,,,,,,,,,,,,
-Clermont County,Batavia,BATAVIA,"1,654",6,55,0,1,2,3,11,42,2,2,Clermont County,Batavia,,,,,,,,,,,,,,,
-Clermont County,Bethel,BETHEL,"2,782",6,95,0,1,0,5,9,84,2,0,Clermont County,Bethel,,,,,,,,,,,,,,,
-Clermont County,Milford,MILFORD,"6,881",9,230,0,1,5,3,25,201,4,0,Clermont County,Milford,,,,,,,,,,,,,,,
-Clermont County,Amelia,AMELIA,"4,957",0,25,0,0,0,0,5,20,0,0,Clermont County,Amelia,,,,,,,,,,,,,,,
-Clermont County,Felicity,FELICITY,830,2,42,0,0,0,2,6,36,0,0,Clermont County,Felicity,,,,,,,,,,,,,,,
-Clermont County,New Richmond,NEW RICHMOND,"2,651",12,74,0,3,2,7,22,47,5,1,Clermont County,New Richmond,,,,,,,,,,,,,,,
-#N/A,#N/A,NEWTONSVILLE,393,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OWENSVILLE,818,4,3,0,2,1,1,0,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Clermont County,Williamsburg,WILLIAMSBURG,"2,560",3,63,0,0,1,2,9,54,0,0,Clermont County,Williamsburg,,,,,,,,,,,,,,,
-Clermont County,Goshen,GOSHEN TOWNSHIP,"15,787",6,166,0,3,1,2,33,126,7,1,Clermont County,Goshen,,,,,,,,,,,,,,,
-#N/A,#N/A,MIAMI TOWNSHIP,"42,109",26,569,0,11,4,11,84,459,26,4,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UNION TOWNSHIP,"47,933",43,962,0,17,12,14,87,854,21,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PIERCE TOWNSHIP,"11,559",3,182,0,1,1,1,33,148,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Clermont County,Loveland,LOVELAND,"2,036",0,21,0,0,0,0,3,16,2,0,Clermont County,Loveland,,,,,,,,,,,,,,,
-#N/A,#N/A,CLERMONT COUNTY SHERIFF,"59,626",98,"1,366",1,27,7,63,501,814,51,3,#N/A,#N/A,,,,,,,,,,,,,,,
-Clinton County,Blanchester,BLANCHESTER,"4,249",6,75,1,0,1,4,6,65,4,1,Clinton County,Blanchester,,,,,,,,,,,,,,,
-Clinton County,New Vienna,NEW VIENNA,"1,199",0,5,0,0,0,0,0,5,0,0,Clinton County,New Vienna,,,,,,,,,,,,,,,
-Clinton County,Sabina,SABINA,"2,530",2,63,0,1,0,1,14,46,3,0,Clinton County,Sabina,,,,,,,,,,,,,,,
-Clinton County,Wilmington,WILMINGTON,"12,443",18,578,0,9,2,7,59,499,20,2,Clinton County,Wilmington,,,,,,,,,,,,,,,
-#N/A,#N/A,LYNCHBURG,2,0,0,0,0,0,0,0,0,0,0,Highland County,Lynchburg,,,,,,,,,,,,,,,
-#N/A,#N/A,CLINTON COUNTY SHERIFF,"21,443",2,28,0,0,0,2,9,19,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Columbiana County,Columbiana,COLUMBIANA,"5,604",3,79,0,2,0,1,20,59,0,2,Columbiana County,Columbiana,,,,,,,,,,,,,,,
-Columbiana County,East Palestine,EAST PALESTINE,"4,548",6,62,0,1,2,3,21,39,2,0,Columbiana County,East Palestine,,,,,,,,,,,,,,,
-Columbiana County,Lisbon,LISBON,"2,709",0,39,0,0,0,0,5,33,1,0,Columbiana County,Lisbon,,,,,,,,,,,,,,,
-Columbiana County,Salem,SALEM,"11,939",9,310,0,1,1,7,18,286,6,1,Columbiana County,Salem,,,,,,,,,,,,,,,
-#N/A,#N/A,SALINEVILLE,"1,266",1,23,0,0,0,1,1,22,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Columbiana County,New Waterford,NEW WATERFORD,"1,195",0,2,0,0,0,0,1,1,0,0,Columbiana County,New Waterford,,,,,,,,,,,,,,,
-#N/A,#N/A,WASHINGTONVILLE,435,0,2,0,0,0,0,0,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ST. CLAIR TOWNSHIP,"7,704",0,40,0,0,0,0,0,40,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PERRY TOWNSHIP,"4,420",0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MINERVA,2,0,0,0,0,0,0,0,0,0,0,Stark County,Minerva,,,,,,,,,,,,,,,
-#N/A,#N/A,COLUMBIANA COUNTY SHERIFF,"37,848",19,5,1,9,0,9,3,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Coshocton County,West Lafayette,WEST LAFAYETTE,"2,279",3,8,0,2,0,1,1,7,0,0,Coshocton County,West Lafayette,,,,,,,,,,,,,,,
-Coshocton County,Coshocton,COSHOCTON COUNTY SHERIFF,"34,172",39,514,0,9,5,25,184,307,23,7,Coshocton County,Coshocton,,,,,,,,,,,,,,,
-#N/A,#N/A,BUCYRUS,"11,830",24,491,0,4,9,11,90,394,7,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CRESTLINE,"4,384",9,98,0,3,2,4,35,56,7,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GALION,"10,053",17,341,0,5,4,8,73,264,4,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CRAWFORD COUNTY SHERIFF,"14,769",6,138,0,5,0,1,61,70,7,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Cleveland,CLEVELAND,"386,227","6,299","20,533",135,488,"2,980","2,696","6,333","10,001","4,199",315,Cuyahoga County,Cleveland,,,,,,,,,,,,,,,
-#N/A,#N/A,NOTRE DAME COLLEGE,0,1,39,0,1,0,0,6,32,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Bay Village,BAY VILLAGE,"15,346",2,64,0,1,0,1,12,49,3,0,Cuyahoga County,Bay Village,,,,,,,,,,,,,,,
-Cuyahoga County,Bedford,BEDFORD,"12,678",30,255,0,1,18,11,29,187,39,0,Cuyahoga County,Bedford,,,,,,,,,,,,,,,
-#N/A,#N/A,BEDFORD HEIGHTS,"10,594",28,290,0,4,9,15,71,176,43,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BENTLEYVILLE VILLAGE,855,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Berea,BEREA,"18,805",11,181,0,2,5,4,19,154,8,1,Cuyahoga County,Berea,,,,,,,,,,,,,,,
-Cuyahoga County,Brecksville,BRECKSVILLE,"13,390",4,54,0,0,2,2,5,47,2,1,Cuyahoga County,Brecksville,,,,,,,,,,,,,,,
-Cuyahoga County,Broadview Heights,BROADVIEW HEIGHTS,"19,186",0,24,0,0,0,0,7,17,0,0,Cuyahoga County,Broadview Heights,,,,,,,,,,,,,,,
-#N/A,#N/A,BROOKLYN,"10,841",29,673,2,5,15,7,44,585,44,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CHAGRIN FALLS,"4,003",4,27,2,1,0,1,3,24,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Cleveland Heights,CLEVELAND HEIGHTS,"44,696",145,997,3,9,80,53,118,781,98,3,Cuyahoga County,Cleveland Heights,,,,,,,,,,,,,,,
-#N/A,#N/A,EAST CLEVELAND,"17,240",111,342,7,4,66,34,94,131,117,4,Cuyahoga County,Cleveland,,,,,,,,,,,,,,,
-Cuyahoga County,Euclid,EUCLID,"47,416",275,"1,329",8,17,107,143,343,804,182,5,Cuyahoga County,Euclid,,,,,,,,,,,,,,,
-Cuyahoga County,Fairview Park,FAIRVIEW PARK,"16,318",32,227,0,0,6,26,35,183,9,0,Cuyahoga County,Fairview Park,,,,,,,,,,,,,,,
-Cuyahoga County,Garfield Heights,GARFIELD HEIGHTS,"27,938",37,190,0,7,17,13,74,116,0,2,Cuyahoga County,Garfield Heights,,,,,,,,,,,,,,,
-#N/A,#N/A,GLENWILLOW,926,0,7,0,0,0,0,0,6,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HIGHLAND HEIGHTS,"8,402",1,99,0,0,1,0,5,93,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,INDEPENDENCE,"7,132",11,120,0,0,1,10,6,111,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Lakewood,LAKEWOOD,"50,349",63,876,3,8,32,20,144,665,67,4,Cuyahoga County,Lakewood,,,,,,,,,,,,,,,
-Cuyahoga County,Lyndhurst,LYNDHURST,"13,624",14,194,0,5,6,3,19,169,6,2,Cuyahoga County,Lyndhurst,,,,,,,,,,,,,,,
-#N/A,#N/A,MAYFIELD HEIGHTS,"18,770",14,189,0,0,9,5,11,176,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MORELAND HILLS,"3,303",1,10,0,0,1,0,3,7,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,North Olmsted,NORTH OLMSTED,"31,851",26,619,1,6,13,6,69,512,38,0,Cuyahoga County,North Olmsted,,,,,,,,,,,,,,,
-#N/A,#N/A,OLMSTED TOWNSHIP,"13,228",1,43,0,0,1,0,15,25,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Olmsted Falls,OLMSTED FALLS,"8,859",3,30,0,0,0,3,11,17,2,0,Cuyahoga County,Olmsted Falls,,,,,,,,,,,,,,,
-Cuyahoga County,Parma,PARMA,"79,576",108,"1,102",0,26,43,39,271,712,119,11,Cuyahoga County,Parma,,,,,,,,,,,,,,,
-#N/A,#N/A,PEPPER PIKE,"6,247",1,32,0,0,1,0,6,25,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Richmond Heights,RICHMOND HEIGHTS,"10,445",27,249,0,2,15,10,56,165,28,0,Cuyahoga County,Richmond Heights,,,,,,,,,,,,,,,
-Cuyahoga County,Rocky River,ROCKY RIVER,"20,400",7,81,0,1,0,6,15,62,4,0,Cuyahoga County,Rocky River,,,,,,,,,,,,,,,
-Cuyahoga County,Seven Hills,SEVEN HILLS,"11,661",4,64,0,1,1,2,16,46,2,0,Cuyahoga County,Seven Hills,,,,,,,,,,,,,,,
-Cuyahoga County,Solon,SOLON,"22,971",11,175,1,5,1,4,15,154,6,1,Cuyahoga County,Solon,,,,,,,,,,,,,,,
-Cuyahoga County,South Euclid,SOUTH EUCLID,"21,686",35,570,0,4,23,8,57,474,39,0,Cuyahoga County,South Euclid,,,,,,,,,,,,,,,
-Cuyahoga County,Strongsville,STRONGSVILLE,"44,626",19,882,0,0,14,5,65,797,20,1,Cuyahoga County,Strongsville,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIVERSITY HEIGHTS,"13,131",45,305,0,7,27,11,29,260,16,4,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,VALLEY VIEW,"2,007",0,35,0,0,0,0,8,23,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WALTON HILLS,"2,236",0,29,0,0,0,0,3,24,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Cuyahoga County,Westlake,WESTLAKE,"32,353",14,461,0,0,5,9,37,403,21,3,Cuyahoga County,Westlake,,,,,,,,,,,,,,,
-#N/A,#N/A,WOODMERE VILLAGE,859,2,56,0,1,0,1,1,38,17,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CLEVELAND STATE UNIVERSITY,0,8,187,0,4,3,1,3,178,6,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LINNDALE,175,0,1,0,0,0,0,1,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CLEVELAND METRO PARK,0,12,164,0,5,5,2,3,159,2,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CUYAHOGA COMMUNITY COLLEGE,0,3,66,0,1,1,1,4,58,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GREENVILLE,"12,962",44,315,0,13,8,23,74,217,24,14,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UNION CITY,"1,632",0,8,0,0,0,0,1,7,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DARKE COUNTY SHERIFF,"33,140",6,44,0,0,0,6,16,27,1,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Defiance County,Defiance,DEFIANCE,"16,697",25,341,0,16,1,8,42,291,8,3,Defiance County,Defiance,,,,,,,,,,,,,,,
-#N/A,#N/A,DEFIANCE COUNTY SHERIFF,"18,017",22,141,1,13,3,5,38,102,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,COLUMBUS,"8,024",41,316,1,8,19,13,70,214,32,4,Franklin County,Columbus,,,,,,,,,,,,,,,
-#N/A,#N/A,DELAWARE,"38,658",73,890,0,35,14,24,154,714,22,7,#N/A,#N/A,,,,,,,,,,,,,,,
-Delaware County,Ostrander,OSTRANDER,697,1,0,0,0,0,1,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Delaware County,Powell,POWELL,"13,273",0,106,0,0,0,0,24,80,2,0,Delaware County,Powell,,,,,,,,,,,,,,,
-#N/A,#N/A,SHAWNEE HILLS,746,0,6,0,0,0,0,2,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SUNBURY,"5,242",0,56,0,0,0,0,9,46,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DUBLIN,"4,476",2,51,0,1,0,1,10,40,1,0,Franklin County,Dublin,,,,,,,,,,,,,,,
-#N/A,#N/A,WESTERVILLE,"8,411",5,202,0,2,2,1,16,183,3,1,Franklin County,Westerville,,,,,,,,,,,,,,,
-#N/A,#N/A,DELAWARE COUNTY SHERIFF,"90,604",63,"1,107",1,23,14,25,246,847,14,5,#N/A,#N/A,,,,,,,,,,,,,,,
-Erie County,Sandusky,SANDUSKY,"25,078",45,911,1,6,19,19,199,680,32,3,Erie County,Sandusky,,,,,,,,,,,,,,,
-#N/A,#N/A,VERMILION,"4,621",1,47,0,0,0,1,6,40,1,0,Lorain County,Vermilion,,,,,,,,,,,,,,,
-#N/A,#N/A,BAY VIEW,609,0,3,0,0,0,0,1,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Erie County,Milan,MILAN,984,1,19,0,1,0,0,4,15,0,0,Erie County,Milan,,,,,,,,,,,,,,,
-#N/A,#N/A,PERKINS TOWNSHIP,"11,844",16,308,0,0,7,9,5,303,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CEDAR POINT,0,0,16,0,0,0,0,1,15,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BELLEVUE,2,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ERIE COUNTY SHERIFF,"24,027",3,378,0,0,1,2,84,289,5,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,COLUMBUS,"10,285",54,422,1,10,26,17,93,286,43,5,Franklin County,Columbus,,,,,,,,,,,,,,,
-Fairfield County,Lancaster,LANCASTER,"39,959",141,"1,826",0,30,46,65,271,"1,499",56,6,Fairfield County,Lancaster,,,,,,,,,,,,,,,
-Fairfield County,Baltimore,BALTIMORE,"2,970",1,25,0,0,0,1,7,16,2,0,Fairfield County,Baltimore,,,,,,,,,,,,,,,
-Fairfield County,Carroll,CARROLL,519,0,6,0,0,0,0,0,6,0,0,Fairfield County,Carroll,,,,,,,,,,,,,,,
-Fairfield County,Lithopolis,LITHOPOLIS,"1,350",0,13,0,0,0,0,3,10,0,0,Fairfield County,Lithopolis,,,,,,,,,,,,,,,
-#N/A,#N/A,MILLERSPORT,"1,050",0,2,0,0,0,0,0,2,0,0,Fairfield County,Millersport,,,,,,,,,,,,,,,
-Fairfield County,Pickerington,PICKERINGTON,"19,964",16,428,0,0,10,6,42,380,6,0,Fairfield County,Pickerington,,,,,,,,,,,,,,,
-#N/A,#N/A,REYNOLDSBURG,927,2,33,0,0,1,1,4,28,1,0,Franklin County,Reynoldsburg,,,,,,,,,,,,,,,
-#N/A,#N/A,FAIRFIELD COUNTY SHERIFF,"74,766",40,946,0,14,1,25,143,791,12,4,#N/A,#N/A,,,,,,,,,,,,,,,
-Fayette County,Washington Court House,WASHINGTON COURT HOUSE,"13,986",37,612,0,9,9,19,137,459,16,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FAYETTE COUNTY SHERIFF,"14,589",24,513,2,10,5,7,157,346,10,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Franklin County,Columbus,COLUMBUS,"844,206","4,405","34,368",89,849,"2,099","1,368","7,593","23,300","3,475",396,Franklin County,Columbus,,,,,,,,,,,,,,,
-#N/A,#N/A,LITHOPOLIS,51,0,0,0,0,0,0,0,0,0,0,Fairfield County,Lithopolis,,,,,,,,,,,,,,,
-#N/A,#N/A,PICKERINGTON,76,0,2,0,0,0,0,0,2,0,0,Fairfield County,Pickerington,,,,,,,,,,,,,,,
-#N/A,#N/A,CAPITAL UNIVERSITY,0,0,51,0,0,0,0,20,30,1,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Franklin County,Bexley,BEXLEY,"13,775",26,359,0,12,13,1,99,242,18,0,Franklin County,Bexley,,,,,,,,,,,,,,,
-Franklin County,Dublin,DUBLIN,"38,892",20,438,0,8,5,7,82,344,12,2,Franklin County,Dublin,,,,,,,,,,,,,,,
-Franklin County,Gahanna,GAHANNA,"34,859",20,789,0,10,6,4,99,660,30,2,Franklin County,Gahanna,,,,,,,,,,,,,,,
-Franklin County,Grandview Heights,GRANDVIEW HEIGHTS,"7,502",1,144,0,0,1,0,43,95,6,0,Franklin County,Grandview Heights,,,,,,,,,,,,,,,
-Franklin County,Grove City,GROVE CITY,"40,161",43,"1,678",2,7,26,8,144,"1,476",58,4,Franklin County,Grove City,,,,,,,,,,,,,,,
-Franklin County,Hilliard,HILLIARD,"34,832",33,344,0,11,9,13,67,253,24,0,Franklin County,Hilliard,,,,,,,,,,,,,,,
-Franklin County,Reynoldsburg,REYNOLDSBURG,"27,474",61,987,5,6,26,24,115,833,39,5,Franklin County,Reynoldsburg,,,,,,,,,,,,,,,
-Franklin County,Upper Arlington,UPPER ARLINGTON,"35,150",16,535,1,4,8,3,67,449,19,1,Franklin County,Upper Arlington,,,,,,,,,,,,,,,
-Franklin County,Westerville,WESTERVILLE,"30,397",16,733,0,5,7,4,59,661,13,4,Franklin County,Westerville,,,,,,,,,,,,,,,
-Franklin County,Whitehall,WHITEHALL,"18,804",153,"1,163",2,25,74,52,299,794,70,9,Franklin County,Whitehall,,,,,,,,,,,,,,,
-Franklin County,Worthington,WORTHINGTON,"14,689",5,233,0,0,4,1,28,195,10,2,Franklin County,Worthington,,,,,,,,,,,,,,,
-#N/A,#N/A,FRANKLIN COUNTY METRO PARKS,0,0,10,0,0,0,0,0,10,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Franklin County,Groveport,GROVEPORT,"5,813",5,178,0,2,1,2,19,149,10,2,Franklin County,Groveport,,,,,,,,,,,,,,,
-#N/A,#N/A,HARRISBURG,337,0,1,0,0,0,0,1,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MINERVA PARK,"1,327",1,19,0,0,1,0,3,16,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Franklin County,New Albany,NEW ALBANY,"10,210",5,168,0,2,1,2,16,142,10,0,Franklin County,New Albany,,,,,,,,,,,,,,,
-#N/A,#N/A,THE OHIO STATE UNIVERSITY: COLUMBUS,0,33,820,0,14,8,11,23,783,14,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PERRY TOWNSHIP,"3,799",0,53,0,0,0,0,5,48,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MADISON TOWNSHIP,"18,466",22,210,0,1,12,9,59,137,14,0,Lake County,Madison,,,,,,,,,,,,,,,
-#N/A,#N/A,SHARON TOWNSHIP,"2,451",0,33,0,0,0,0,3,29,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,COLUMBUS STATE COMMUNITY COLLEGE,0,0,52,0,0,0,0,1,51,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OTTERBEIN UNIVERSITY,0,0,34,0,0,0,0,2,32,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FRANKLIN COUNTY SHERIFF,"54,322",3,55,0,2,1,0,15,38,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Fulton County,Archbold,ARCHBOLD,"4,342",4,58,0,0,0,4,12,46,0,1,Fulton County,Archbold,,,,,,,,,,,,,,,
-Fulton County,Fayette,FAYETTE,"1,266",6,10,0,5,0,1,6,4,0,0,Fulton County,Fayette,,,,,,,,,,,,,,,
-Fulton County,Swanton,SWANTON,"3,754",3,27,0,2,0,1,4,23,0,0,Fulton County,Swanton,,,,,,,,,,,,,,,
-Fulton County,Wauseon,WAUSEON,"7,311",7,197,0,3,1,3,13,183,1,0,Fulton County,Wauseon,,,,,,,,,,,,,,,
-#N/A,#N/A,FULTON COUNTY SHERIFF,"22,667",15,250,2,7,1,5,82,156,12,4,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GALLIPOLIS,"3,435",10,442,0,1,3,6,46,382,14,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,RIO GRANDE,839,3,16,0,2,0,1,7,9,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIVERSITY OF RIO GRANDE,0,1,0,0,1,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GALLIA COUNTY SHERIFF,"25,513",21,302,1,4,2,14,98,188,16,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Geauga County,Chardon,CHARDON,"5,162",7,66,0,0,0,7,3,63,0,0,Geauga County,Chardon,,,,,,,,,,,,,,,
-Geauga County,Burton,BURTON,"1,463",0,3,0,0,0,0,1,2,0,0,Geauga County,Burton,,,,,,,,,,,,,,,
-Geauga County,Middlefield,MIDDLEFIELD,"2,694",0,44,0,0,0,0,1,43,0,0,Geauga County,Middlefield,,,,,,,,,,,,,,,
-#N/A,#N/A,SOUTH RUSSELL,"3,827",2,4,0,1,1,0,0,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,RUSSELL TOWNSHIP,"5,250",1,15,0,0,0,1,0,15,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Geauga County,Chesterland,CHESTER TOWNSHIP,"10,371",0,18,0,0,0,0,3,15,0,0,Geauga County,Chesterland,,,,,,,,,,,,,,,
-#N/A,#N/A,GEAUGA COUNTY SHERIFF,"53,686",20,210,2,7,2,9,49,144,17,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FAIRBORN,"33,587",84,908,3,32,21,28,189,664,55,8,#N/A,#N/A,,,,,,,,,,,,,,,
-Greene County,Xenia,XENIA,"26,037",53,821,1,13,11,28,134,665,22,6,Greene County,Xenia,,,,,,,,,,,,,,,
-Greene County,Yellow Springs,YELLOW SPRINGS,"3,857",2,79,0,0,1,1,18,59,2,0,Greene County,Yellow Springs,,,,,,,,,,,,,,,
-Greene County,Bellbrook,BELLBROOK,"7,074",3,57,0,2,0,1,4,51,2,0,Greene County,Bellbrook,,,,,,,,,,,,,,,
-Greene County,Jamestown,JAMESTOWN,"2,034",1,72,0,0,0,1,28,42,2,0,Greene County,Jamestown,,,,,,,,,,,,,,,
-Greene County,Beavercreek,BEAVERCREEK,"46,490",32,"1,065",0,14,13,5,64,969,32,2,Greene County,Beavercreek,,,,,,,,,,,,,,,
-#N/A,#N/A,WRIGHT STATE UNIVERSITY,0,5,88,0,2,2,1,13,72,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SUGARCREEK TOWNSHIP,"8,283",3,159,0,1,2,0,9,146,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CENTRAL STATE UNIVERSITY,0,2,77,0,1,0,1,13,60,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CENTERVILLE,2,0,0,0,0,0,0,0,0,0,0,Dayton,Centerville,,,,,,,,,,,,,,,
-#N/A,#N/A,KETTERING,469,0,8,0,0,0,0,2,6,0,0,Dayton,Kettering,,,,,,,,,,,,,,,
-#N/A,#N/A,GREENE COUNTY SHERIFF,"32,737",15,384,0,7,2,6,101,262,21,4,#N/A,#N/A,,,,,,,,,,,,,,,
-Guernsey County,Cambridge,CAMBRIDGE,"10,341",14,484,1,0,3,10,83,388,13,0,Guernsey County,Cambridge,,,,,,,,,,,,,,,
-Guernsey County,Byesville,BYESVILLE,"2,363",0,8,0,0,0,0,0,8,0,1,Guernsey County,Byesville,,,,,,,,,,,,,,,
-Guernsey County,Senecaville,SENECAVILLE,443,0,0,0,0,0,0,0,0,0,0,Guernsey County,Senecaville,,,,,,,,,,,,,,,
-Hamilton County,Cincinnati,CINCINNATI,"298,880","2,720","15,382",57,249,"1,278","1,136","3,929","10,216","1,237",485,Hamilton County,Cincinnati,,,,,,,,,,,,,,,
-#N/A,#N/A,MILFORD,29,0,1,0,0,0,0,0,1,0,0,Clermont County,Milford,,,,,,,,,,,,,,,
-#N/A,#N/A,AMBERLEY VILLAGE,"3,592",1,43,0,0,1,0,0,42,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Blue Ash,BLUE ASH,"12,169",11,320,0,4,4,3,41,273,6,3,Hamilton County,Blue Ash,,,,,,,,,,,,,,,
-#N/A,#N/A,CHEVIOT,"8,281",30,254,0,4,10,16,46,198,10,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Deer Park,DEER PARK,"5,672",9,74,0,1,4,4,9,63,2,0,Hamilton County,Deer Park,,,,,,,,,,,,,,,
-#N/A,#N/A,DELHI TOWNSHIP,"29,573",20,514,0,10,1,9,84,409,21,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ELMWOOD PLACE,"2,160",10,35,2,2,3,3,10,21,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,EVENDALE,"2,766",6,238,0,0,1,5,7,231,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FAIRFAX,"1,704",3,261,0,0,2,1,12,249,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Forest Park,FOREST PARK,"18,669",47,633,0,9,21,17,157,449,27,2,Hamilton County,Forest Park,,,,,,,,,,,,,,,
-#N/A,#N/A,GLENDALE,"2,153",1,9,0,0,1,0,0,6,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Greenhills,GREENHILLS,"3,589",1,36,0,1,0,0,8,27,1,1,Hamilton County,Greenhills,,,,,,,,,,,,,,,
-Hamilton County,Harrison,HARRISON,"10,819",0,306,0,0,0,0,15,282,9,0,Hamilton County,Harrison,,,,,,,,,,,,,,,
-#N/A,#N/A,INDIAN HILL,"5,801",1,44,0,0,0,1,8,36,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LOCKLAND,"3,422",20,121,0,3,10,7,22,92,7,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LOVELAND,"9,840",6,102,0,2,3,1,17,78,7,1,Clermont County,Loveland,,,,,,,,,,,,,,,
-#N/A,#N/A,MARIEMONT,"3,431",1,45,0,0,1,0,3,40,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Montgomery,MONTGOMERY,"10,558",4,148,0,0,0,4,14,130,4,0,Hamilton County,Montgomery,,,,,,,,,,,,,,,
-#N/A,#N/A,MOUNT HEALTHY,"6,028",31,259,4,3,16,8,45,196,18,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEWTOWN,"2,663",3,31,0,0,1,2,6,22,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NORTH COLLEGE HILL,"9,320",30,311,1,4,13,12,38,247,26,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Hamilton County,Norwood,NORWOOD,"20,065",52,"1,013",0,12,28,12,166,798,49,2,Hamilton County,Norwood,,,,,,,,,,,,,,,
-Hamilton County,Springdale,SPRINGDALE,"11,175",7,118,0,0,3,4,16,95,7,1,Hamilton County,Springdale,,,,,,,,,,,,,,,
-#N/A,#N/A,SPRINGFIELD TOWNSHIP,"36,527",60,794,1,6,33,20,172,565,57,5,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WOODLAWN,"3,292",6,115,0,1,1,4,11,98,6,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WYOMING,"8,407",5,159,0,0,4,1,17,139,3,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIVERSITY OF CINCINNATI,0,45,254,0,40,2,3,18,233,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,COLERAIN TOWNSHIP,"58,907",111,"2,135",2,19,59,31,310,"1,760",65,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GREEN TOWNSHIP,"58,764",39,"1,215",0,10,22,7,176,989,50,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MOUNT ST. JOSEPH UNIVERSITY,0,0,13,0,0,0,0,3,10,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HAMILTON COUNTY SHERIFF,"109,990",183,"2,743",2,41,38,102,436,"2,163",144,12,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HAMILTON COUNTY PARKS,0,0,66,0,0,0,0,1,62,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BLUFFTON,174,0,4,0,0,0,0,1,3,0,0,Allen County,Bluffton,,,,,,,,,,,,,,,
-Hancock County,Findlay,FINDLAY,"41,156",53,630,3,15,9,26,104,515,11,1,Hancock County,Findlay,,,,,,,,,,,,,,,
-#N/A,#N/A,FOSTORIA,"2,900",1,8,0,0,0,1,2,6,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HANCOCK COUNTY SHERIFF,"29,782",12,227,1,3,2,6,80,142,5,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ADA,"5,782",1,38,0,0,0,1,7,27,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,KENTON,"8,199",19,415,0,7,5,7,96,311,8,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FOREST,"1,437",1,16,0,0,1,0,4,12,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HARDIN COUNTY SHERIFF,"16,141",8,147,0,2,1,5,43,97,7,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CADIZ,"3,256",7,60,0,2,2,3,16,42,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW ATHENS,320,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HARRISON COUNTY SHERIFF,"10,987",6,94,0,1,2,3,34,56,4,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NAPOLEON,"8,566",11,197,0,3,1,7,25,171,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DESHLER,"1,779",0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HENRY COUNTY SHERIFF,"16,102",20,164,2,1,1,16,43,120,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Highland County,Greenfield,GREENFIELD,"4,559",6,102,0,1,1,4,20,72,10,1,Highland County,Greenfield,,,,,,,,,,,,,,,
-Highland County,Hillsboro,HILLSBORO,"6,547",8,203,1,2,1,4,33,166,4,0,Highland County,Hillsboro,,,,,,,,,,,,,,,
-Highland County,Leesburg,VILLAGE OF LEESBURG,"1,289",0,46,0,0,0,0,9,37,0,0,Highland County,Leesburg,,,,,,,,,,,,,,,
-Highland County,Lynchburg,LYNCHBURG,"1,482",4,20,0,3,0,1,8,12,0,0,Highland County,Lynchburg,,,,,,,,,,,,,,,
-#N/A,#N/A,MOWRYSTOWN,359,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HIGHLAND COUNTY SHERIFF,"28,369",26,385,4,6,1,15,130,237,18,7,#N/A,#N/A,,,,,,,,,,,,,,,
-Hocking County,Logan,LOGAN,"7,106",15,243,0,6,1,8,38,200,5,2,Hocking County,Logan,,,,,,,,,,,,,,,
-#N/A,#N/A,HOCKING COUNTY SHERIFF,"20,628",14,358,0,5,1,8,120,218,20,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LOUDONVILLE,60,0,1,0,0,0,0,0,1,0,0,Ashland County,Loudonville,,,,,,,,,,,,,,,
-#N/A,#N/A,MILLERSBURG,"3,174",3,91,0,0,3,0,4,86,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HOLMES COUNTY SHERIFF,"40,626",5,204,1,4,0,0,50,139,15,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MILAN,359,0,6,0,0,0,0,1,5,0,0,Erie County,Milan,,,,,,,,,,,,,,,
-#N/A,#N/A,NORWALK,"16,792",10,440,0,3,2,5,68,365,7,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WILLARD,"6,031",4,302,0,1,2,1,68,222,12,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BELLEVUE,"3,555",0,5,0,0,0,0,1,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MONROEVILLE,"1,364",0,3,0,0,0,0,0,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PLYMOUTH,878,0,4,0,0,0,0,1,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JACKSON,"6,211",10,151,1,3,1,5,18,127,6,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WELLSTON,"5,459",18,161,0,2,6,10,40,115,6,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OAK HILL,"1,490",2,30,0,0,0,2,4,25,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JACKSON COUNTY SHERIFF,"18,798",26,234,1,12,7,6,73,148,13,4,#N/A,#N/A,,,,,,,,,,,,,,,
-Jefferson County,Steubenville,STEUBENVILLE,"18,137",60,"1,085",2,4,22,32,132,945,8,0,Jefferson County,Steubenville,,,,,,,,,,,,,,,
-#N/A,#N/A,MINGO JUNCTION,"3,299",15,44,0,0,3,12,14,28,2,10,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TORONTO,"4,843",6,16,0,3,0,3,4,12,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WINTERSVILLE,"3,770",1,57,0,0,0,1,3,54,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,YORKVILLE,586,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DILLONVALE,633,0,1,0,0,0,0,1,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MOUNT PLEASANT,451,0,3,0,0,0,0,0,2,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TILTONSVILLE,"1,310",2,6,0,0,0,2,1,5,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SALINE TOWNSHIP,"1,290",5,13,0,0,0,5,4,6,3,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WELLS TOWNSHIP,"2,706",0,9,0,0,0,0,2,7,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JEFFERSON COUNTY SHERIFF,"21,320",2,55,0,0,0,2,19,33,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Knox County,Mount Vernon,MOUNT VERNON,"16,685",17,680,0,6,2,9,87,592,1,1,Knox County,Mount Vernon,,,,,,,,,,,,,,,
-#N/A,#N/A,DANVILLE,"1,013",1,4,1,0,0,0,2,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Knox County,Fredericktown,FREDERICKTOWN,"2,486",6,41,0,2,0,4,11,29,1,0,Knox County,Fredericktown,,,,,,,,,,,,,,,
-#N/A,#N/A,UTICA,20,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,KNOX COUNTY SHERIFF,"40,774",33,487,0,18,0,15,99,388,0,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Lake County,Eastlake,EASTLAKE,"18,166",10,443,1,0,3,6,54,375,14,1,Lake County,Eastlake,,,,,,,,,,,,,,,
-#N/A,#N/A,FAIRPORT HARBOR,"3,093",5,102,0,0,1,4,19,77,6,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,KIRTLAND HILLS,640,1,0,0,0,0,1,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Lake County,Mentor,MENTOR,"46,852",51,"1,034",0,10,11,30,105,899,30,6,Lake County,Mentor,,,,,,,,,,,,,,,
-#N/A,#N/A,MENTOR-ON-THE-LAKE,"7,375",10,91,0,1,0,9,19,67,5,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Lake County,Painesville,PAINESVILLE,"19,827",8,9,0,0,1,7,3,5,1,0,Lake County,Painesville,,,,,,,,,,,,,,,
-#N/A,#N/A,WAITE HILL,464,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Lake County,Wickliffe,WICKLIFFE,"12,506",17,233,0,0,9,8,41,178,14,0,Lake County,Wickliffe,,,,,,,,,,,,,,,
-Lake County,Willoughby,WILLOUGHBY,"22,701",45,478,1,8,21,15,62,394,22,1,Lake County,Willoughby,,,,,,,,,,,,,,,
-#N/A,#N/A,LAKELAND COMMUNITY COLLEGE,0,0,11,0,0,0,0,0,11,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,KIRTLAND,"6,780",3,27,0,2,0,1,4,23,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LAKE COUNTY SHERIFF,"45,181",240,341,0,15,10,215,93,244,4,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LAKE METROPARKS,0,3,11,0,0,2,1,0,11,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,IRONTON,"10,856",21,270,0,3,7,11,70,190,10,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CHESAPEAKE,722,1,9,0,1,0,0,0,9,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SOUTH POINT,"3,917",3,28,0,1,1,1,4,23,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LAWRENCE COUNTY SHERIFF,"42,921",75,663,1,19,8,47,191,443,29,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,REYNOLDSBURG,"9,005",19,325,1,2,8,8,38,274,13,2,Franklin County,Reynoldsburg,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW ALBANY,130,0,2,0,0,0,0,0,2,0,0,Franklin County,New Albany,,,,,,,,,,,,,,,
-#N/A,#N/A,NEWARK,"48,055",10,426,0,2,4,4,125,283,18,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GRANVILLE,"5,762",0,41,0,0,0,0,5,35,1,0,Licking County,Granville,,,,,,,,,,,,,,,
-#N/A,#N/A,HEATH,"10,528",23,664,0,10,2,11,155,488,21,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JOHNSTOWN,"4,973",6,79,0,1,0,5,9,69,1,0,Licking County,Johnstown,,,,,,,,,,,,,,,
-#N/A,#N/A,UTICA,"2,186",5,16,1,1,0,3,4,11,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LICKING COUNTY SHERIFF,"64,681",24,810,0,11,9,4,292,479,39,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Logan County,Bellefontaine,BELLEFONTAINE,"13,073",23,404,0,8,2,13,59,342,3,1,Logan County,Bellefontaine,,,,,,,,,,,,,,,
-Logan County,Russells Point,RUSSELLS POINT,"1,355",0,26,0,0,0,0,6,19,1,0,Logan County,Russells Point,,,,,,,,,,,,,,,
-Logan County,De Graff,DE GRAFF,"1,259",0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Logan County,West Liberty,WEST LIBERTY,"1,769",3,21,0,0,0,3,8,13,0,0,Logan County,West Liberty,,,,,,,,,,,,,,,
-#N/A,#N/A,LOGAN COUNTY SHERIFF,"25,596",14,368,1,3,0,10,148,210,10,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Lorain County,Elyria,ELYRIA,"53,633",161,"1,483",4,26,71,60,344,"1,042",97,8,Lorain County,Elyria,,,,,,,,,,,,,,,
-Lorain County,Vermilion,VERMILION,"5,783",2,60,0,0,0,2,8,50,2,0,Lorain County,Vermilion,,,,,,,,,,,,,,,
-Lorain County,Amherst,AMHERST,"12,156",7,188,0,1,3,3,21,164,3,0,Lorain County,Amherst,,,,,,,,,,,,,,,
-Lorain County,Avon Lake,AVON LAKE,"23,625",1,8,0,0,0,1,1,7,0,0,Lorain County,Avon Lake,,,,,,,,,,,,,,,
-Lorain County,Lorain,LORAIN,"63,561",127,778,6,14,43,64,287,463,28,12,Lorain County,Lorain,,,,,,,,,,,,,,,
-Lorain County,Oberlin,OBERLIN,"8,342",38,212,0,27,4,7,27,184,1,0,Lorain County,Oberlin,,,,,,,,,,,,,,,
-Lorain County,North Ridgeville,NORTH RIDGEVILLE,"33,095",12,193,1,4,3,4,37,154,2,0,Lorain County,North Ridgeville,,,,,,,,,,,,,,,
-Lorain County,Grafton,GRAFTON,"6,105",4,38,1,0,2,1,10,28,0,0,Lorain County,Grafton,,,,,,,,,,,,,,,
-#N/A,#N/A,LORAIN COUNTY SHERIFF,"60,135",50,686,0,17,8,25,260,385,41,4,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LORAIN COUNTY METRO PARKS ,0,0,3,0,0,0,0,0,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Lucas County,Toledo,TOLEDO,"278,366","3,319","11,191",37,316,803,"2,163","3,381","7,081",729,0,Lucas County,Toledo,,,,,,,,,,,,,,,
-#N/A,#N/A,SWANTON,135,0,1,0,0,0,0,0,1,0,0,Fulton County,Swanton,,,,,,,,,,,,,,,
-Lucas County,Maumee,MAUMEE,"13,875",15,380,0,8,3,4,37,336,7,0,Lucas County,Maumee,,,,,,,,,,,,,,,
-Lucas County,Oregon,OREGON,"20,055",37,665,0,5,6,26,85,553,27,1,Lucas County,Oregon,,,,,,,,,,,,,,,
-#N/A,#N/A,OTTAWA HILLS,"4,429",1,37,0,0,0,1,10,24,3,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SYLVANIA TOWNSHIP,"29,416",18,632,0,2,7,9,99,507,26,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Lucas County,Holland,HOLLAND,"1,698",6,288,0,1,5,0,21,266,1,0,Lucas County,Holland,,,,,,,,,,,,,,,
-Lucas County,Waterville,WATERVILLE,"5,511",2,29,0,0,1,1,4,24,1,0,Lucas County,Waterville,,,,,,,,,,,,,,,
-Lucas County,Whitehouse,WHITEHOUSE,"4,528",1,30,0,0,0,1,4,23,3,0,Lucas County,Whitehouse,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIVERSITY OF TOLED,0,10,207,0,6,3,1,14,192,1,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WASHINGTON TOWNSHIP,"3,239",1,6,0,0,0,1,3,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WATERVILLE TOWNSHIP,"1,653",0,6,0,0,0,0,0,6,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TOLEDO FIRE DPT FIR,0,0,0,0,0,0,0,0,0,0,152,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TOLEDO METRO PARK DISTRICT ,0,1,10,0,1,0,0,1,9,0,5,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LUCAS COUNTY SHERIFF,"49,471",128,852,3,26,31,68,240,518,94,5,#N/A,#N/A,,,,,,,,,,,,,,,
-Madison County,London,LONDON,"10,092",7,284,0,2,2,3,48,221,15,0,Madison County,London,,,,,,,,,,,,,,,
-Madison County,West Jefferson,WEST JEFFERSON,"4,291",3,101,0,0,1,2,14,84,3,0,Madison County,West Jefferson,,,,,,,,,,,,,,,
-#N/A,#N/A,PLAIN CITY,"3,490",1,15,0,0,0,1,2,12,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MADISON COUNTY SHERIFF,"25,945",20,444,0,8,4,8,148,274,22,7,#N/A,#N/A,,,,,,,,,,,,,,,
-Mahoning County,Boardman,BOARDMAN,"39,692",54,"1,346",0,6,22,26,189,"1,126",31,5,Mahoning County,Boardman,,,,,,,,,,,,,,,
-Mahoning County,Youngstown,YOUNGSTOWN,"64,170",415,"2,426",12,28,151,224,921,"1,264",241,137,Mahoning County,Youngstown,,,,,,,,,,,,,,,
-#N/A,#N/A,COLUMBIANA,665,0,9,0,0,0,0,2,7,0,0,Columbiana County,Columbiana,,,,,,,,,,,,,,,
-#N/A,#N/A,SALEM,4,0,0,0,0,0,0,0,0,0,0,Columbiana County,Salem,,,,,,,,,,,,,,,
-#N/A,#N/A,WASHINGTONVILLE,337,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Mahoning County,Austintown,AUSTINTOWN,"35,680",52,818,0,9,13,30,114,674,30,0,Mahoning County,Austintown,,,,,,,,,,,,,,,
-#N/A,#N/A,CAMPBELL,"7,936",4,41,0,3,1,0,15,21,5,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Mahoning County,Canfield,CANFIELD,"7,323",1,60,0,1,0,0,8,52,0,0,Mahoning County,Canfield,,,,,,,,,,,,,,,
-#N/A,#N/A,LOWELLVILLE,"1,098",0,3,0,0,0,0,1,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,POLAND VILLAGE,"2,471",1,11,0,1,0,0,1,10,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SEBRING,"4,240",4,149,0,1,1,2,25,121,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Mahoning County,Struthers,STRUTHERS,"10,314",27,244,0,1,8,18,75,161,8,0,Mahoning County,Struthers,,,,,,,,,,,,,,,
-Mahoning County,Craig Beach,CRAIG BEACH,"1,137",0,3,0,0,0,0,0,3,0,0,Mahoning County,Craig Beach,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW MIDDLETOWN,"1,568",1,10,0,0,0,1,2,8,0,0,Mahoning County,New Middletown,,,,,,,,,,,,,,,
-#N/A,#N/A,BEAVER TOWNSHIP,"6,492",4,95,0,0,0,4,31,56,8,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,YOUNGSTOWN STATE UNIVERSITY,0,5,29,4,0,0,1,1,28,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Mahoning County,New Springfield,SPRINGFIELD TOWNSHIP,"6,446",3,76,0,2,0,1,32,40,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GOSHEN TOWNSHIP,"3,106",5,76,0,0,0,5,17,57,2,0,Clermont County,Goshen,,,,,,,,,,,,,,,
-#N/A,#N/A,MILTON TOWNSHIP,"2,470",1,33,0,1,0,0,9,23,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JACKSON TOWNSHIP,"2,042",1,16,0,0,0,1,4,10,2,0,Mahoning County,North Jackson,,,,,,,,,,,,,,,
-#N/A,#N/A,POLAND TOWNSHIP,"12,052",3,66,0,1,0,2,16,48,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,COITSVILLE TOWNSHIP,"1,344",3,35,0,0,0,3,14,18,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ALLIANCE,39,0,1,0,0,0,0,0,1,0,0,Stark County,Alliance,,,,,,,,,,,,,,,
-#N/A,#N/A,MAHONING COUNTY SHERIFF,"15,411",1,94,0,0,0,1,30,53,11,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MARION,"36,278",107,"1,320",1,22,37,47,517,772,31,9,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MARION COUNTY SHERIFF,"28,776",38,"1,175",0,19,12,7,166,"1,001",8,4,#N/A,#N/A,,,,,,,,,,,,,,,
-Medina County,Brunswick,BRUNSWICK,"34,774",25,224,0,1,0,24,28,182,14,1,Medina County,Brunswick,,,,,,,,,,,,,,,
-Medina County,Medina,MEDINA,"26,280",13,119,1,5,1,6,12,107,0,0,Medina County,Medina,,,,,,,,,,,,,,,
-Medina County,Wadsworth,WADSWORTH,"21,910",24,479,0,7,2,15,40,436,3,4,Medina County,Wadsworth,,,,,,,,,,,,,,,
-#N/A,#N/A,WESTFIELD CENTER,"1,137",0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Medina County,Lodi,LODI,"2,770",0,1,0,0,0,0,1,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Medina County,Spencer,SPENCER,766,0,6,0,0,0,0,0,6,0,0,Medina County,Spencer,,,,,,,,,,,,,,,
-Medina County,Hinckley,HINCKLEY TOWNSHIP,"8,041",6,28,2,0,0,4,15,13,0,0,Medina County,Hinckley,,,,,,,,,,,,,,,
-#N/A,#N/A,MONTVILLE TOWNSHIP,"11,815",2,46,0,1,0,1,8,38,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MEDINA TOWNSHIP,"9,015",5,141,0,2,0,3,13,126,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BRUNSWICK HILLS TOWNSHIP,"10,402",5,38,0,0,0,5,9,29,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,RITTMAN,114,0,2,0,0,0,0,1,1,0,0,Wayne County,Rittman,,,,,,,,,,,,,,,
-#N/A,#N/A,CRESTON,92,0,0,0,0,0,0,0,0,0,0,Wayne County,Creston,,,,,,,,,,,,,,,
-#N/A,#N/A,MEDINA COUNTY SHERIFF,"47,486",2,106,0,0,0,2,36,70,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MIDDLEPORT,"2,464",4,17,0,0,1,3,4,13,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,POMEROY,"1,815",0,3,0,0,0,0,0,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,RACINE,659,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,RUTLAND,379,0,4,0,0,0,0,1,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SYRACUSE,820,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MEIGS COUNTY SHERIFF,"16,996",36,232,2,4,6,24,71,146,15,5,#N/A,#N/A,,,,,,,,,,,,,,,
-Mercer County,Coldwater,COLDWATER,"4,501",0,20,0,0,0,0,2,17,1,0,Mercer County,Coldwater,,,,,,,,,,,,,,,
-Mercer County,Fort Recovery,FORT RECOVERY,"1,430",1,6,0,1,0,0,0,6,0,0,Mercer County,Fort Recovery,,,,,,,,,,,,,,,
-Mercer County,Rockford,ROCKFORD,"1,105",2,6,0,1,1,0,2,4,0,0,Mercer County,Rockford,,,,,,,,,,,,,,,
-#N/A,#N/A,MERCER COUNTY SHERIFF,"21,004",11,138,0,3,1,7,18,111,9,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Miami County,Piqua,PIQUA,"20,845",39,882,1,19,13,6,135,728,19,7,Miami County,Piqua,,,,,,,,,,,,,,,
-Miami County,Tipp City,TIPP CITY,"9,941",7,181,0,1,1,5,23,148,10,1,Miami County,Tipp City,,,,,,,,,,,,,,,
-Miami County,Troy,TROY,"25,745",22,724,0,13,3,6,145,567,12,6,Miami County,Troy,,,,,,,,,,,,,,,
-Miami County,Covington,COVINGTON,"2,633",3,29,0,0,2,1,2,27,0,0,Miami County,Covington,,,,,,,,,,,,,,,
-#N/A,#N/A,HUBER HEIGHTS,989,2,33,0,0,1,1,5,26,2,0,Dayton,Huber Heights,,,,,,,,,,,,,,,
-#N/A,#N/A,MIAMI COUNTY SHERIFF,"39,534",24,372,0,12,2,10,107,252,13,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WOODSFIELD,"2,343",0,5,0,0,0,0,1,3,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MONROE COUNTY SHERIFF,"12,014",11,56,0,5,0,6,19,31,6,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Montgomery County,Dayton,DAYTON,"140,260","1,402","7,235",36,133,496,737,"2,269","4,252",714,80,Dayton,Dayton,,,,,,,,,,,,,,,
-Montgomery County,Centerville,CENTERVILLE,"23,851",13,352,0,0,3,10,41,290,21,0,Dayton,Centerville,,,,,,,,,,,,,,,
-Montgomery County,Germantown,GERMANTOWN,"5,495",6,40,0,0,0,6,5,34,1,0,Dayton,Germantown,,,,,,,,,,,,,,,
-Montgomery County,Kettering,KETTERING,"54,915",73,"1,000",0,26,26,21,221,726,53,10,Dayton,Kettering,,,,,,,,,,,,,,,
-#N/A,#N/A,MIAMI TOWNSHIP,"29,140",39,"1,159",0,16,11,12,130,985,44,3,#N/A,#N/A,,,,,,,,,,,,,,,
-Montgomery County,Miamisburg,MIAMISBURG,"20,000",20,228,0,4,12,4,40,178,10,1,Dayton,Miamisburg,,,,,,,,,,,,,,,
-#N/A,#N/A,MORAINE,"6,385",34,684,1,14,10,9,82,565,37,3,Dayton,Moraine,,,,,,,,,,,,,,,
-Montgomery County,Clayton,CLAYTON,"13,129",6,135,0,0,3,3,27,97,11,0,Dayton,Clayton,,,,,,,,,,,,,,,
-Montgomery County,Trotwood,TROTWOOD,"24,024",90,962,11,20,37,22,341,506,115,11,Dayton,Trotwood,,,,,,,,,,,,,,,
-Montgomery County,Vandalia,VANDALIA,"15,073",14,328,0,2,9,3,63,232,33,3,Dayton,Vandalia,,,,,,,,,,,,,,,
-#N/A,#N/A,HUBER HEIGHTS,"37,191",82,"1,237",1,19,29,33,171,977,89,10,Dayton,Huber Heights,,,,,,,,,,,,,,,
-#N/A,#N/A,WEST CARROLLTON,"12,944",22,358,0,8,6,8,87,235,36,4,Dayton,West Carrollton,,,,,,,,,,,,,,,
-Montgomery County,Brookville,BROOKVILLE,"5,902",7,59,0,5,1,1,15,43,1,0,Dayton,Brookville,,,,,,,,,,,,,,,
-#N/A,#N/A,ENGLEWOOD,"13,455",13,409,0,2,5,6,30,367,12,0,Dayton,Englewood,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW LEBANON,"4,001",9,116,0,0,2,7,26,79,11,0,Dayton,New Lebanon,,,,,,,,,,,,,,,
-#N/A,#N/A,RIVERSIDE,"24,920",51,618,1,15,16,19,133,429,56,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BUTLER TOWNSHIP,"7,856",36,458,0,10,18,8,51,382,25,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GERMAN TOWNSHIP,"2,893",1,42,0,0,0,1,13,26,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,JACKSON TOWNSHIP,"3,682",1,14,0,0,0,1,3,10,1,0,Mahoning County,North Jackson,,,,,,,,,,,,,,,
-#N/A,#N/A,PERRY TOWNSHIP,"3,346",1,9,0,0,0,1,4,5,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Montgomery County,Clayton,CLAY TOWNSHIP,"4,217",2,20,0,2,0,0,6,14,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SINCLAIR COMMUNITY COLLEGE ,0,0,40,0,0,0,0,11,29,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CARLISLE,214,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SPRINGBORO,"1,260",0,7,0,0,0,0,1,6,0,0,Warren County,Springboro,,,,,,,,,,,,,,,
-#N/A,#N/A,MONTGOMERY COUNTY SHERIFF,"61,169",234,"1,440",7,50,89,88,527,723,190,23,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MCCONNELSVILLE,"1,790",4,29,0,2,0,2,5,22,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MORGAN COUNTY SHERIFF,"12,911",24,172,0,5,1,18,57,101,14,3,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CARDINGTON,"2,047",2,27,0,2,0,0,6,20,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Muskingum County,Zanesville,ZANESVILLE,"25,494",93,"1,288",0,18,28,47,230,"1,036",22,10,Muskingum County,Zanesville,,,,,,,,,,,,,,,
-Muskingum County,Dresden,DRESDEN,"1,736",2,0,0,0,0,2,0,0,0,0,Muskingum County,Dresden,,,,,,,,,,,,,,,
-Muskingum County,Frazeysburg,FRAZEYSBURG,"1,321",1,16,0,1,0,0,1,12,3,0,Muskingum County,Frazeysburg,,,,,,,,,,,,,,,
-Muskingum County,New Concord,NEW CONCORD,"2,317",0,15,0,0,0,0,1,14,0,0,Muskingum County,New Concord,,,,,,,,,,,,,,,
-Muskingum County,Roseville,ROSEVILLE,755,3,14,0,0,0,3,4,9,1,0,Muskingum County,Roseville,,,,,,,,,,,,,,,
-#N/A,#N/A,SOUTH ZANESVILLE,"1,974",1,22,0,0,1,0,6,15,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MUSKINGUM UNIVERSITY,0,1,8,0,1,0,0,4,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MUSKINGUM COUNTY SHERIFF,"52,599",48,"1,029",0,27,9,12,310,653,66,5,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NOBLE COUNTY SHERIFF,"12,569",0,88,0,0,0,0,24,59,5,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Ottawa County,Oak Harbor,OAK HARBOR,"2,705",1,42,0,1,0,0,5,37,0,0,Ottawa County,Oak Harbor,,,,,,,,,,,,,,,
-Ottawa County,Port Clinton,PORT CLINTON,"5,939",13,170,0,8,2,3,38,129,3,1,Ottawa County,Port Clinton,,,,,,,,,,,,,,,
-Ottawa County,Genoa,GENOA,"2,301",1,5,0,0,0,1,0,5,0,0,Ottawa County,Genoa,,,,,,,,,,,,,,,
-Ottawa County,Marblehead,MARBLEHEAD,885,0,2,0,0,0,0,0,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Ottawa County,Put in Bay,PUT-IN-BAY,136,3,1,0,0,0,3,0,1,0,0,Ottawa County,Put in Bay,,,,,,,,,,,,,,,
-#N/A,#N/A,CARROLL TOWNSHIP,"2,109",1,31,0,1,0,0,3,26,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,OTTAWA COUNTY SHERIFF,"19,724",8,231,0,5,2,1,50,178,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PAYNE,"1,148",0,4,0,0,0,0,0,3,1,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Paulding County,Paulding,PAULDING COUNTY SHERIFF,"13,259",14,138,1,7,1,5,39,99,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ROSEVILLE,"1,096",5,20,0,0,0,5,5,14,1,0,Muskingum County,Roseville,,,,,,,,,,,,,,,
-Perry County,Crooksville,CROOKSVILLE,"2,491",0,2,0,0,0,0,0,1,1,0,Perry County,Crooksville,,,,,,,,,,,,,,,
-Perry County,New Lexington,NEW LEXINGTON,"4,721",12,188,0,5,1,6,34,149,5,0,Perry County,New Lexington,,,,,,,,,,,,,,,
-#N/A,#N/A,JUNCTION CITY,808,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SHAWNEE,644,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Perry County,Somerset,SOMERSET,"1,461",0,4,0,0,0,0,0,4,0,0,Perry County,Somerset,,,,,,,,,,,,,,,
-Perry County,Thornville,THORNVILLE,997,0,12,0,0,0,0,0,12,0,0,Perry County,Thornville,,,,,,,,,,,,,,,
-#N/A,#N/A,PERRY COUNTY SHERIFF,"22,424",15,150,0,10,2,3,42,105,3,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Pickaway County,Circleville,CIRCLEVILLE,"13,930",37,674,0,5,12,20,97,569,8,0,Pickaway County,Circleville,,,,,,,,,,,,,,,
-Pickaway County,Ashville,ASHVILLE,"4,207",1,67,0,1,0,0,15,49,3,0,Pickaway County,Ashville,,,,,,,,,,,,,,,
-Pickaway County,Commercial Point,COMMERCIAL POINT,"1,616",2,10,0,2,0,0,0,9,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SOUTH BLOOMFIELD,"1,873",1,35,0,0,0,1,5,28,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PICKAWAY COUNTY SHERIFF,"35,552",29,700,0,3,3,23,173,497,30,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WAVERLY,"4,248",3,93,0,0,1,2,8,83,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PIKETON,"2,139",0,4,0,0,0,0,0,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PIKE COUNTY SHERIFF,"21,691",22,335,1,7,2,12,100,202,33,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Portage County,Aurora,AURORA,"15,897",11,168,0,2,5,4,9,157,2,0,Portage County,Aurora,,,,,,,,,,,,,,,
-Portage County,Garrettsville,GARRETTSVILLE,"2,326",0,9,0,0,0,0,1,8,0,0,Portage County,Garrettsville,,,,,,,,,,,,,,,
-Portage County,Kent,KENT,"29,995",67,496,1,0,13,53,95,385,16,2,Portage County,Kent,,,,,,,,,,,,,,,
-Portage County,Windham,WINDHAM,"2,201",3,32,0,0,1,2,6,26,0,0,Portage County,Windham,,,,,,,,,,,,,,,
-#N/A,#N/A,BRADY LAKE,464,1,5,0,0,0,1,2,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Portage County,Hiram,HIRAM,"1,238",0,1,0,0,0,0,0,1,0,0,Portage County,Hiram,,,,,,,,,,,,,,,
-#N/A,#N/A,KENT STATE UNIVERSITY,0,7,159,0,2,2,3,4,155,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-Portage County,Streetsboro,STREETSBORO,"16,364",6,244,0,0,1,5,28,207,9,1,Portage County,Streetsboro,,,,,,,,,,,,,,,
-#N/A,#N/A,BRIMFIELD TOWNSHIP,"10,406",9,243,0,5,3,1,16,221,6,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ROBINSON MEMORIAL HOSPITAL,0,1,2,0,0,0,1,0,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Portage County,Mogadore,MOGADORE,"1,030",0,11,0,0,0,0,2,8,1,0,Portage County,Mogadore,,,,,,,,,,,,,,,
-#N/A,#N/A,TALLMADGE,289,0,6,0,0,0,0,1,5,0,0,Summit County,Tallmadge,,,,,,,,,,,,,,,
-#N/A,#N/A,PORTAGE COUNTY SHERIFF,"70,423",48,"1,109",4,10,13,21,294,778,37,7,#N/A,#N/A,,,,,,,,,,,,,,,
-Preble County,Camden,CAMDEN,"1,955",0,4,0,0,0,0,0,4,0,0,Preble County,Camden,,,,,,,,,,,,,,,
-#N/A,#N/A,GRATIS,855,2,4,0,0,0,2,0,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Preble County,West Alexandria,WEST ALEXANDRIA,"1,334",1,23,0,0,0,1,7,15,1,0,Preble County,West Alexandria,,,,,,,,,,,,,,,
-#N/A,#N/A,PREBLE COUNTY SHERIFF,"27,021",14,307,2,6,3,3,125,169,13,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Putnam County,Ottawa,OTTAWA,"4,385",3,7,0,0,0,3,2,5,0,0,Putnam County,Ottawa,,,,,,,,,,,,,,,
-Putnam County,Columbus Grove,COLUMBUS GROVE,"2,052",1,1,0,1,0,0,0,1,0,0,Putnam County,Columbus Grove,,,,,,,,,,,,,,,
-Putnam County,Leipsic,LEIPSIC,"2,021",1,15,0,0,0,1,3,11,1,0,Putnam County,Leipsic,,,,,,,,,,,,,,,
-#N/A,#N/A,OTTOVILLE,969,1,3,0,0,0,1,1,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Putnam County,Pandora,PANDORA,"1,146",0,4,0,0,0,0,0,4,0,0,Putnam County,Pandora,,,,,,,,,,,,,,,
-#N/A,#N/A,KALIDA,"1,566",0,2,0,0,0,0,1,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PUTNAM COUNTY SHERIFF,"20,339",13,91,1,8,0,4,21,68,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Richland County,Mansfield,MANSFIELD,"46,656",209,"2,605",3,58,63,85,679,"1,805",121,26,Richland County,Mansfield,,,,,,,,,,,,,,,
-#N/A,#N/A,CRESTLINE,18,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,ONTARIO,"6,091",5,370,0,1,1,3,16,352,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Richland County,Plymouth,PLYMOUTH,914,1,6,0,1,0,0,2,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SHELBY,"9,012",17,258,0,5,2,10,58,199,1,0,Richland County,Shelby,,,,,,,,,,,,,,,
-Richland County,Bellville,BELLVILLE,"1,863",1,29,0,1,0,0,3,25,1,0,Richland County,Bellville,,,,,,,,,,,,,,,
-Richland County,Lexington,LEXINGTON,"4,715",0,5,0,0,0,0,0,5,0,0,Richland County,Lexington,,,,,,,,,,,,,,,
-#N/A,#N/A,RICHLAND COUNTY SHERIFF,"50,888",57,"1,164",3,24,7,23,447,694,23,5,#N/A,#N/A,,,,,,,,,,,,,,,
-Ross County,Chillicothe,CHILLICOTHE,"21,692",94,"1,747",0,8,34,52,350,"1,355",42,2,Ross County,Chillicothe,,,,,,,,,,,,,,,
-#N/A,#N/A,ROSS COUNTY SHERIFF,"55,194",120,"1,316",1,31,12,76,405,844,67,11,#N/A,#N/A,,,,,,,,,,,,,,,
-Sandusky County,Bellevue,BELLEVUE,"4,411",0,7,0,0,0,0,1,5,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Sandusky County,Clyde,CLYDE,"6,233",3,148,0,0,2,1,39,108,1,1,Sandusky County,Clyde,,,,,,,,,,,,,,,
-Sandusky County,Fremont,FREMONT,"16,215",32,842,2,0,11,19,155,668,19,0,Sandusky County,Fremont,,,,,,,,,,,,,,,
-#N/A,#N/A,SANDUSKY COUNTY SHERIFF,"27,156",54,211,0,0,1,53,41,166,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SANDUSKY COUNTY PARK DISTRICT,0,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PORTSMOUTH,"20,442",75,934,2,14,14,45,256,650,28,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SHAWNEE STATE UNIVERSITY,0,1,28,0,1,0,0,2,26,0,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SCIOTO COUNTY SHERIFF,"53,601",40,"1,026",0,13,11,16,344,620,62,9,#N/A,#N/A,,,,,,,,,,,,,,,
-Seneca County,Fostoria,FOSTORIA,"9,183",7,29,0,2,2,3,7,21,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Seneca County,Tiffin,TIFFIN,"17,637",13,418,0,5,3,5,76,328,14,0,Seneca County,Tiffin,,,,,,,,,,,,,,,
-#N/A,#N/A,SENECA COUNTY SHERIFF,"24,684",70,319,0,4,64,2,91,228,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Shelby County,Sidney,SIDNEY,"20,797",45,926,0,16,16,13,206,699,21,3,Shelby County,Sidney,,,,,,,,,,,,,,,
-Shelby County,Fort Loramie,FORT LORAMIE,"1,493",0,5,0,0,0,0,0,4,1,0,Shelby County,Fort Loramie,,,,,,,,,,,,,,,
-#N/A,#N/A,SHELBY COUNTY SHERIFF,"24,658",15,245,0,2,1,12,59,177,9,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Stark County,Canton,CANTON,"71,652",677,"3,664",8,77,171,421,951,"2,474",239,18,Stark County,Canton,,,,,,,,,,,,,,,
-#N/A,#N/A,MASSILLON,"32,268",100,684,2,25,27,46,161,498,25,10,Stark County,Massillon,,,,,,,,,,,,,,,
-Stark County,Alliance,ALLIANCE,"21,973",99,769,0,13,11,75,149,601,19,8,Stark County,Alliance,,,,,,,,,,,,,,,
-Stark County,Brewster,BREWSTER,"2,169",0,20,0,0,0,0,2,17,1,0,Stark County,Brewster,,,,,,,,,,,,,,,
-Stark County,Canal Fulton,CANAL FULTON,"5,489",2,73,0,2,0,0,14,56,3,0,Stark County,Canal Fulton,,,,,,,,,,,,,,,
-#N/A,#N/A,EAST CANTON,"1,602",1,18,0,1,0,0,0,18,0,1,Stark County,East Canton,,,,,,,,,,,,,,,
-Stark County,Hartville,HARTVILLE,"2,974",1,53,0,0,1,0,8,45,0,0,Stark County,Hartville,10,128,OH07609,6,MINERVA,"1,724",2,22,,,,2,,21,1
-Stark County,Louisville,LOUISVILLE,"9,115",14,114,0,2,2,10,24,84,6,0,Stark County,Louisville,10,128,OH07630,7,MAGNOLIA,258,1,11,,,,1,3,7,1
-Stark County,Minerva,MINERVA,"1,944",3,24,1,0,0,2,0,23,1,0,Stark County,Minerva,,,,,,,,,,,,,,,
-Stark County,Navarre,NAVARRE,"1,916",0,19,0,0,0,0,4,15,0,0,Stark County,Navarre,,,,,COUNTY TOTAL,"1,982",3,33,,,,3,3,28,2
-Stark County,North Canton,NORTH CANTON,"17,435",9,271,0,3,2,4,44,219,8,1,Stark County,North Canton,,,,,,,,,,,,,,,
-Stark County,Beach City,BEACH CITY,"1,007",0,0,0,0,0,0,0,0,0,0,Stark County,Beach City,,,,,,,,,,,,,,,
-#N/A,#N/A,LAWRENCE TOWNSHIP,"8,265",2,71,0,0,0,2,23,45,3,0,Stark County,North Lawrence,,,,,,,,,,,,,,,
-#N/A,#N/A,JACKSON TOWNSHIP,"40,780",72,"1,234",0,14,31,27,126,"1,087",21,3,Mahoning County,North Jackson,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIONTOWN,"3,330",2,81,0,1,0,1,21,58,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Stark County,Magnolia,MAGNOLIA,714,1,33,0,0,0,1,10,20,3,0,Stark County,Magnolia,,,,,,,,,,,,,,,
-#N/A,#N/A,STARK COUNTY SHERIFF,"117,913",89,"1,659",1,22,17,49,379,"1,146",134,10,#N/A,#N/A,,,,,,,,,,,,,,,
-Summit County,Akron,AKRON,"197,257","1,216","8,646",34,212,415,555,"2,483","5,483",680,94,Summit County,Akron,,,,,,,,,,,,,,,
-Summit County,Barberton,BARBERTON,"26,172",75,799,0,17,10,48,145,614,40,3,Summit County,Barberton,,,,,,,,,,,,,,,
-Summit County,Cuyahoga Falls,CUYAHOGA FALLS,"49,064",67,"1,143",0,24,14,29,116,977,50,5,Summit County,Cuyahoga Falls,,,,,,,,,,,,,,,
-Summit County,Hudson,HUDSON,"22,470",4,92,0,1,0,3,27,62,3,0,Summit County,Hudson,,,,,,,,,,,,,,,
-Summit County,Macedonia,MACEDONIA,"11,794",8,197,0,1,4,3,11,183,3,0,Summit County,Macedonia,,,,,,,,,,,,,,,
-#N/A,#N/A,MOGADORE,"2,889",1,30,0,0,0,1,6,23,1,0,Portage County,Mogadore,,,,,,,,,,,,,,,
-Summit County,Northfield,NORTHFIELD,"3,630",2,46,0,0,1,1,4,40,2,0,Summit County,Northfield,,,,,,,,,,,,,,,
-#N/A,#N/A,NORTON,"12,022",5,135,0,1,1,3,37,84,14,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,STOW,"34,792",30,642,0,11,5,14,66,569,7,2,Summit County,Stow,,,,,,,,,,,,,,,
-Summit County,Tallmadge,TALLMADGE,"17,213",23,397,0,4,9,10,72,310,15,0,Summit County,Tallmadge,,,,,,,,,,,,,,,
-Summit County,Twinsburg,TWINSBURG,"18,888",20,131,1,1,5,13,19,109,3,1,Summit County,Twinsburg,,,,,,,,,,,,,,,
-#N/A,#N/A,BOSTON HEIGHTS,"1,290",0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Summit County,Munroe Falls,MUNROE FALLS,"5,012",2,40,0,1,0,1,5,35,0,2,Summit County,Munroe Falls,,,,,,,,,,,,,,,
-Summit County,Peninsula,PENINSULA,572,1,27,0,0,1,0,3,24,0,0,Summit County,Peninsula,,,,,,,,,,,,,,,
-#N/A,#N/A,REMINDERVILLE,"4,097",0,30,0,0,0,0,1,28,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BATH TOWNSHIP,"9,896",4,156,0,1,0,3,13,141,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SPRINGFIELD TOWNSHIP,"17,813",34,895,0,10,4,20,119,748,28,3,#N/A,#N/A,,,,,,,,,,,,,,,
-Summit County,Copley,COPLEY TOWNSHIP,"17,653",5,108,0,2,1,2,12,91,5,0,Summit County,Copley,,,,,,,,,,,,,,,
-#N/A,#N/A,UNIVERSITY OF AKRON,0,10,191,0,3,5,2,10,172,9,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW FRANKLIN,"14,285",9,110,0,1,2,6,30,74,6,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SAGAMORE HILLS,"11,184",4,46,0,3,1,0,8,37,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,SUMMIT COUNTY SHERIFF,"49,694",63,"1,050",1,22,13,27,214,791,45,7,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,YOUNGSTOWN,11,0,0,0,0,0,0,0,0,0,0,Mahoning County,Youngstown,,,,,,,,,,,,,,,
-Trumbull County,Warren,WARREN,"40,005",228,"1,509",2,27,90,109,511,905,93,6,Trumbull County,Warren,,,,,,,,,,,,,,,
-Trumbull County,Hubbard,HUBBARD,"7,609",10,133,0,0,0,10,21,107,5,1,Trumbull County,Hubbard,,,,,,,,,,,,,,,
-#N/A,#N/A,LIBERTY TOWNSHIP,"11,655",32,188,1,1,7,23,42,132,14,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Trumbull County,Newton Falls,NEWTON FALLS,"4,628",9,92,0,3,2,4,17,72,3,0,Trumbull County,Newton Falls,,,,,,,,,,,,,,,
-Trumbull County,Niles,NILES,"18,538",53,524,1,8,21,23,79,431,14,1,Trumbull County,Niles,,,,,,,,,,,,,,,
-Trumbull County,Cortland,CORTLAND,"6,894",1,77,0,0,0,1,15,59,3,0,Trumbull County,Cortland,,,,,,,,,,,,,,,
-#N/A,#N/A,HOWLAND TOWNSHIP,"16,759",13,384,0,1,2,10,73,295,16,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Trumbull County,Lordstown,LORDSTOWN,"3,278",1,5,0,1,0,0,0,5,0,0,Trumbull County,Lordstown,,,,,,,,,,,,,,,
-#N/A,#N/A,BAZETTA TOWNSHIP,"5,683",2,207,0,0,0,2,14,190,3,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HUBBARD TOWNSHIP,"5,434",2,12,0,0,0,2,2,10,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HARTFORD TOWNSHIP,"1,999",0,8,0,0,0,0,0,8,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WARREN TOWNSHIP,"5,320",16,126,0,3,2,11,53,65,8,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WEATHERSFIELD,"8,035",4,73,0,1,2,1,22,44,7,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Trumbull County,Vienna Center,VIENNA TOWNSHIP,"3,817",5,65,0,1,0,4,15,49,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TRUMBULL COUNTY SHERIFF,"26,911",19,332,1,4,3,11,130,174,28,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Tuscarawas County,Dennison,DENNISON,"2,638",2,12,0,0,0,2,0,12,0,0,Tuscarawas County,Dennison,,,,,,,,,,,,,,,
-#N/A,#N/A,DOVER,"12,906",12,96,1,4,1,6,15,80,1,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEWCOMERSTOWN,"3,789",5,82,1,1,0,3,15,62,5,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NEW PHILADELPHIA,"17,526",3,188,0,1,0,2,9,177,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UHRICHSVILLE,"5,403",3,45,0,1,0,2,3,41,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,BOLIVAR,992,0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,GNADENHUTTEN,"1,289",1,12,0,0,0,1,0,11,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PORT WASHINGTON,570,0,5,0,0,0,0,1,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,STRASBURG,"2,693",0,21,0,0,0,0,1,19,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TUSCARAWAS,"1,056",0,1,0,0,0,0,0,1,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MUSKINGUM WATERSHED,0,3,40,0,0,0,3,5,33,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,TUSCARAWAS COUNTY SHERIFF,"41,022",10,346,0,4,1,5,107,215,24,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DUBLIN,"2,492",0,28,0,0,0,0,5,22,1,0,Franklin County,Dublin,,,,,,,,,,,,,,,
-Union County,Plain City,PLAIN CITY,828,0,3,0,0,0,0,0,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Union County,Marysville,MARYSVILLE,"22,952",7,144,0,2,1,4,15,123,6,1,Union County,Marysville,,,,,,,,,,,,,,,
-#N/A,#N/A,UNION COUNTY SHERIFF,"26,024",17,173,0,7,1,9,48,113,12,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,DELPHOS,"3,127",0,68,0,0,0,0,11,56,1,0,Allen County,Delphos,,,,,,,,,,,,,,,
-Van Wert County,Van Wert,VAN WERT,"10,794",29,353,0,10,1,18,86,262,5,0,Van Wert County,Van Wert,,,,,,,,,,,,,,,
-#N/A,#N/A,VAN WERT COUNTY SHERIFF,"14,584",9,138,1,7,0,1,46,88,4,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MCARTHUR,"1,656",2,27,0,2,0,0,8,18,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,VINTON COUNTY SHERIFF,"11,302",20,108,0,8,2,10,50,54,4,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,MIDDLETOWN,"2,701",13,181,0,2,4,7,43,131,7,0,Butler County,Middletown,,,,,,,,,,,,,,,
-#N/A,#N/A,MONROE,144,0,4,0,0,0,0,0,4,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,LOVELAND,815,0,9,0,0,0,0,1,7,1,0,Clermont County,Loveland,,,,,,,,,,,,,,,
-Warren County,Franklin,FRANKLIN,"11,782",23,542,1,4,10,8,136,390,16,0,Warren County,Franklin,,,,,,,,,,,,,,,
-#N/A,#N/A,LEBANON,"20,726",22,361,1,7,5,9,40,313,8,4,Warren County,Lebanon,,,,,,,,,,,,,,,
-Warren County,Mason,MASON,"33,026",6,330,0,3,2,1,17,305,8,1,Warren County,Mason,,,,,,,,,,,,,,,
-#N/A,#N/A,CARLISLE,"5,109",4,24,0,0,2,2,6,16,2,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,HAMILTON TOWNSHIP,"22,670",2,58,0,1,0,1,7,50,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Warren County,Maineville,MAINEVILLE,992,0,2,0,0,0,0,1,1,0,0,Warren County,Maineville,,,,,,,,,,,,,,,
-Warren County,Springboro,SPRINGBORO,"17,119",11,96,0,6,1,4,8,82,6,0,Warren County,Springboro,,,,,,,,,,,,,,,
-#N/A,#N/A,CLEARCREEK TOWNSHIP,"15,322",4,92,1,2,0,1,18,73,1,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WARREN COUNTY SHERIFF,"92,439",58,912,0,11,13,34,150,703,59,2,#N/A,#N/A,,,,,,,,,,,,,,,
-Washington County,Belpre,BELPRE,"6,484",11,107,0,3,2,6,13,85,9,1,Washington County,Belpre,,,,,,,,,,,,,,,
-Washington County,Marietta,MARIETTA,"13,867",8,101,0,2,4,2,16,82,3,1,Washington County,Marietta,,,,,,,,,,,,,,,
-#N/A,#N/A,MARIETTA COLLEGE,0,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WASHINGTON COUNTY SHERIFF,"37,826",31,305,1,6,1,23,94,190,21,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,NORTON,4,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Wayne County,Orrville,ORRVILLE,"8,514",16,111,3,4,1,8,30,80,1,1,Wayne County,Orrville,,,,,,,,,,,,,,,
-Wayne County,Rittman,RITTMAN,"6,484",4,135,0,1,1,2,36,85,14,2,Wayne County,Rittman,,,,,,,,,,,,,,,
-Wayne County,Wooster,WOOSTER,"26,883",73,776,0,24,14,35,127,633,16,10,Wayne County,Wooster,,,,,,,,,,,,,,,
-Wayne County,Apple Creek,APPLE CREEK,"1,186",0,5,0,0,0,0,1,4,0,0,Wayne County,Apple Creek,,,,,,,,,,,,,,,
-#N/A,#N/A,CRESTON,"2,093",0,15,0,0,0,0,4,8,3,0,Wayne County,Creston,,,,,,,,,,,,,,,
-Wayne County,Smithville,SMITHVILLE,"1,273",3,3,0,1,0,2,0,3,0,0,Wayne County,Smithville,,,,,,,,,,,,,,,
-#N/A,#N/A,WAYNE COUNTY SHERIFF,"60,882",32,497,0,12,2,18,202,270,25,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Williams County,Montpelier,MONTPELIER,"3,980",14,146,1,5,3,5,18,113,15,2,Williams County,Montpelier,,,,,,,,,,,,,,,
-Williams County,Pioneer,PIONEER,"1,406",2,23,0,1,0,1,7,16,0,0,Williams County,Pioneer,,,,,,,,,,,,,,,
-#N/A,#N/A,WILLIAMS COUNTY SHERIFF,"19,568",1,0,1,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,FOSTORIA,"1,036",0,3,0,0,0,0,1,2,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Wood County,Bowling Green,BOWLING GREEN,"31,404",42,560,0,19,8,15,64,486,10,1,Wood County,Bowling Green,,,,,,,,,,,,,,,
-Wood County,North Baltimore,NORTH BALTIMORE,"3,568",9,67,0,2,2,5,21,45,1,0,Wood County,North Baltimore,,,,,,,,,,,,,,,
-Wood County,Perrysburg,PERRYSBURG,"21,548",8,244,0,3,3,2,16,223,5,0,Wood County,Perrysburg,,,,,,,,,,,,,,,
-#N/A,#N/A,BLOOMDALE,695,0,1,0,0,0,0,1,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Wood County,Bradner,BRADNER,"1,026",0,4,0,0,0,0,1,3,0,0,Wood County,Bradner,,,,,,,,,,,,,,,
-Wood County,Haskins,HASKINS,"1,241",0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-Wood County,Northwood,NORTHWOOD,"5,376",6,133,0,2,3,1,21,110,2,0,Wood County,Northwood,,,,,,,,,,,,,,,
-Wood County,Pemberville,PEMBERVILLE,"1,433",1,3,0,1,0,0,0,3,0,0,Wood County,Pemberville,,,,,,,,,,,,,,,
-Wood County,Wayne,WAYNE,900,0,0,0,0,0,0,0,0,0,0,Wood County,Wayne,,,,,,,,,,,,,,,
-#N/A,#N/A,BOWLING GREEN STATE UNIVERSITY,0,0,135,0,0,0,0,4,130,1,2,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,PERRYSBURG TOWNSHIP,"12,813",6,162,0,1,2,3,28,129,5,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WOOD COUNTY SHERIFF,"29,598",13,358,0,7,1,5,85,251,22,4,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WOOD COUNTY PARK,0,0,0,0,0,0,0,0,0,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,CAREY,"3,570",0,5,0,0,0,0,2,3,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,UPPER SANDUSKY,"6,515",12,153,2,4,0,6,25,123,5,1,#N/A,#N/A,,,,,,,,,,,,,,,
-#N/A,#N/A,WYANDOT COUNTY SHERIFF,"11,229",2,17,0,0,0,2,8,9,0,0,#N/A,#N/A,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
->>>>>>> 434d5345fdc61b8493d96dd4be6ce845ee4d8945
+﻿County,City,AGENCY NAME,POPULATION,VIOLENT CRIME,PROPERTY CRIME,MURDER,RAPE,ROBBERY,AGGRAVATED ASSAULT,BURGLARY,LARCENY,MTR VEHICLE THEFT,ARSON
+#N/A,#N/A,,0,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,OHIO DEPARTMENT OF NATURAL RESOURCES,0,2,17,0,0,1,1,2,15,0,1
+#N/A,#N/A,OHIO STATE HGHWAY PATROL ,0,291,233,1,35,4,251,12,179,42,2
+#N/A,#N/A,MANCHESTER,"1,967",3,31,0,1,2,0,12,18,1,0
+#N/A,#N/A,PEEBLES,"1,758",3,6,0,0,1,2,4,2,0,0
+#N/A,#N/A,WEST UNION,"3,167",5,44,0,0,0,5,15,23,6,0
+#N/A,#N/A,SEAMAN,920,0,19,0,0,0,0,9,9,1,0
+#N/A,#N/A,WINCHESTER,"1,032",0,3,0,0,0,0,2,1,0,1
+#N/A,#N/A,ADAMS COUNTY SHERIFF,"19,039",6,157,0,3,0,3,57,83,17,1
+Allen County,Lima,LIMA,"37,715",356,"2,259",8,44,123,181,602,"1,540",117,22
+Allen County,Bluffton,BLUFFTON,"3,953",1,78,0,0,1,0,15,59,4,0
+Allen County,Delphos,DELPHOS,"3,884",2,83,0,1,0,1,13,69,1,0
+Allen County,Spencerville,SPENCERVILLE,"2,195",1,28,0,0,0,1,5,23,0,1
+Allen County,Elida,ELIDA,"1,852",0,16,0,0,0,0,3,12,1,0
+#N/A,#N/A,SHAWNEE TOWNSHIP,"12,173",7,144,0,4,0,3,40,99,5,0
+#N/A,#N/A,AMERICAN TOWNSHIP,"12,254",6,167,0,0,3,3,10,152,5,0
+#N/A,#N/A,MARION TOWNSHIP,"2,910",0,1,0,0,0,0,0,1,0,0
+#N/A,#N/A,ALLEN COUNTY SHERIFF,"23,534",27,870,0,6,14,7,205,639,26,3
+Ashland County,Ashland,ASHLAND,"20,278",24,405,2,14,1,7,73,325,7,1
+Ashland County,Loudonville,LOUDONVILLE,"2,561",14,46,0,7,0,7,4,41,1,0
+Ashland County,Ashland,ASHLAND COUNTY SHERIFF,"29,425",31,190,1,15,4,11,63,116,11,0
+Ashtabula County,Geneva,GENEVA-ON-THE-LAKE,"1,207",7,27,1,2,0,4,9,17,1,0
+Ashtabula County,Roaming Shores,ROAMING SHORES VILLAGE,"1,471",0,2,0,0,0,0,0,2,0,0
+Ashtabula County,Ashtabula,ASHTABULA COUNTY SHERIFF,"49,784",54,640,1,10,14,29,172,438,30,4
+Athens County,Athens,ATHENS,"25,203",27,462,0,6,8,13,47,404,11,1
+Athens County,Glouster,GLOUSTER,"1,798",3,39,0,2,0,1,15,23,1,2
+Athens County,Nelsonville,NELSONVILLE,"5,159",11,195,0,1,7,3,34,148,13,1
+Athens County,Albany,ALBANY,918,0,20,0,0,0,0,6,13,1,0
+#N/A,#N/A,OHIO UNIVERSITY,0,15,172,0,13,0,2,10,157,5,1
+Athens County,Athens,ATHENS COUNTY SHERIFF,"31,340",19,458,0,5,3,11,145,284,29,1
+Auglaize County,Saint Marys,ST. MARYS,"8,256",5,130,0,0,2,3,29,98,3,1
+Auglaize County,Wapakoneta,WAPAKONETA,"9,815",10,144,0,3,0,7,20,121,3,0
+Auglaize County,Minster,MINSTER,"2,853",0,9,0,0,0,0,2,5,2,0
+Auglaize County,New Bremen,NEW BREMEN,"2,961",0,16,0,0,0,0,1,15,0,0
+Auglaize County,New Knoxville,NEW KNOXVILLE,865,0,5,0,0,0,0,1,4,0,0
+#N/A,#N/A,AUGLAIZE COUNTY SHERIFF,"17,933",7,97,0,2,0,5,25,71,1,0
+Belmont County,Barnesville,BARNESVILLE,"4,112",1,14,0,0,0,1,6,8,0,0
+#N/A,#N/A,BELLAIRE,"4,172",9,46,0,0,1,8,5,38,3,1
+#N/A,#N/A,BRIDGEPORT,"1,786",3,18,1,1,0,1,5,12,1,0
+Belmont County,Martins Ferry,MARTINS FERRY,"6,761",12,110,0,2,0,10,33,72,5,0
+Belmont County,Powhatan Point,POWHATAN POINT,"1,569",1,1,0,0,0,1,0,1,0,0
+#N/A,#N/A,SHADYSIDE,"3,701",0,6,0,0,0,0,3,2,1,0
+Belmont County,Saint Clairsville,ST. CLAIRSVILLE,"5,090",4,9,0,0,0,4,1,8,0,0
+Belmont County,Flushing,FLUSHING,860,0,2,0,0,0,0,0,2,0,0
+Belmont County,Bethesda,BETHESDA,"1,243",0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,YORKVILLE,451,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,BELMONT COUNTY SHERIFF,"29,124",45,374,1,21,1,22,77,274,23,1
+#N/A,#N/A,ABERDEEN,"1,601",2,25,0,0,0,2,6,18,1,0
+#N/A,#N/A,GEORGETOWN,"4,436",5,102,0,3,1,1,21,78,3,0
+#N/A,#N/A,RIPLEY,"1,715",0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,MOUNT ORAB,"3,649",5,94,0,0,2,3,4,89,1,0
+#N/A,#N/A,RUSSELLVILLE,539,1,6,0,0,0,1,1,5,0,0
+#N/A,#N/A,BROWN COUNTY SHERIFF,"30,366",17,309,1,5,2,9,103,191,15,1
+Butler County,Fairfield,FAIRFIELD,"42,810",110,"1,045",1,17,21,71,144,866,35,2
+Butler County,Hamilton,HAMILTON,"62,423",320,"3,316",9,64,131,116,942,"2,365",9,26
+Butler County,Middletown,MIDDLETOWN,"46,067",242,"3,115",5,41,67,129,735,"2,253",127,0
+Butler County,Monroe,MONROE,"15,789",24,432,0,3,3,18,26,402,4,1
+#N/A,#N/A,NEW MIAMI,"2,328",0,2,0,0,0,0,2,0,0,0
+Butler County,Oxford,OXFORD,"22,197",23,270,1,3,4,15,53,206,11,2
+#N/A,#N/A,OXFORD TOWNSHIP,"2,175",4,32,0,1,0,3,11,21,0,0
+Butler County,West Chester,WEST CHESTER TOWNSHIP,"61,080",43,"1,340",0,15,14,14,155,"1,161",24,4
+#N/A,#N/A,ROSS TOWNSHIP,"8,720",6,83,0,2,1,3,19,60,4,0
+#N/A,#N/A,MIAMI UNIVERSITY,0,26,232,0,15,0,11,57,170,5,2
+#N/A,#N/A,FAIRFIELD TOWNSHIP,"22,417",28,598,1,9,4,14,56,534,8,1
+#N/A,#N/A,BUTLER COUNTY SHERIFF,"76,582",45,"1,035",0,17,6,22,276,748,11,2
+#N/A,#N/A,BUTLER COUNTY METROPARKS,0,0,2,0,0,0,0,2,0,0,0
+#N/A,#N/A,MINERVA,"1,724",2,22,0,0,0,2,0,21,1,0
+#N/A,#N/A,MAGNOLIA,258,1,11,0,0,0,1,3,7,1,0
+#N/A,#N/A,MECHANICSBURG,"1,591",3,45,0,1,0,2,10,32,3,0
+#N/A,#N/A,URBANA,"11,482",14,420,0,3,5,6,78,323,19,7
+#N/A,#N/A,ST. PARIS,"2,014",0,16,0,0,0,0,0,15,1,0
+#N/A,#N/A,CHAMPAIGN COUNTY SHERIFF,"23,639",17,330,1,4,0,12,108,191,31,3
+Clark County,Springfield,SPRINGFIELD,"59,503",411,"4,040",5,34,184,188,963,"2,817",260,58
+Clark County,Enon,ENON,"2,389",0,2,0,0,0,0,1,1,0,0
+Clark County,South Charleston,SOUTH CHARLESTON,"1,655",2,23,0,0,0,2,3,18,2,0
+Clark County,South Vienna,SOUTH VIENNA,378,1,14,0,0,0,1,1,12,1,0
+#N/A,#N/A,CLARK COUNTY SHERIFF,"63,842",46,"1,174",0,10,9,27,303,807,64,4
+Clermont County,Batavia,BATAVIA,"1,654",6,55,0,1,2,3,11,42,2,2
+Clermont County,Bethel,BETHEL,"2,782",6,95,0,1,0,5,9,84,2,0
+Clermont County,Milford,MILFORD,"6,881",9,230,0,1,5,3,25,201,4,0
+Clermont County,Amelia,AMELIA,"4,957",0,25,0,0,0,0,5,20,0,0
+Clermont County,Felicity,FELICITY,830,2,42,0,0,0,2,6,36,0,0
+Clermont County,New Richmond,NEW RICHMOND,"2,651",12,74,0,3,2,7,22,47,5,1
+#N/A,#N/A,NEWTONSVILLE,393,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,OWENSVILLE,818,4,3,0,2,1,1,0,3,0,0
+Clermont County,Williamsburg,WILLIAMSBURG,"2,560",3,63,0,0,1,2,9,54,0,0
+Clermont County,Goshen,GOSHEN TOWNSHIP,"15,787",6,166,0,3,1,2,33,126,7,1
+#N/A,#N/A,MIAMI TOWNSHIP,"42,109",26,569,0,11,4,11,84,459,26,4
+#N/A,#N/A,UNION TOWNSHIP,"47,933",43,962,0,17,12,14,87,854,21,2
+#N/A,#N/A,PIERCE TOWNSHIP,"11,559",3,182,0,1,1,1,33,148,1,0
+Clermont County,Loveland,LOVELAND,"2,036",0,21,0,0,0,0,3,16,2,0
+#N/A,#N/A,CLERMONT COUNTY SHERIFF,"59,626",98,"1,366",1,27,7,63,501,814,51,3
+Clinton County,Blanchester,BLANCHESTER,"4,249",6,75,1,0,1,4,6,65,4,1
+Clinton County,New Vienna,NEW VIENNA,"1,199",0,5,0,0,0,0,0,5,0,0
+Clinton County,Sabina,SABINA,"2,530",2,63,0,1,0,1,14,46,3,0
+Clinton County,Wilmington,WILMINGTON,"12,443",18,578,0,9,2,7,59,499,20,2
+#N/A,#N/A,LYNCHBURG,2,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,CLINTON COUNTY SHERIFF,"21,443",2,28,0,0,0,2,9,19,0,0
+Columbiana County,Columbiana,COLUMBIANA,"5,604",3,79,0,2,0,1,20,59,0,2
+Columbiana County,East Palestine,EAST PALESTINE,"4,548",6,62,0,1,2,3,21,39,2,0
+Columbiana County,Lisbon,LISBON,"2,709",0,39,0,0,0,0,5,33,1,0
+Columbiana County,Salem,SALEM,"11,939",9,310,0,1,1,7,18,286,6,1
+#N/A,#N/A,SALINEVILLE,"1,266",1,23,0,0,0,1,1,22,0,1
+Columbiana County,New Waterford,NEW WATERFORD,"1,195",0,2,0,0,0,0,1,1,0,0
+#N/A,#N/A,WASHINGTONVILLE,435,0,2,0,0,0,0,0,2,0,0
+#N/A,#N/A,ST. CLAIR TOWNSHIP,"7,704",0,40,0,0,0,0,0,40,0,0
+#N/A,#N/A,PERRY TOWNSHIP,"4,420",0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,MINERVA,2,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,COLUMBIANA COUNTY SHERIFF,"37,848",19,5,1,9,0,9,3,2,0,0
+Coshocton County,West Lafayette,WEST LAFAYETTE,"2,279",3,8,0,2,0,1,1,7,0,0
+Coshocton County,Coshocton,COSHOCTON COUNTY SHERIFF,"34,172",39,514,0,9,5,25,184,307,23,7
+#N/A,#N/A,BUCYRUS,"11,830",24,491,0,4,9,11,90,394,7,2
+#N/A,#N/A,CRESTLINE,"4,384",9,98,0,3,2,4,35,56,7,0
+#N/A,#N/A,GALION,"10,053",17,341,0,5,4,8,73,264,4,3
+#N/A,#N/A,CRAWFORD COUNTY SHERIFF,"14,769",6,138,0,5,0,1,61,70,7,0
+Cuyahoga County,Cleveland,CLEVELAND,"386,227","6,299","20,533",135,488,"2,980","2,696","6,333","10,001","4,199",315
+#N/A,#N/A,NOTRE DAME COLLEGE,0,1,39,0,1,0,0,6,32,1,0
+Cuyahoga County,Bay Village,BAY VILLAGE,"15,346",2,64,0,1,0,1,12,49,3,0
+Cuyahoga County,Bedford,BEDFORD,"12,678",30,255,0,1,18,11,29,187,39,0
+#N/A,#N/A,BEDFORD HEIGHTS,"10,594",28,290,0,4,9,15,71,176,43,0
+#N/A,#N/A,BENTLEYVILLE VILLAGE,855,0,1,0,0,0,0,0,1,0,0
+Cuyahoga County,Berea,BEREA,"18,805",11,181,0,2,5,4,19,154,8,1
+Cuyahoga County,Brecksville,BRECKSVILLE,"13,390",4,54,0,0,2,2,5,47,2,1
+Cuyahoga County,Broadview Heights,BROADVIEW HEIGHTS,"19,186",0,24,0,0,0,0,7,17,0,0
+#N/A,#N/A,BROOKLYN,"10,841",29,673,2,5,15,7,44,585,44,0
+#N/A,#N/A,CHAGRIN FALLS,"4,003",4,27,2,1,0,1,3,24,0,0
+Cuyahoga County,Cleveland Heights,CLEVELAND HEIGHTS,"44,696",145,997,3,9,80,53,118,781,98,3
+#N/A,#N/A,EAST CLEVELAND,"17,240",111,342,7,4,66,34,94,131,117,4
+Cuyahoga County,Euclid,EUCLID,"47,416",275,"1,329",8,17,107,143,343,804,182,5
+Cuyahoga County,Fairview Park,FAIRVIEW PARK,"16,318",32,227,0,0,6,26,35,183,9,0
+Cuyahoga County,Garfield Heights,GARFIELD HEIGHTS,"27,938",37,190,0,7,17,13,74,116,0,2
+#N/A,#N/A,GLENWILLOW,926,0,7,0,0,0,0,0,6,1,0
+#N/A,#N/A,HIGHLAND HEIGHTS,"8,402",1,99,0,0,1,0,5,93,1,0
+#N/A,#N/A,INDEPENDENCE,"7,132",11,120,0,0,1,10,6,111,3,0
+Cuyahoga County,Lakewood,LAKEWOOD,"50,349",63,876,3,8,32,20,144,665,67,4
+Cuyahoga County,Lyndhurst,LYNDHURST,"13,624",14,194,0,5,6,3,19,169,6,2
+#N/A,#N/A,MAYFIELD HEIGHTS,"18,770",14,189,0,0,9,5,11,176,2,0
+#N/A,#N/A,MORELAND HILLS,"3,303",1,10,0,0,1,0,3,7,0,0
+Cuyahoga County,North Olmsted,NORTH OLMSTED,"31,851",26,619,1,6,13,6,69,512,38,0
+#N/A,#N/A,OLMSTED TOWNSHIP,"13,228",1,43,0,0,1,0,15,25,3,0
+Cuyahoga County,Olmsted Falls,OLMSTED FALLS,"8,859",3,30,0,0,0,3,11,17,2,0
+Cuyahoga County,Parma,PARMA,"79,576",108,"1,102",0,26,43,39,271,712,119,11
+#N/A,#N/A,PEPPER PIKE,"6,247",1,32,0,0,1,0,6,25,1,0
+Cuyahoga County,Richmond Heights,RICHMOND HEIGHTS,"10,445",27,249,0,2,15,10,56,165,28,0
+Cuyahoga County,Rocky River,ROCKY RIVER,"20,400",7,81,0,1,0,6,15,62,4,0
+Cuyahoga County,Seven Hills,SEVEN HILLS,"11,661",4,64,0,1,1,2,16,46,2,0
+Cuyahoga County,Solon,SOLON,"22,971",11,175,1,5,1,4,15,154,6,1
+Cuyahoga County,South Euclid,SOUTH EUCLID,"21,686",35,570,0,4,23,8,57,474,39,0
+Cuyahoga County,Strongsville,STRONGSVILLE,"44,626",19,882,0,0,14,5,65,797,20,1
+#N/A,#N/A,UNIVERSITY HEIGHTS,"13,131",45,305,0,7,27,11,29,260,16,4
+#N/A,#N/A,VALLEY VIEW,"2,007",0,35,0,0,0,0,8,23,4,0
+#N/A,#N/A,WALTON HILLS,"2,236",0,29,0,0,0,0,3,24,2,0
+Cuyahoga County,Westlake,WESTLAKE,"32,353",14,461,0,0,5,9,37,403,21,3
+#N/A,#N/A,WOODMERE VILLAGE,859,2,56,0,1,0,1,1,38,17,0
+#N/A,#N/A,CLEVELAND STATE UNIVERSITY,0,8,187,0,4,3,1,3,178,6,0
+#N/A,#N/A,LINNDALE,175,0,1,0,0,0,0,1,0,0,0
+#N/A,#N/A,CLEVELAND METRO PARK,0,12,164,0,5,5,2,3,159,2,3
+#N/A,#N/A,CUYAHOGA COMMUNITY COLLEGE,0,3,66,0,1,1,1,4,58,4,0
+#N/A,#N/A,GREENVILLE,"12,962",44,315,0,13,8,23,74,217,24,14
+#N/A,#N/A,UNION CITY,"1,632",0,8,0,0,0,0,1,7,0,0
+#N/A,#N/A,DARKE COUNTY SHERIFF,"33,140",6,44,0,0,0,6,16,27,1,2
+Defiance County,Defiance,DEFIANCE,"16,697",25,341,0,16,1,8,42,291,8,3
+#N/A,#N/A,DEFIANCE COUNTY SHERIFF,"18,017",22,141,1,13,3,5,38,102,1,0
+#N/A,#N/A,COLUMBUS,"8,024",41,316,1,8,19,13,70,214,32,4
+#N/A,#N/A,DELAWARE,"38,658",73,890,0,35,14,24,154,714,22,7
+Delaware County,Ostrander,OSTRANDER,697,1,0,0,0,0,1,0,0,0,0
+Delaware County,Powell,POWELL,"13,273",0,106,0,0,0,0,24,80,2,0
+#N/A,#N/A,SHAWNEE HILLS,746,0,6,0,0,0,0,2,4,0,0
+#N/A,#N/A,SUNBURY,"5,242",0,56,0,0,0,0,9,46,1,0
+#N/A,#N/A,DUBLIN,"4,476",2,51,0,1,0,1,10,40,1,0
+#N/A,#N/A,WESTERVILLE,"8,411",5,202,0,2,2,1,16,183,3,1
+#N/A,#N/A,DELAWARE COUNTY SHERIFF,"90,604",63,"1,107",1,23,14,25,246,847,14,5
+Erie County,Sandusky,SANDUSKY,"25,078",45,911,1,6,19,19,199,680,32,3
+#N/A,#N/A,VERMILION,"4,621",1,47,0,0,0,1,6,40,1,0
+#N/A,#N/A,BAY VIEW,609,0,3,0,0,0,0,1,2,0,0
+Erie County,Milan,MILAN,984,1,19,0,1,0,0,4,15,0,0
+#N/A,#N/A,PERKINS TOWNSHIP,"11,844",16,308,0,0,7,9,5,303,0,0
+#N/A,#N/A,CEDAR POINT,0,0,16,0,0,0,0,1,15,0,0
+#N/A,#N/A,BELLEVUE,2,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,ERIE COUNTY SHERIFF,"24,027",3,378,0,0,1,2,84,289,5,0
+#N/A,#N/A,COLUMBUS,"10,285",54,422,1,10,26,17,93,286,43,5
+Fairfield County,Lancaster,LANCASTER,"39,959",141,"1,826",0,30,46,65,271,"1,499",56,6
+Fairfield County,Baltimore,BALTIMORE,"2,970",1,25,0,0,0,1,7,16,2,0
+Fairfield County,Carroll,CARROLL,519,0,6,0,0,0,0,0,6,0,0
+Fairfield County,Lithopolis,LITHOPOLIS,"1,350",0,13,0,0,0,0,3,10,0,0
+#N/A,#N/A,MILLERSPORT,"1,050",0,2,0,0,0,0,0,2,0,0
+Fairfield County,Pickerington,PICKERINGTON,"19,964",16,428,0,0,10,6,42,380,6,0
+#N/A,#N/A,REYNOLDSBURG,927,2,33,0,0,1,1,4,28,1,0
+#N/A,#N/A,FAIRFIELD COUNTY SHERIFF,"74,766",40,946,0,14,1,25,143,791,12,4
+Fayette County,Washington Court House,WASHINGTON COURT HOUSE,"13,986",37,612,0,9,9,19,137,459,16,2
+#N/A,#N/A,FAYETTE COUNTY SHERIFF,"14,589",24,513,2,10,5,7,157,346,10,2
+Franklin County,Columbus,COLUMBUS,"844,206","4,405","34,368",89,849,"2,099","1,368","7,593","23,300","3,475",396
+#N/A,#N/A,LITHOPOLIS,51,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,PICKERINGTON,76,0,2,0,0,0,0,0,2,0,0
+#N/A,#N/A,CAPITAL UNIVERSITY,0,0,51,0,0,0,0,20,30,1,1
+Franklin County,Bexley,BEXLEY,"13,775",26,359,0,12,13,1,99,242,18,0
+Franklin County,Dublin,DUBLIN,"38,892",20,438,0,8,5,7,82,344,12,2
+Franklin County,Gahanna,GAHANNA,"34,859",20,789,0,10,6,4,99,660,30,2
+Franklin County,Grandview Heights,GRANDVIEW HEIGHTS,"7,502",1,144,0,0,1,0,43,95,6,0
+Franklin County,Grove City,GROVE CITY,"40,161",43,"1,678",2,7,26,8,144,"1,476",58,4
+Franklin County,Hilliard,HILLIARD,"34,832",33,344,0,11,9,13,67,253,24,0
+Franklin County,Reynoldsburg,REYNOLDSBURG,"27,474",61,987,5,6,26,24,115,833,39,5
+Franklin County,Upper Arlington,UPPER ARLINGTON,"35,150",16,535,1,4,8,3,67,449,19,1
+Franklin County,Westerville,WESTERVILLE,"30,397",16,733,0,5,7,4,59,661,13,4
+Franklin County,Whitehall,WHITEHALL,"18,804",153,"1,163",2,25,74,52,299,794,70,9
+Franklin County,Worthington,WORTHINGTON,"14,689",5,233,0,0,4,1,28,195,10,2
+#N/A,#N/A,FRANKLIN COUNTY METRO PARKS,0,0,10,0,0,0,0,0,10,0,0
+Franklin County,Groveport,GROVEPORT,"5,813",5,178,0,2,1,2,19,149,10,2
+#N/A,#N/A,HARRISBURG,337,0,1,0,0,0,0,1,0,0,0
+#N/A,#N/A,MINERVA PARK,"1,327",1,19,0,0,1,0,3,16,0,0
+Franklin County,New Albany,NEW ALBANY,"10,210",5,168,0,2,1,2,16,142,10,0
+#N/A,#N/A,THE OHIO STATE UNIVERSITY: COLUMBUS,0,33,820,0,14,8,11,23,783,14,2
+#N/A,#N/A,PERRY TOWNSHIP,"3,799",0,53,0,0,0,0,5,48,0,0
+#N/A,#N/A,MADISON TOWNSHIP,"18,466",22,210,0,1,12,9,59,137,14,0
+#N/A,#N/A,SHARON TOWNSHIP,"2,451",0,33,0,0,0,0,3,29,1,0
+#N/A,#N/A,COLUMBUS STATE COMMUNITY COLLEGE,0,0,52,0,0,0,0,1,51,0,0
+#N/A,#N/A,OTTERBEIN UNIVERSITY,0,0,34,0,0,0,0,2,32,0,0
+#N/A,#N/A,FRANKLIN COUNTY SHERIFF,"54,322",3,55,0,2,1,0,15,38,2,0
+Fulton County,Archbold,ARCHBOLD,"4,342",4,58,0,0,0,4,12,46,0,1
+Fulton County,Fayette,FAYETTE,"1,266",6,10,0,5,0,1,6,4,0,0
+Fulton County,Swanton,SWANTON,"3,754",3,27,0,2,0,1,4,23,0,0
+Fulton County,Wauseon,WAUSEON,"7,311",7,197,0,3,1,3,13,183,1,0
+#N/A,#N/A,FULTON COUNTY SHERIFF,"22,667",15,250,2,7,1,5,82,156,12,4
+#N/A,#N/A,GALLIPOLIS,"3,435",10,442,0,1,3,6,46,382,14,2
+#N/A,#N/A,RIO GRANDE,839,3,16,0,2,0,1,7,9,0,1
+#N/A,#N/A,UNIVERSITY OF RIO GRANDE,0,1,0,0,1,0,0,0,0,0,0
+#N/A,#N/A,GALLIA COUNTY SHERIFF,"25,513",21,302,1,4,2,14,98,188,16,1
+Geauga County,Chardon,CHARDON,"5,162",7,66,0,0,0,7,3,63,0,0
+Geauga County,Burton,BURTON,"1,463",0,3,0,0,0,0,1,2,0,0
+Geauga County,Middlefield,MIDDLEFIELD,"2,694",0,44,0,0,0,0,1,43,0,0
+#N/A,#N/A,SOUTH RUSSELL,"3,827",2,4,0,1,1,0,0,4,0,0
+#N/A,#N/A,RUSSELL TOWNSHIP,"5,250",1,15,0,0,0,1,0,15,0,0
+Geauga County,Chesterland,CHESTER TOWNSHIP,"10,371",0,18,0,0,0,0,3,15,0,0
+#N/A,#N/A,GEAUGA COUNTY SHERIFF,"53,686",20,210,2,7,2,9,49,144,17,2
+#N/A,#N/A,FAIRBORN,"33,587",84,908,3,32,21,28,189,664,55,8
+Greene County,Xenia,XENIA,"26,037",53,821,1,13,11,28,134,665,22,6
+Greene County,Yellow Springs,YELLOW SPRINGS,"3,857",2,79,0,0,1,1,18,59,2,0
+Greene County,Bellbrook,BELLBROOK,"7,074",3,57,0,2,0,1,4,51,2,0
+Greene County,Jamestown,JAMESTOWN,"2,034",1,72,0,0,0,1,28,42,2,0
+Greene County,Beavercreek,BEAVERCREEK,"46,490",32,"1,065",0,14,13,5,64,969,32,2
+#N/A,#N/A,WRIGHT STATE UNIVERSITY,0,5,88,0,2,2,1,13,72,3,0
+#N/A,#N/A,SUGARCREEK TOWNSHIP,"8,283",3,159,0,1,2,0,9,146,4,0
+#N/A,#N/A,CENTRAL STATE UNIVERSITY,0,2,77,0,1,0,1,13,60,4,0
+#N/A,#N/A,CENTERVILLE,2,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,KETTERING,469,0,8,0,0,0,0,2,6,0,0
+#N/A,#N/A,GREENE COUNTY SHERIFF,"32,737",15,384,0,7,2,6,101,262,21,4
+Guernsey County,Cambridge,CAMBRIDGE,"10,341",14,484,1,0,3,10,83,388,13,0
+Guernsey County,Byesville,BYESVILLE,"2,363",0,8,0,0,0,0,0,8,0,1
+Guernsey County,Senecaville,SENECAVILLE,443,0,0,0,0,0,0,0,0,0,0
+Hamilton County,Cincinnati,CINCINNATI,"298,880","2,720","15,382",57,249,"1,278","1,136","3,929","10,216","1,237",485
+#N/A,#N/A,MILFORD,29,0,1,0,0,0,0,0,1,0,0
+#N/A,#N/A,AMBERLEY VILLAGE,"3,592",1,43,0,0,1,0,0,42,1,0
+Hamilton County,Blue Ash,BLUE ASH,"12,169",11,320,0,4,4,3,41,273,6,3
+#N/A,#N/A,CHEVIOT,"8,281",30,254,0,4,10,16,46,198,10,0
+Hamilton County,Deer Park,DEER PARK,"5,672",9,74,0,1,4,4,9,63,2,0
+#N/A,#N/A,DELHI TOWNSHIP,"29,573",20,514,0,10,1,9,84,409,21,1
+#N/A,#N/A,ELMWOOD PLACE,"2,160",10,35,2,2,3,3,10,21,4,0
+#N/A,#N/A,EVENDALE,"2,766",6,238,0,0,1,5,7,231,0,0
+#N/A,#N/A,FAIRFAX,"1,704",3,261,0,0,2,1,12,249,0,0
+Hamilton County,Forest Park,FOREST PARK,"18,669",47,633,0,9,21,17,157,449,27,2
+#N/A,#N/A,GLENDALE,"2,153",1,9,0,0,1,0,0,6,3,0
+Hamilton County,Greenhills,GREENHILLS,"3,589",1,36,0,1,0,0,8,27,1,1
+Hamilton County,Harrison,HARRISON,"10,819",0,306,0,0,0,0,15,282,9,0
+#N/A,#N/A,INDIAN HILL,"5,801",1,44,0,0,0,1,8,36,0,0
+#N/A,#N/A,LOCKLAND,"3,422",20,121,0,3,10,7,22,92,7,1
+#N/A,#N/A,LOVELAND,"9,840",6,102,0,2,3,1,17,78,7,1
+#N/A,#N/A,MARIEMONT,"3,431",1,45,0,0,1,0,3,40,2,0
+Hamilton County,Montgomery,MONTGOMERY,"10,558",4,148,0,0,0,4,14,130,4,0
+#N/A,#N/A,MOUNT HEALTHY,"6,028",31,259,4,3,16,8,45,196,18,1
+#N/A,#N/A,NEWTOWN,"2,663",3,31,0,0,1,2,6,22,3,0
+#N/A,#N/A,NORTH COLLEGE HILL,"9,320",30,311,1,4,13,12,38,247,26,0
+Hamilton County,Norwood,NORWOOD,"20,065",52,"1,013",0,12,28,12,166,798,49,2
+Hamilton County,Springdale,SPRINGDALE,"11,175",7,118,0,0,3,4,16,95,7,1
+#N/A,#N/A,SPRINGFIELD TOWNSHIP,"36,527",60,794,1,6,33,20,172,565,57,5
+#N/A,#N/A,WOODLAWN,"3,292",6,115,0,1,1,4,11,98,6,0
+#N/A,#N/A,WYOMING,"8,407",5,159,0,0,4,1,17,139,3,1
+#N/A,#N/A,UNIVERSITY OF CINCINNATI,0,45,254,0,40,2,3,18,233,3,0
+#N/A,#N/A,COLERAIN TOWNSHIP,"58,907",111,"2,135",2,19,59,31,310,"1,760",65,3
+#N/A,#N/A,GREEN TOWNSHIP,"58,764",39,"1,215",0,10,22,7,176,989,50,0
+#N/A,#N/A,MOUNT ST. JOSEPH UNIVERSITY,0,0,13,0,0,0,0,3,10,0,0
+#N/A,#N/A,HAMILTON COUNTY SHERIFF,"109,990",183,"2,743",2,41,38,102,436,"2,163",144,12
+#N/A,#N/A,HAMILTON COUNTY PARKS,0,0,66,0,0,0,0,1,62,3,0
+#N/A,#N/A,BLUFFTON,174,0,4,0,0,0,0,1,3,0,0
+Hancock County,Findlay,FINDLAY,"41,156",53,630,3,15,9,26,104,515,11,1
+#N/A,#N/A,FOSTORIA,"2,900",1,8,0,0,0,1,2,6,0,0
+#N/A,#N/A,HANCOCK COUNTY SHERIFF,"29,782",12,227,1,3,2,6,80,142,5,0
+#N/A,#N/A,ADA,"5,782",1,38,0,0,0,1,7,27,4,0
+#N/A,#N/A,KENTON,"8,199",19,415,0,7,5,7,96,311,8,1
+#N/A,#N/A,FOREST,"1,437",1,16,0,0,1,0,4,12,0,0
+#N/A,#N/A,HARDIN COUNTY SHERIFF,"16,141",8,147,0,2,1,5,43,97,7,2
+#N/A,#N/A,CADIZ,"3,256",7,60,0,2,2,3,16,42,2,0
+#N/A,#N/A,NEW ATHENS,320,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,HARRISON COUNTY SHERIFF,"10,987",6,94,0,1,2,3,34,56,4,1
+#N/A,#N/A,NAPOLEON,"8,566",11,197,0,3,1,7,25,171,1,0
+#N/A,#N/A,DESHLER,"1,779",0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,HENRY COUNTY SHERIFF,"16,102",20,164,2,1,1,16,43,120,1,0
+Highland County,Greenfield,GREENFIELD,"4,559",6,102,0,1,1,4,20,72,10,1
+Highland County,Hillsboro,HILLSBORO,"6,547",8,203,1,2,1,4,33,166,4,0
+Highland County,Leesburg,VILLAGE OF LEESBURG,"1,289",0,46,0,0,0,0,9,37,0,0
+Highland County,Lynchburg,LYNCHBURG,"1,482",4,20,0,3,0,1,8,12,0,0
+#N/A,#N/A,MOWRYSTOWN,359,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,HIGHLAND COUNTY SHERIFF,"28,369",26,385,4,6,1,15,130,237,18,7
+Hocking County,Logan,LOGAN,"7,106",15,243,0,6,1,8,38,200,5,2
+#N/A,#N/A,HOCKING COUNTY SHERIFF,"20,628",14,358,0,5,1,8,120,218,20,3
+#N/A,#N/A,LOUDONVILLE,60,0,1,0,0,0,0,0,1,0,0
+#N/A,#N/A,MILLERSBURG,"3,174",3,91,0,0,3,0,4,86,1,0
+#N/A,#N/A,HOLMES COUNTY SHERIFF,"40,626",5,204,1,4,0,0,50,139,15,1
+#N/A,#N/A,MILAN,359,0,6,0,0,0,0,1,5,0,0
+#N/A,#N/A,NORWALK,"16,792",10,440,0,3,2,5,68,365,7,1
+#N/A,#N/A,WILLARD,"6,031",4,302,0,1,2,1,68,222,12,0
+#N/A,#N/A,BELLEVUE,"3,555",0,5,0,0,0,0,1,4,0,0
+#N/A,#N/A,MONROEVILLE,"1,364",0,3,0,0,0,0,0,3,0,0
+#N/A,#N/A,PLYMOUTH,878,0,4,0,0,0,0,1,3,0,0
+#N/A,#N/A,JACKSON,"6,211",10,151,1,3,1,5,18,127,6,1
+#N/A,#N/A,WELLSTON,"5,459",18,161,0,2,6,10,40,115,6,1
+#N/A,#N/A,OAK HILL,"1,490",2,30,0,0,0,2,4,25,1,0
+#N/A,#N/A,JACKSON COUNTY SHERIFF,"18,798",26,234,1,12,7,6,73,148,13,4
+Jefferson County,Steubenville,STEUBENVILLE,"18,137",60,"1,085",2,4,22,32,132,945,8,0
+#N/A,#N/A,MINGO JUNCTION,"3,299",15,44,0,0,3,12,14,28,2,10
+#N/A,#N/A,TORONTO,"4,843",6,16,0,3,0,3,4,12,0,0
+#N/A,#N/A,WINTERSVILLE,"3,770",1,57,0,0,0,1,3,54,0,0
+#N/A,#N/A,YORKVILLE,586,0,1,0,0,0,0,0,1,0,0
+#N/A,#N/A,DILLONVALE,633,0,1,0,0,0,0,1,0,0,0
+#N/A,#N/A,MOUNT PLEASANT,451,0,3,0,0,0,0,0,2,1,0
+#N/A,#N/A,TILTONSVILLE,"1,310",2,6,0,0,0,2,1,5,0,0
+#N/A,#N/A,SALINE TOWNSHIP,"1,290",5,13,0,0,0,5,4,6,3,1
+#N/A,#N/A,WELLS TOWNSHIP,"2,706",0,9,0,0,0,0,2,7,0,0
+#N/A,#N/A,JEFFERSON COUNTY SHERIFF,"21,320",2,55,0,0,0,2,19,33,3,0
+Knox County,Mount Vernon,MOUNT VERNON,"16,685",17,680,0,6,2,9,87,592,1,1
+#N/A,#N/A,DANVILLE,"1,013",1,4,1,0,0,0,2,2,0,0
+Knox County,Fredericktown,FREDERICKTOWN,"2,486",6,41,0,2,0,4,11,29,1,0
+#N/A,#N/A,UTICA,20,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,KNOX COUNTY SHERIFF,"40,774",33,487,0,18,0,15,99,388,0,2
+Lake County,Eastlake,EASTLAKE,"18,166",10,443,1,0,3,6,54,375,14,1
+#N/A,#N/A,FAIRPORT HARBOR,"3,093",5,102,0,0,1,4,19,77,6,0
+#N/A,#N/A,KIRTLAND HILLS,640,1,0,0,0,0,1,0,0,0,0
+Lake County,Mentor,MENTOR,"46,852",51,"1,034",0,10,11,30,105,899,30,6
+#N/A,#N/A,MENTOR-ON-THE-LAKE,"7,375",10,91,0,1,0,9,19,67,5,1
+Lake County,Painesville,PAINESVILLE,"19,827",8,9,0,0,1,7,3,5,1,0
+#N/A,#N/A,WAITE HILL,464,0,1,0,0,0,0,0,1,0,0
+Lake County,Wickliffe,WICKLIFFE,"12,506",17,233,0,0,9,8,41,178,14,0
+Lake County,Willoughby,WILLOUGHBY,"22,701",45,478,1,8,21,15,62,394,22,1
+#N/A,#N/A,LAKELAND COMMUNITY COLLEGE,0,0,11,0,0,0,0,0,11,0,0
+#N/A,#N/A,KIRTLAND,"6,780",3,27,0,2,0,1,4,23,0,0
+#N/A,#N/A,LAKE COUNTY SHERIFF,"45,181",240,341,0,15,10,215,93,244,4,1
+#N/A,#N/A,LAKE METROPARKS,0,3,11,0,0,2,1,0,11,0,0
+#N/A,#N/A,IRONTON,"10,856",21,270,0,3,7,11,70,190,10,1
+#N/A,#N/A,CHESAPEAKE,722,1,9,0,1,0,0,0,9,0,0
+#N/A,#N/A,SOUTH POINT,"3,917",3,28,0,1,1,1,4,23,1,0
+#N/A,#N/A,LAWRENCE COUNTY SHERIFF,"42,921",75,663,1,19,8,47,191,443,29,2
+#N/A,#N/A,REYNOLDSBURG,"9,005",19,325,1,2,8,8,38,274,13,2
+#N/A,#N/A,NEW ALBANY,130,0,2,0,0,0,0,0,2,0,0
+#N/A,#N/A,NEWARK,"48,055",10,426,0,2,4,4,125,283,18,2
+#N/A,#N/A,GRANVILLE,"5,762",0,41,0,0,0,0,5,35,1,0
+#N/A,#N/A,HEATH,"10,528",23,664,0,10,2,11,155,488,21,1
+#N/A,#N/A,JOHNSTOWN,"4,973",6,79,0,1,0,5,9,69,1,0
+#N/A,#N/A,UTICA,"2,186",5,16,1,1,0,3,4,11,1,0
+#N/A,#N/A,LICKING COUNTY SHERIFF,"64,681",24,810,0,11,9,4,292,479,39,1
+Logan County,Bellefontaine,BELLEFONTAINE,"13,073",23,404,0,8,2,13,59,342,3,1
+Logan County,Russells Point,RUSSELLS POINT,"1,355",0,26,0,0,0,0,6,19,1,0
+Logan County,De Graff,DE GRAFF,"1,259",0,0,0,0,0,0,0,0,0,0
+Logan County,West Liberty,WEST LIBERTY,"1,769",3,21,0,0,0,3,8,13,0,0
+#N/A,#N/A,LOGAN COUNTY SHERIFF,"25,596",14,368,1,3,0,10,148,210,10,2
+Lorain County,Elyria,ELYRIA,"53,633",161,"1,483",4,26,71,60,344,"1,042",97,8
+Lorain County,Vermilion,VERMILION,"5,783",2,60,0,0,0,2,8,50,2,0
+Lorain County,Amherst,AMHERST,"12,156",7,188,0,1,3,3,21,164,3,0
+Lorain County,Avon Lake,AVON LAKE,"23,625",1,8,0,0,0,1,1,7,0,0
+Lorain County,Lorain,LORAIN,"63,561",127,778,6,14,43,64,287,463,28,12
+Lorain County,Oberlin,OBERLIN,"8,342",38,212,0,27,4,7,27,184,1,0
+Lorain County,North Ridgeville,NORTH RIDGEVILLE,"33,095",12,193,1,4,3,4,37,154,2,0
+Lorain County,Grafton,GRAFTON,"6,105",4,38,1,0,2,1,10,28,0,0
+#N/A,#N/A,LORAIN COUNTY SHERIFF,"60,135",50,686,0,17,8,25,260,385,41,4
+#N/A,#N/A,LORAIN COUNTY METRO PARKS ,0,0,3,0,0,0,0,0,3,0,0
+Lucas County,Toledo,TOLEDO,"278,366","3,319","11,191",37,316,803,"2,163","3,381","7,081",729,0
+#N/A,#N/A,SWANTON,135,0,1,0,0,0,0,0,1,0,0
+Lucas County,Maumee,MAUMEE,"13,875",15,380,0,8,3,4,37,336,7,0
+Lucas County,Oregon,OREGON,"20,055",37,665,0,5,6,26,85,553,27,1
+#N/A,#N/A,OTTAWA HILLS,"4,429",1,37,0,0,0,1,10,24,3,1
+#N/A,#N/A,SYLVANIA TOWNSHIP,"29,416",18,632,0,2,7,9,99,507,26,0
+Lucas County,Holland,HOLLAND,"1,698",6,288,0,1,5,0,21,266,1,0
+Lucas County,Waterville,WATERVILLE,"5,511",2,29,0,0,1,1,4,24,1,0
+Lucas County,Whitehouse,WHITEHOUSE,"4,528",1,30,0,0,0,1,4,23,3,0
+#N/A,#N/A,UNIVERSITY OF TOLED,0,10,207,0,6,3,1,14,192,1,2
+#N/A,#N/A,WASHINGTON TOWNSHIP,"3,239",1,6,0,0,0,1,3,3,0,0
+#N/A,#N/A,WATERVILLE TOWNSHIP,"1,653",0,6,0,0,0,0,0,6,0,0
+#N/A,#N/A,TOLEDO FIRE DPT FIR,0,0,0,0,0,0,0,0,0,0,152
+#N/A,#N/A,TOLEDO METRO PARK DISTRICT ,0,1,10,0,1,0,0,1,9,0,5
+#N/A,#N/A,LUCAS COUNTY SHERIFF,"49,471",128,852,3,26,31,68,240,518,94,5
+Madison County,London,LONDON,"10,092",7,284,0,2,2,3,48,221,15,0
+Madison County,West Jefferson,WEST JEFFERSON,"4,291",3,101,0,0,1,2,14,84,3,0
+#N/A,#N/A,PLAIN CITY,"3,490",1,15,0,0,0,1,2,12,1,0
+#N/A,#N/A,MADISON COUNTY SHERIFF,"25,945",20,444,0,8,4,8,148,274,22,7
+Mahoning County,Boardman,BOARDMAN,"39,692",54,"1,346",0,6,22,26,189,"1,126",31,5
+Mahoning County,Youngstown,YOUNGSTOWN,"64,170",415,"2,426",12,28,151,224,921,"1,264",241,137
+#N/A,#N/A,COLUMBIANA,665,0,9,0,0,0,0,2,7,0,0
+#N/A,#N/A,SALEM,4,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,WASHINGTONVILLE,337,0,1,0,0,0,0,0,1,0,0
+Mahoning County,Austintown,AUSTINTOWN,"35,680",52,818,0,9,13,30,114,674,30,0
+#N/A,#N/A,CAMPBELL,"7,936",4,41,0,3,1,0,15,21,5,1
+Mahoning County,Canfield,CANFIELD,"7,323",1,60,0,1,0,0,8,52,0,0
+#N/A,#N/A,LOWELLVILLE,"1,098",0,3,0,0,0,0,1,2,0,0
+#N/A,#N/A,POLAND VILLAGE,"2,471",1,11,0,1,0,0,1,10,0,0
+#N/A,#N/A,SEBRING,"4,240",4,149,0,1,1,2,25,121,3,0
+Mahoning County,Struthers,STRUTHERS,"10,314",27,244,0,1,8,18,75,161,8,0
+Mahoning County,Craig Beach,CRAIG BEACH,"1,137",0,3,0,0,0,0,0,3,0,0
+#N/A,#N/A,NEW MIDDLETOWN,"1,568",1,10,0,0,0,1,2,8,0,0
+#N/A,#N/A,BEAVER TOWNSHIP,"6,492",4,95,0,0,0,4,31,56,8,0
+#N/A,#N/A,YOUNGSTOWN STATE UNIVERSITY,0,5,29,4,0,0,1,1,28,0,0
+Mahoning County,New Springfield,SPRINGFIELD TOWNSHIP,"6,446",3,76,0,2,0,1,32,40,4,0
+#N/A,#N/A,GOSHEN TOWNSHIP,"3,106",5,76,0,0,0,5,17,57,2,0
+#N/A,#N/A,MILTON TOWNSHIP,"2,470",1,33,0,1,0,0,9,23,1,0
+#N/A,#N/A,JACKSON TOWNSHIP,"2,042",1,16,0,0,0,1,4,10,2,0
+#N/A,#N/A,POLAND TOWNSHIP,"12,052",3,66,0,1,0,2,16,48,2,0
+#N/A,#N/A,COITSVILLE TOWNSHIP,"1,344",3,35,0,0,0,3,14,18,3,0
+#N/A,#N/A,ALLIANCE,39,0,1,0,0,0,0,0,1,0,0
+#N/A,#N/A,MAHONING COUNTY SHERIFF,"15,411",1,94,0,0,0,1,30,53,11,0
+#N/A,#N/A,MARION,"36,278",107,"1,320",1,22,37,47,517,772,31,9
+#N/A,#N/A,MARION COUNTY SHERIFF,"28,776",38,"1,175",0,19,12,7,166,"1,001",8,4
+Medina County,Brunswick,BRUNSWICK,"34,774",25,224,0,1,0,24,28,182,14,1
+Medina County,Medina,MEDINA,"26,280",13,119,1,5,1,6,12,107,0,0
+Medina County,Wadsworth,WADSWORTH,"21,910",24,479,0,7,2,15,40,436,3,4
+#N/A,#N/A,WESTFIELD CENTER,"1,137",0,1,0,0,0,0,0,1,0,0
+Medina County,Lodi,LODI,"2,770",0,1,0,0,0,0,1,0,0,0
+Medina County,Spencer,SPENCER,766,0,6,0,0,0,0,0,6,0,0
+Medina County,Hinckley,HINCKLEY TOWNSHIP,"8,041",6,28,2,0,0,4,15,13,0,0
+#N/A,#N/A,MONTVILLE TOWNSHIP,"11,815",2,46,0,1,0,1,8,38,0,0
+#N/A,#N/A,MEDINA TOWNSHIP,"9,015",5,141,0,2,0,3,13,126,2,0
+#N/A,#N/A,BRUNSWICK HILLS TOWNSHIP,"10,402",5,38,0,0,0,5,9,29,0,0
+#N/A,#N/A,RITTMAN,114,0,2,0,0,0,0,1,1,0,0
+#N/A,#N/A,CRESTON,92,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,MEDINA COUNTY SHERIFF,"47,486",2,106,0,0,0,2,36,70,0,0
+#N/A,#N/A,MIDDLEPORT,"2,464",4,17,0,0,1,3,4,13,0,1
+#N/A,#N/A,POMEROY,"1,815",0,3,0,0,0,0,0,3,0,0
+#N/A,#N/A,RACINE,659,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,RUTLAND,379,0,4,0,0,0,0,1,3,0,0
+#N/A,#N/A,SYRACUSE,820,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,MEIGS COUNTY SHERIFF,"16,996",36,232,2,4,6,24,71,146,15,5
+Mercer County,Coldwater,COLDWATER,"4,501",0,20,0,0,0,0,2,17,1,0
+Mercer County,Fort Recovery,FORT RECOVERY,"1,430",1,6,0,1,0,0,0,6,0,0
+Mercer County,Rockford,ROCKFORD,"1,105",2,6,0,1,1,0,2,4,0,0
+#N/A,#N/A,MERCER COUNTY SHERIFF,"21,004",11,138,0,3,1,7,18,111,9,1
+Miami County,Piqua,PIQUA,"20,845",39,882,1,19,13,6,135,728,19,7
+Miami County,Tipp City,TIPP CITY,"9,941",7,181,0,1,1,5,23,148,10,1
+Miami County,Troy,TROY,"25,745",22,724,0,13,3,6,145,567,12,6
+Miami County,Covington,COVINGTON,"2,633",3,29,0,0,2,1,2,27,0,0
+#N/A,#N/A,HUBER HEIGHTS,989,2,33,0,0,1,1,5,26,2,0
+#N/A,#N/A,MIAMI COUNTY SHERIFF,"39,534",24,372,0,12,2,10,107,252,13,2
+#N/A,#N/A,WOODSFIELD,"2,343",0,5,0,0,0,0,1,3,1,0
+#N/A,#N/A,MONROE COUNTY SHERIFF,"12,014",11,56,0,5,0,6,19,31,6,1
+Montgomery County,Dayton,DAYTON,"140,260","1,402","7,235",36,133,496,737,"2,269","4,252",714,80
+Montgomery County,Centerville,CENTERVILLE,"23,851",13,352,0,0,3,10,41,290,21,0
+Montgomery County,Germantown,GERMANTOWN,"5,495",6,40,0,0,0,6,5,34,1,0
+Montgomery County,Kettering,KETTERING,"54,915",73,"1,000",0,26,26,21,221,726,53,10
+#N/A,#N/A,MIAMI TOWNSHIP,"29,140",39,"1,159",0,16,11,12,130,985,44,3
+Montgomery County,Miamisburg,MIAMISBURG,"20,000",20,228,0,4,12,4,40,178,10,1
+#N/A,#N/A,MORAINE,"6,385",34,684,1,14,10,9,82,565,37,3
+Montgomery County,Clayton,CLAYTON,"13,129",6,135,0,0,3,3,27,97,11,0
+Montgomery County,Trotwood,TROTWOOD,"24,024",90,962,11,20,37,22,341,506,115,11
+Montgomery County,Vandalia,VANDALIA,"15,073",14,328,0,2,9,3,63,232,33,3
+#N/A,#N/A,HUBER HEIGHTS,"37,191",82,"1,237",1,19,29,33,171,977,89,10
+#N/A,#N/A,WEST CARROLLTON,"12,944",22,358,0,8,6,8,87,235,36,4
+Montgomery County,Brookville,BROOKVILLE,"5,902",7,59,0,5,1,1,15,43,1,0
+#N/A,#N/A,ENGLEWOOD,"13,455",13,409,0,2,5,6,30,367,12,0
+#N/A,#N/A,NEW LEBANON,"4,001",9,116,0,0,2,7,26,79,11,0
+#N/A,#N/A,RIVERSIDE,"24,920",51,618,1,15,16,19,133,429,56,3
+#N/A,#N/A,BUTLER TOWNSHIP,"7,856",36,458,0,10,18,8,51,382,25,0
+#N/A,#N/A,GERMAN TOWNSHIP,"2,893",1,42,0,0,0,1,13,26,3,0
+#N/A,#N/A,JACKSON TOWNSHIP,"3,682",1,14,0,0,0,1,3,10,1,0
+#N/A,#N/A,PERRY TOWNSHIP,"3,346",1,9,0,0,0,1,4,5,0,0
+Montgomery County,Clayton,CLAY TOWNSHIP,"4,217",2,20,0,2,0,0,6,14,0,0
+#N/A,#N/A,SINCLAIR COMMUNITY COLLEGE ,0,0,40,0,0,0,0,11,29,0,0
+#N/A,#N/A,CARLISLE,214,0,1,0,0,0,0,0,1,0,0
+#N/A,#N/A,SPRINGBORO,"1,260",0,7,0,0,0,0,1,6,0,0
+#N/A,#N/A,MONTGOMERY COUNTY SHERIFF,"61,169",234,"1,440",7,50,89,88,527,723,190,23
+#N/A,#N/A,MCCONNELSVILLE,"1,790",4,29,0,2,0,2,5,22,2,0
+#N/A,#N/A,MORGAN COUNTY SHERIFF,"12,911",24,172,0,5,1,18,57,101,14,3
+#N/A,#N/A,CARDINGTON,"2,047",2,27,0,2,0,0,6,20,1,0
+Muskingum County,Zanesville,ZANESVILLE,"25,494",93,"1,288",0,18,28,47,230,"1,036",22,10
+Muskingum County,Dresden,DRESDEN,"1,736",2,0,0,0,0,2,0,0,0,0
+Muskingum County,Frazeysburg,FRAZEYSBURG,"1,321",1,16,0,1,0,0,1,12,3,0
+Muskingum County,New Concord,NEW CONCORD,"2,317",0,15,0,0,0,0,1,14,0,0
+Muskingum County,Roseville,ROSEVILLE,755,3,14,0,0,0,3,4,9,1,0
+#N/A,#N/A,SOUTH ZANESVILLE,"1,974",1,22,0,0,1,0,6,15,1,0
+#N/A,#N/A,MUSKINGUM UNIVERSITY,0,1,8,0,1,0,0,4,4,0,0
+#N/A,#N/A,MUSKINGUM COUNTY SHERIFF,"52,599",48,"1,029",0,27,9,12,310,653,66,5
+#N/A,#N/A,NOBLE COUNTY SHERIFF,"12,569",0,88,0,0,0,0,24,59,5,1
+Ottawa County,Oak Harbor,OAK HARBOR,"2,705",1,42,0,1,0,0,5,37,0,0
+Ottawa County,Port Clinton,PORT CLINTON,"5,939",13,170,0,8,2,3,38,129,3,1
+Ottawa County,Genoa,GENOA,"2,301",1,5,0,0,0,1,0,5,0,0
+Ottawa County,Marblehead,MARBLEHEAD,885,0,2,0,0,0,0,0,2,0,0
+Ottawa County,Put in Bay,PUT-IN-BAY,136,3,1,0,0,0,3,0,1,0,0
+#N/A,#N/A,CARROLL TOWNSHIP,"2,109",1,31,0,1,0,0,3,26,2,0
+#N/A,#N/A,OTTAWA COUNTY SHERIFF,"19,724",8,231,0,5,2,1,50,178,3,0
+#N/A,#N/A,PAYNE,"1,148",0,4,0,0,0,0,0,3,1,1
+Paulding County,Paulding,PAULDING COUNTY SHERIFF,"13,259",14,138,1,7,1,5,39,99,0,0
+#N/A,#N/A,ROSEVILLE,"1,096",5,20,0,0,0,5,5,14,1,0
+Perry County,Crooksville,CROOKSVILLE,"2,491",0,2,0,0,0,0,0,1,1,0
+Perry County,New Lexington,NEW LEXINGTON,"4,721",12,188,0,5,1,6,34,149,5,0
+#N/A,#N/A,JUNCTION CITY,808,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,SHAWNEE,644,0,0,0,0,0,0,0,0,0,0
+Perry County,Somerset,SOMERSET,"1,461",0,4,0,0,0,0,0,4,0,0
+Perry County,Thornville,THORNVILLE,997,0,12,0,0,0,0,0,12,0,0
+#N/A,#N/A,PERRY COUNTY SHERIFF,"22,424",15,150,0,10,2,3,42,105,3,2
+Pickaway County,Circleville,CIRCLEVILLE,"13,930",37,674,0,5,12,20,97,569,8,0
+Pickaway County,Ashville,ASHVILLE,"4,207",1,67,0,1,0,0,15,49,3,0
+Pickaway County,Commercial Point,COMMERCIAL POINT,"1,616",2,10,0,2,0,0,0,9,1,0
+#N/A,#N/A,SOUTH BLOOMFIELD,"1,873",1,35,0,0,0,1,5,28,2,0
+#N/A,#N/A,PICKAWAY COUNTY SHERIFF,"35,552",29,700,0,3,3,23,173,497,30,2
+#N/A,#N/A,WAVERLY,"4,248",3,93,0,0,1,2,8,83,2,0
+#N/A,#N/A,PIKETON,"2,139",0,4,0,0,0,0,0,4,0,0
+#N/A,#N/A,PIKE COUNTY SHERIFF,"21,691",22,335,1,7,2,12,100,202,33,0
+Portage County,Aurora,AURORA,"15,897",11,168,0,2,5,4,9,157,2,0
+Portage County,Garrettsville,GARRETTSVILLE,"2,326",0,9,0,0,0,0,1,8,0,0
+Portage County,Kent,KENT,"29,995",67,496,1,0,13,53,95,385,16,2
+Portage County,Windham,WINDHAM,"2,201",3,32,0,0,1,2,6,26,0,0
+#N/A,#N/A,BRADY LAKE,464,1,5,0,0,0,1,2,3,0,0
+Portage County,Hiram,HIRAM,"1,238",0,1,0,0,0,0,0,1,0,0
+#N/A,#N/A,KENT STATE UNIVERSITY,0,7,159,0,2,2,3,4,155,0,1
+Portage County,Streetsboro,STREETSBORO,"16,364",6,244,0,0,1,5,28,207,9,1
+#N/A,#N/A,BRIMFIELD TOWNSHIP,"10,406",9,243,0,5,3,1,16,221,6,0
+#N/A,#N/A,ROBINSON MEMORIAL HOSPITAL,0,1,2,0,0,0,1,0,2,0,0
+Portage County,Mogadore,MOGADORE,"1,030",0,11,0,0,0,0,2,8,1,0
+#N/A,#N/A,TALLMADGE,289,0,6,0,0,0,0,1,5,0,0
+#N/A,#N/A,PORTAGE COUNTY SHERIFF,"70,423",48,"1,109",4,10,13,21,294,778,37,7
+Preble County,Camden,CAMDEN,"1,955",0,4,0,0,0,0,0,4,0,0
+#N/A,#N/A,GRATIS,855,2,4,0,0,0,2,0,4,0,0
+Preble County,West Alexandria,WEST ALEXANDRIA,"1,334",1,23,0,0,0,1,7,15,1,0
+#N/A,#N/A,PREBLE COUNTY SHERIFF,"27,021",14,307,2,6,3,3,125,169,13,0
+Putnam County,Ottawa,OTTAWA,"4,385",3,7,0,0,0,3,2,5,0,0
+Putnam County,Columbus Grove,COLUMBUS GROVE,"2,052",1,1,0,1,0,0,0,1,0,0
+Putnam County,Leipsic,LEIPSIC,"2,021",1,15,0,0,0,1,3,11,1,0
+#N/A,#N/A,OTTOVILLE,969,1,3,0,0,0,1,1,2,0,0
+Putnam County,Pandora,PANDORA,"1,146",0,4,0,0,0,0,0,4,0,0
+#N/A,#N/A,KALIDA,"1,566",0,2,0,0,0,0,1,1,0,0
+#N/A,#N/A,PUTNAM COUNTY SHERIFF,"20,339",13,91,1,8,0,4,21,68,2,0
+Richland County,Mansfield,MANSFIELD,"46,656",209,"2,605",3,58,63,85,679,"1,805",121,26
+#N/A,#N/A,CRESTLINE,18,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,ONTARIO,"6,091",5,370,0,1,1,3,16,352,2,0
+Richland County,Plymouth,PLYMOUTH,914,1,6,0,1,0,0,2,4,0,0
+#N/A,#N/A,SHELBY,"9,012",17,258,0,5,2,10,58,199,1,0
+Richland County,Bellville,BELLVILLE,"1,863",1,29,0,1,0,0,3,25,1,0
+Richland County,Lexington,LEXINGTON,"4,715",0,5,0,0,0,0,0,5,0,0
+#N/A,#N/A,RICHLAND COUNTY SHERIFF,"50,888",57,"1,164",3,24,7,23,447,694,23,5
+Ross County,Chillicothe,CHILLICOTHE,"21,692",94,"1,747",0,8,34,52,350,"1,355",42,2
+#N/A,#N/A,ROSS COUNTY SHERIFF,"55,194",120,"1,316",1,31,12,76,405,844,67,11
+Sandusky County,Bellevue,BELLEVUE,"4,411",0,7,0,0,0,0,1,5,1,0
+Sandusky County,Clyde,CLYDE,"6,233",3,148,0,0,2,1,39,108,1,1
+Sandusky County,Fremont,FREMONT,"16,215",32,842,2,0,11,19,155,668,19,0
+#N/A,#N/A,SANDUSKY COUNTY SHERIFF,"27,156",54,211,0,0,1,53,41,166,4,0
+#N/A,#N/A,SANDUSKY COUNTY PARK DISTRICT,0,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,PORTSMOUTH,"20,442",75,934,2,14,14,45,256,650,28,2
+#N/A,#N/A,SHAWNEE STATE UNIVERSITY,0,1,28,0,1,0,0,2,26,0,1
+#N/A,#N/A,SCIOTO COUNTY SHERIFF,"53,601",40,"1,026",0,13,11,16,344,620,62,9
+Seneca County,Fostoria,FOSTORIA,"9,183",7,29,0,2,2,3,7,21,1,0
+Seneca County,Tiffin,TIFFIN,"17,637",13,418,0,5,3,5,76,328,14,0
+#N/A,#N/A,SENECA COUNTY SHERIFF,"24,684",70,319,0,4,64,2,91,228,0,0
+Shelby County,Sidney,SIDNEY,"20,797",45,926,0,16,16,13,206,699,21,3
+Shelby County,Fort Loramie,FORT LORAMIE,"1,493",0,5,0,0,0,0,0,4,1,0
+#N/A,#N/A,SHELBY COUNTY SHERIFF,"24,658",15,245,0,2,1,12,59,177,9,2
+Stark County,Canton,CANTON,"71,652",677,"3,664",8,77,171,421,951,"2,474",239,18
+#N/A,#N/A,MASSILLON,"32,268",100,684,2,25,27,46,161,498,25,10
+Stark County,Alliance,ALLIANCE,"21,973",99,769,0,13,11,75,149,601,19,8
+Stark County,Brewster,BREWSTER,"2,169",0,20,0,0,0,0,2,17,1,0
+Stark County,Canal Fulton,CANAL FULTON,"5,489",2,73,0,2,0,0,14,56,3,0
+#N/A,#N/A,EAST CANTON,"1,602",1,18,0,1,0,0,0,18,0,1
+Stark County,Hartville,HARTVILLE,"2,974",1,53,0,0,1,0,8,45,0,0
+Stark County,Louisville,LOUISVILLE,"9,115",14,114,0,2,2,10,24,84,6,0
+Stark County,Minerva,MINERVA,"1,944",3,24,1,0,0,2,0,23,1,0
+Stark County,Navarre,NAVARRE,"1,916",0,19,0,0,0,0,4,15,0,0
+Stark County,North Canton,NORTH CANTON,"17,435",9,271,0,3,2,4,44,219,8,1
+Stark County,Beach City,BEACH CITY,"1,007",0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,LAWRENCE TOWNSHIP,"8,265",2,71,0,0,0,2,23,45,3,0
+#N/A,#N/A,JACKSON TOWNSHIP,"40,780",72,"1,234",0,14,31,27,126,"1,087",21,3
+#N/A,#N/A,UNIONTOWN,"3,330",2,81,0,1,0,1,21,58,2,0
+Stark County,Magnolia,MAGNOLIA,714,1,33,0,0,0,1,10,20,3,0
+#N/A,#N/A,STARK COUNTY SHERIFF,"117,913",89,"1,659",1,22,17,49,379,"1,146",134,10
+Summit County,Akron,AKRON,"197,257","1,216","8,646",34,212,415,555,"2,483","5,483",680,94
+Summit County,Barberton,BARBERTON,"26,172",75,799,0,17,10,48,145,614,40,3
+Summit County,Cuyahoga Falls,CUYAHOGA FALLS,"49,064",67,"1,143",0,24,14,29,116,977,50,5
+Summit County,Hudson,HUDSON,"22,470",4,92,0,1,0,3,27,62,3,0
+Summit County,Macedonia,MACEDONIA,"11,794",8,197,0,1,4,3,11,183,3,0
+#N/A,#N/A,MOGADORE,"2,889",1,30,0,0,0,1,6,23,1,0
+Summit County,Northfield,NORTHFIELD,"3,630",2,46,0,0,1,1,4,40,2,0
+#N/A,#N/A,NORTON,"12,022",5,135,0,1,1,3,37,84,14,1
+#N/A,#N/A,STOW,"34,792",30,642,0,11,5,14,66,569,7,2
+Summit County,Tallmadge,TALLMADGE,"17,213",23,397,0,4,9,10,72,310,15,0
+Summit County,Twinsburg,TWINSBURG,"18,888",20,131,1,1,5,13,19,109,3,1
+#N/A,#N/A,BOSTON HEIGHTS,"1,290",0,1,0,0,0,0,0,1,0,0
+Summit County,Munroe Falls,MUNROE FALLS,"5,012",2,40,0,1,0,1,5,35,0,2
+Summit County,Peninsula,PENINSULA,572,1,27,0,0,1,0,3,24,0,0
+#N/A,#N/A,REMINDERVILLE,"4,097",0,30,0,0,0,0,1,28,1,0
+#N/A,#N/A,BATH TOWNSHIP,"9,896",4,156,0,1,0,3,13,141,2,0
+#N/A,#N/A,SPRINGFIELD TOWNSHIP,"17,813",34,895,0,10,4,20,119,748,28,3
+Summit County,Copley,COPLEY TOWNSHIP,"17,653",5,108,0,2,1,2,12,91,5,0
+#N/A,#N/A,UNIVERSITY OF AKRON,0,10,191,0,3,5,2,10,172,9,0
+#N/A,#N/A,NEW FRANKLIN,"14,285",9,110,0,1,2,6,30,74,6,2
+#N/A,#N/A,SAGAMORE HILLS,"11,184",4,46,0,3,1,0,8,37,1,0
+#N/A,#N/A,SUMMIT COUNTY SHERIFF,"49,694",63,"1,050",1,22,13,27,214,791,45,7
+#N/A,#N/A,YOUNGSTOWN,11,0,0,0,0,0,0,0,0,0,0
+Trumbull County,Warren,WARREN,"40,005",228,"1,509",2,27,90,109,511,905,93,6
+Trumbull County,Hubbard,HUBBARD,"7,609",10,133,0,0,0,10,21,107,5,1
+#N/A,#N/A,LIBERTY TOWNSHIP,"11,655",32,188,1,1,7,23,42,132,14,0
+Trumbull County,Newton Falls,NEWTON FALLS,"4,628",9,92,0,3,2,4,17,72,3,0
+Trumbull County,Niles,NILES,"18,538",53,524,1,8,21,23,79,431,14,1
+Trumbull County,Cortland,CORTLAND,"6,894",1,77,0,0,0,1,15,59,3,0
+#N/A,#N/A,HOWLAND TOWNSHIP,"16,759",13,384,0,1,2,10,73,295,16,0
+Trumbull County,Lordstown,LORDSTOWN,"3,278",1,5,0,1,0,0,0,5,0,0
+#N/A,#N/A,BAZETTA TOWNSHIP,"5,683",2,207,0,0,0,2,14,190,3,0
+#N/A,#N/A,HUBBARD TOWNSHIP,"5,434",2,12,0,0,0,2,2,10,0,0
+#N/A,#N/A,HARTFORD TOWNSHIP,"1,999",0,8,0,0,0,0,0,8,0,0
+#N/A,#N/A,WARREN TOWNSHIP,"5,320",16,126,0,3,2,11,53,65,8,0
+#N/A,#N/A,WEATHERSFIELD,"8,035",4,73,0,1,2,1,22,44,7,0
+Trumbull County,Vienna Center,VIENNA TOWNSHIP,"3,817",5,65,0,1,0,4,15,49,1,0
+#N/A,#N/A,TRUMBULL COUNTY SHERIFF,"26,911",19,332,1,4,3,11,130,174,28,2
+Tuscarawas County,Dennison,DENNISON,"2,638",2,12,0,0,0,2,0,12,0,0
+#N/A,#N/A,DOVER,"12,906",12,96,1,4,1,6,15,80,1,1
+#N/A,#N/A,NEWCOMERSTOWN,"3,789",5,82,1,1,0,3,15,62,5,0
+#N/A,#N/A,NEW PHILADELPHIA,"17,526",3,188,0,1,0,2,9,177,2,0
+#N/A,#N/A,UHRICHSVILLE,"5,403",3,45,0,1,0,2,3,41,1,0
+#N/A,#N/A,BOLIVAR,992,0,1,0,0,0,0,0,1,0,0
+#N/A,#N/A,GNADENHUTTEN,"1,289",1,12,0,0,0,1,0,11,1,0
+#N/A,#N/A,PORT WASHINGTON,570,0,5,0,0,0,0,1,4,0,0
+#N/A,#N/A,STRASBURG,"2,693",0,21,0,0,0,0,1,19,1,0
+#N/A,#N/A,TUSCARAWAS,"1,056",0,1,0,0,0,0,0,1,0,0
+#N/A,#N/A,MUSKINGUM WATERSHED,0,3,40,0,0,0,3,5,33,2,0
+#N/A,#N/A,TUSCARAWAS COUNTY SHERIFF,"41,022",10,346,0,4,1,5,107,215,24,2
+#N/A,#N/A,DUBLIN,"2,492",0,28,0,0,0,0,5,22,1,0
+Union County,Plain City,PLAIN CITY,828,0,3,0,0,0,0,0,3,0,0
+Union County,Marysville,MARYSVILLE,"22,952",7,144,0,2,1,4,15,123,6,1
+#N/A,#N/A,UNION COUNTY SHERIFF,"26,024",17,173,0,7,1,9,48,113,12,1
+#N/A,#N/A,DELPHOS,"3,127",0,68,0,0,0,0,11,56,1,0
+Van Wert County,Van Wert,VAN WERT,"10,794",29,353,0,10,1,18,86,262,5,0
+#N/A,#N/A,VAN WERT COUNTY SHERIFF,"14,584",9,138,1,7,0,1,46,88,4,1
+#N/A,#N/A,MCARTHUR,"1,656",2,27,0,2,0,0,8,18,1,0
+#N/A,#N/A,VINTON COUNTY SHERIFF,"11,302",20,108,0,8,2,10,50,54,4,0
+#N/A,#N/A,MIDDLETOWN,"2,701",13,181,0,2,4,7,43,131,7,0
+#N/A,#N/A,MONROE,144,0,4,0,0,0,0,0,4,0,0
+#N/A,#N/A,LOVELAND,815,0,9,0,0,0,0,1,7,1,0
+Warren County,Franklin,FRANKLIN,"11,782",23,542,1,4,10,8,136,390,16,0
+#N/A,#N/A,LEBANON,"20,726",22,361,1,7,5,9,40,313,8,4
+Warren County,Mason,MASON,"33,026",6,330,0,3,2,1,17,305,8,1
+#N/A,#N/A,CARLISLE,"5,109",4,24,0,0,2,2,6,16,2,0
+#N/A,#N/A,HAMILTON TOWNSHIP,"22,670",2,58,0,1,0,1,7,50,1,0
+Warren County,Maineville,MAINEVILLE,992,0,2,0,0,0,0,1,1,0,0
+Warren County,Springboro,SPRINGBORO,"17,119",11,96,0,6,1,4,8,82,6,0
+#N/A,#N/A,CLEARCREEK TOWNSHIP,"15,322",4,92,1,2,0,1,18,73,1,0
+#N/A,#N/A,WARREN COUNTY SHERIFF,"92,439",58,912,0,11,13,34,150,703,59,2
+Washington County,Belpre,BELPRE,"6,484",11,107,0,3,2,6,13,85,9,1
+Washington County,Marietta,MARIETTA,"13,867",8,101,0,2,4,2,16,82,3,1
+#N/A,#N/A,MARIETTA COLLEGE,0,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,WASHINGTON COUNTY SHERIFF,"37,826",31,305,1,6,1,23,94,190,21,2
+#N/A,#N/A,NORTON,4,0,0,0,0,0,0,0,0,0,0
+Wayne County,Orrville,ORRVILLE,"8,514",16,111,3,4,1,8,30,80,1,1
+Wayne County,Rittman,RITTMAN,"6,484",4,135,0,1,1,2,36,85,14,2
+Wayne County,Wooster,WOOSTER,"26,883",73,776,0,24,14,35,127,633,16,10
+Wayne County,Apple Creek,APPLE CREEK,"1,186",0,5,0,0,0,0,1,4,0,0
+#N/A,#N/A,CRESTON,"2,093",0,15,0,0,0,0,4,8,3,0
+Wayne County,Smithville,SMITHVILLE,"1,273",3,3,0,1,0,2,0,3,0,0
+#N/A,#N/A,WAYNE COUNTY SHERIFF,"60,882",32,497,0,12,2,18,202,270,25,0
+Williams County,Montpelier,MONTPELIER,"3,980",14,146,1,5,3,5,18,113,15,2
+Williams County,Pioneer,PIONEER,"1,406",2,23,0,1,0,1,7,16,0,0
+#N/A,#N/A,WILLIAMS COUNTY SHERIFF,"19,568",1,0,1,0,0,0,0,0,0,0
+#N/A,#N/A,FOSTORIA,"1,036",0,3,0,0,0,0,1,2,0,0
+Wood County,Bowling Green,BOWLING GREEN,"31,404",42,560,0,19,8,15,64,486,10,1
+Wood County,North Baltimore,NORTH BALTIMORE,"3,568",9,67,0,2,2,5,21,45,1,0
+Wood County,Perrysburg,PERRYSBURG,"21,548",8,244,0,3,3,2,16,223,5,0
+#N/A,#N/A,BLOOMDALE,695,0,1,0,0,0,0,1,0,0,0
+Wood County,Bradner,BRADNER,"1,026",0,4,0,0,0,0,1,3,0,0
+Wood County,Haskins,HASKINS,"1,241",0,0,0,0,0,0,0,0,0,0
+Wood County,Northwood,NORTHWOOD,"5,376",6,133,0,2,3,1,21,110,2,0
+Wood County,Pemberville,PEMBERVILLE,"1,433",1,3,0,1,0,0,0,3,0,0
+Wood County,Wayne,WAYNE,900,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,BOWLING GREEN STATE UNIVERSITY,0,0,135,0,0,0,0,4,130,1,2
+#N/A,#N/A,PERRYSBURG TOWNSHIP,"12,813",6,162,0,1,2,3,28,129,5,0
+#N/A,#N/A,WOOD COUNTY SHERIFF,"29,598",13,358,0,7,1,5,85,251,22,4
+#N/A,#N/A,WOOD COUNTY PARK,0,0,0,0,0,0,0,0,0,0,0
+#N/A,#N/A,CAREY,"3,570",0,5,0,0,0,0,2,3,0,0
+#N/A,#N/A,UPPER SANDUSKY,"6,515",12,153,2,4,0,6,25,123,5,1
+#N/A,#N/A,WYANDOT COUNTY SHERIFF,"11,229",2,17,0,0,0,2,8,9,0,0
