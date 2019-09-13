@@ -1,359 +1,359 @@
-,County,City,ORI,AGENCY NAME,POPULATION,VIOLENT CRIME,PROPERTY CRIME,MURDER,RAPE,ROBBERY,AGGRAVATED ASSAULT,BURGLARY,LARCENY,MTR VEHICLE THEFT,ARSON
-7,Allen County,Lima,OH00204,LIMA,"37,220",275,"1,982",5,52,81,137,569,"1,334",79,20
-8,Allen County,Bluffton,OH00201,BLUFFTON,"3,987",1,46,0,1,0,0,9,36,1,0
-9,Allen County,Delphos,OH00202,DELPHOS,"3,927",3,90,0,3,0,0,17,72,1,0
-10,Allen County,Spencerville,OH00205,SPENCERVILLE,"2,184",0,14,0,0,0,0,5,9,0,0
-11,Allen County,Elida,OH00207,ELIDA,"1,836",1,4,0,0,0,1,1,3,0,0
-12,Allen County,Fort Shawnee,OH00211,SHAWNEE TOWNSHIP,"12,096",14,135,1,4,3,6,24,108,3,0
-16,Ashland County,Ashland,OH00301,ASHLAND,"20,485",25,375,0,7,4,14,44,326,5,0
-17,Ashland County,Loudonville,OH00302,LOUDONVILLE,"2,581",3,66,1,1,1,0,6,59,1,1
-18,Ashland County,Ashland,OH00300,ASHLAND,"29,919",35,204,0,20,0,15,50,137,17,1
-19,Ashtabula County,Geneva,OH00405,GENEVA-ON-THE-LAKE,"1,199",7,33,0,3,1,3,7,24,2,0
-20,Ashtabula County,Roaming Shores,OH00410,ROAMING SHORES VILLAGE,"1,466",0,1,0,0,0,0,1,0,0,0
-21,Ashtabula County,Ashtabula,OH00400,ASHTABULA COUNTY SHERIFF,"49,924",42,580,0,8,4,30,170,366,44,1
-22,Athens County,Athens,OH00501,ATHENS,"25,526",34,433,0,4,6,24,44,370,19,5
-23,Athens County,Glouster,OH00502,GLOUSTER,"1,793",3,33,0,1,0,2,9,23,1,0
-24,Athens County,Nelsonville,OH00503,NELSONVILLE,"5,284",13,152,0,2,4,7,32,114,6,0
-25,Athens County,Albany,OH00504,ALBANY,899,0,11,0,0,0,0,1,10,0,0
-27,Athens County,Coolville,OH00512,COOLVILLE,492,0,0,0,0,0,0,0,0,0,0
-28,Athens County,Athens,OH00500,ATHENS COUNTY SHERIFF,"31,510",20,391,1,9,4,6,118,255,18,1
-29,Auglaize County,Saint Marys,OH00601,ST. MARYS,"8,215",3,129,0,0,1,2,34,89,6,2
-30,Auglaize County,Wapakoneta,OH00602,WAPAKONETA,"9,809",14,164,0,6,3,5,25,137,2,1
-31,Auglaize County,Minster,OH00605,MINSTER,"2,866",0,0,0,0,0,0,0,0,0,0
-32,Auglaize County,New Bremen,OH00606,NEW BREMEN,"2,966",0,20,0,0,0,0,1,19,0,0
-33,Auglaize County,New Knoxville,OH00607,NEW KNOXVILLE,864,0,5,0,0,0,0,0,5,0,0
-35,Belmont County,Barnesville,OH00701,BARNESVILLE,"4,096",0,16,0,0,0,0,4,11,1,0
-38,Belmont County,Martins Ferry,OH00704,MARTINS FERRY,"6,731",13,70,0,6,0,7,12,52,6,0
-39,Belmont County,Powhatan Point,OH00705,POWHATAN POINT,"1,562",0,3,0,0,0,0,1,2,0,0
-41,Belmont County,Saint Clairsville,OH00707,ST. CLAIRSVILLE,"5,096",1,9,0,0,0,1,1,8,0,0
-42,Belmont County,Flushing,OH00711,FLUSHING,858,0,3,0,0,0,0,0,3,0,0
-44,Belmont County,Belmont,OH00700,BELMONT COUNTY SHERIFF,"29,108",34,314,2,10,2,20,52,232,30,4
-46,Brown County,Georgetown,OH00802,GEORGETOWN,"4,356",10,104,0,6,3,1,23,78,3,0
-47,Brown County,Ripley,OH00803,RIPLEY,"1,707",2,19,0,1,0,1,3,13,3,0
-48,Brown County,Mount Orab,OH00807,MOUNT ORAB,"3,525",4,96,1,2,0,1,4,84,8,0
-52,Butler County,Fairfield,OH00901,FAIRFIELD,"42,627",90,932,1,11,12,66,99,782,51,2
-53,Butler County,Hamilton,OH00902,HAMILTON,"62,094",312,"2,608",3,75,111,123,716,"1,890",2,33
-54,Butler County,Middletown,OH00903,MIDDLETOWN,"46,069",235,"2,788",5,39,82,109,645,"1,973",170,0
-57,Butler County,Oxford,OH00907,OXFORD,"22,459",18,488,0,5,7,6,82,400,6,2
-58,Butler County,Oxford,OH00913,OXFORD TOWNSHIP,"2,181",2,25,0,0,0,2,4,16,5,0
-59,Butler County,West Chester,OH00915,WEST CHESTER TOWNSHIP,"61,386",64,"1,300",0,21,15,28,170,"1,086",44,5
-65,Stark County,Minerva,OH07609,MINERVA,"1,729",1,16,0,0,0,1,3,12,1,0
-66,Stark County,Magnolia,OH07630,MAGNOLIA,258,0,4,0,0,0,0,1,3,0,0
-71,Clark County,Springfield,OH01202,SPRINGFIELD,"58,843",370,"4,024",9,25,177,159,"1,040","2,691",293,76
-72,Clark County,Enon,OH01206,ENON,"2,381",0,2,0,0,0,0,1,0,1,0
-73,Clark County,South Charleston,OH01209,SOUTH CHARLESTON,"1,640",2,37,0,0,0,2,5,28,4,0
-75,Clark County,South Vienna,OH01211,SOUTH VIENNA,375,0,8,0,0,0,0,1,4,3,0
-77,Clermont County,Batavia,OH01301,BATAVIA,"1,656",0,57,0,0,0,0,7,46,4,0
-78,Clermont County,Bethel,OH01302,BETHEL,"2,791",3,87,0,0,0,3,14,71,2,0
-79,Clermont County,Milford,OH01303,MILFORD,"6,910",14,191,0,4,1,9,22,158,11,0
-80,Clermont County,Amelia,OH01304,AMELIA,"4,982",3,63,0,0,0,3,2,58,3,0
-81,Clermont County,Felicity,OH01306,FELICITY,825,3,31,0,1,0,2,4,26,1,0
-82,Clermont County,New Richmond,OH01310,NEW RICHMOND,"2,663",6,61,0,0,0,6,13,45,3,0
-85,Clermont County,Williamsburg,OH01313,WILLIAMSBURG,"2,565",4,58,0,1,0,3,11,45,2,1
-86,Clermont County,Goshen,OH01314,GOSHEN TOWNSHIP,"15,860",7,165,0,5,1,1,32,118,15,1
-90,Clermont County,Loveland,OH03120,LOVELAND,"2,070",2,18,0,1,0,1,4,13,1,0
-92,Clinton County,Blanchester,OH01401,BLANCHESTER,"4,261",12,99,0,6,2,4,23,71,5,0
-93,Clinton County,New Vienna,OH01402,NEW VIENNA,"1,201",0,13,0,0,0,0,3,7,3,0
-94,Clinton County,Sabina,OH01403,SABINA,"2,534",3,52,0,2,0,1,15,37,0,1
-95,Clinton County,Wilmington,OH01404,WILMINGTON,"12,416",23,645,0,3,8,12,72,562,11,0
-96,Highland County,Lynchburg,OH03604,LYNCHBURG,2,0,0,0,0,0,0,0,0,0,0
-98,Columbiana County,Columbiana,OH01501,COLUMBIANA,"5,583",3,33,0,1,1,1,3,30,0,0
-99,Columbiana County,East Palestine,OH01503,EAST PALESTINE,"4,503",11,82,0,2,1,8,22,58,2,1
-100,Columbiana County,Lisbon,OH01505,LISBON,"2,680",1,26,0,1,0,0,6,19,1,0
-101,Columbiana County,Salem,OH01506,SALEM,"11,883",21,348,0,4,1,16,20,324,4,1
-103,Columbiana County,Wellsville,OH01508,WELLSVILLE,"3,347",0,1,0,0,0,0,0,1,0,0
-104,Columbiana County,New Waterford,OH01510,NEW WATERFORD,"1,183",0,3,0,0,0,0,1,2,0,0
-109,Stark County,Minerva,OH07609,MINERVA,2,0,0,0,0,0,0,0,0,0,0
-111,Coshocton County,West Lafayette,OH01606,WEST LAFAYETTE,"2,287",3,6,0,2,0,1,1,5,0,0
-112,Coshocton County,Coshocton,OH01600,COSHOCTON COUNTY SHERIFF,"34,357",37,457,0,8,5,24,123,319,15,5
-117,Cuyahoga County,Cleveland,OHCLP00,CLEVELAND,"385,351","5,999","18,944",107,497,"2,697","2,698","5,853","9,696","3,395",253
-119,Cuyahoga County,Bay Village,OH01801,BAY VILLAGE,"15,327",2,73,0,1,0,1,11,61,1,0
-120,Cuyahoga County,Bedford,OH01803,BEDFORD,"12,641",25,228,1,1,16,7,50,146,32,0
-122,Cuyahoga County,Berea,OH01806,BEREA,"18,871",8,140,0,1,1,6,27,105,8,2
-123,Cuyahoga County,Brecksville,OH01808,BRECKSVILLE,"13,432",2,52,0,1,0,1,4,47,1,0
-124,Cuyahoga County,Broadview Heights,OH01809,BROADVIEW HEIGHTS,"19,228",1,21,0,0,0,1,5,11,5,0
-127,Cuyahoga County,Cleveland Heights,OH01815,CLEVELAND HEIGHTS,"44,525",131,879,2,16,79,34,125,655,99,1
-128,Cuyahoga County,Cleveland,OH01817,EAST CLEVELAND,"17,178",136,339,5,8,83,40,100,89,150,3
-129,Cuyahoga County,Euclid,OH01818,EUCLID,"47,270",303,"1,267",4,26,118,155,226,910,131,6
-130,Cuyahoga County,Fairview Park,OH01819,FAIRVIEW PARK,"16,307",18,176,1,1,4,12,14,155,7,1
-131,Cuyahoga County,Garfield Heights,OH01820,GARFIELD HEIGHTS,"27,846",0,0,0,0,0,0,0,0,0,0
-132,Cuyahoga County,Gates Mills,OH01821,GATES MILLS,"2,232",2,24,0,0,1,1,2,20,2,0
-136,Cuyahoga County,Lakewood,OH01826,LAKEWOOD,"50,151",74,"1,199",2,6,40,26,469,652,78,5
-137,Cuyahoga County,Lyndhurst,OH01827,LYNDHURST,"13,586",18,180,0,0,7,11,21,148,11,0
-140,Cuyahoga County,North Olmsted,OH01834,NORTH OLMSTED,"31,779",26,470,0,6,11,9,40,398,32,0
-141,Cuyahoga County,North Royalton,OH01836,NORTH ROYALTON,"30,313",7,103,3,0,0,4,22,80,1,0
-143,Cuyahoga County,Olmsted Falls,OH01839,OLMSTED FALLS,"8,898",3,31,0,1,1,1,9,19,3,0
-144,Cuyahoga County,Parma,OH01842,PARMA,"79,340",141,906,0,39,37,65,199,633,74,2
-145,Cuyahoga County,Parma Heights,OH01843,PARMA HEIGHTS,"20,094",1,53,0,0,0,1,10,40,3,0
-147,Cuyahoga County,Richmond Heights,OH01845,RICHMOND HEIGHTS,"10,432",19,206,0,0,12,7,37,146,23,0
-148,Cuyahoga County,Rocky River,OH01846,ROCKY RIVER,"20,342",7,73,0,1,2,4,7,62,4,0
-149,Cuyahoga County,Seven Hills,OH01847,SEVEN HILLS,"11,668",3,50,0,0,1,2,14,33,3,0
-150,Cuyahoga County,Solon,OH01849,SOLON,"23,023",13,182,0,2,4,7,25,146,11,0
-151,Cuyahoga County,South Euclid,OH01850,SOUTH EUCLID,"21,628",33,645,0,5,14,14,74,536,35,0
-152,Cuyahoga County,Strongsville,OH01851,STRONGSVILLE,"44,758",18,852,2,1,9,6,67,760,25,0
-157,Cuyahoga County,Westlake,OH01857,WESTLAKE,"32,330",13,366,0,1,9,3,25,326,15,0
-166,Defiance County,Defiance,OH02001,DEFIANCE,"16,594",26,464,0,14,3,9,54,390,20,1
-167,Defiance County,Defiance,OH02000,DEFIANCE,"18,083",13,135,0,9,0,4,31,100,4,1
-168,Franklin County,Columbus,OHCOP00,COLUMBUS,"8,276",45,344,1,9,20,15,71,231,42,4
-170,Delaware County,Powell,OH02105,POWELL,"13,029",6,103,0,2,2,2,12,90,1,0
-173,Franklin County,Dublin,OH02503,DUBLIN,"4,534",3,53,0,1,1,1,6,45,2,0
-174,Franklin County,Westerville,OH02510,WESTERVILLE,"8,531",9,205,0,3,3,3,17,184,4,0
-176,Erie County,Huron,OH02202,HURON,"6,950",4,116,0,1,1,2,24,92,0,0
-177,Erie County,Sandusky,OH02203,SANDUSKY,"24,861",70,995,1,13,31,25,187,769,39,2
-178,Lorain County,Vermilion,OH02204,VERMILION,"4,603",1,41,0,0,0,1,6,35,0,0
-180,Erie County,Berlin Heights,OH02206,BERLIN HEIGHTS,713,0,0,0,0,0,0,0,0,0,0
-181,Erie County,Milan,OH02208,MILAN,983,1,7,0,1,0,0,0,7,0,0
-185,Franklin County,Columbus,OHCOP00,COLUMBUS,"10,505",54,412,2,11,24,17,85,277,50,5
-186,Fairfield County,Lancaster,OH02301,LANCASTER,"40,026",127,"1,706",0,24,33,70,236,"1,382",88,12
-187,Fairfield County,Baltimore,OH02303,BALTIMORE,"2,973",0,15,0,0,0,0,3,11,1,1
-188,Fairfield County,Carroll,OH02306,CARROLL,520,0,3,0,0,0,0,2,1,0,0
-189,Fairfield County,Lithopolis,OH02307,LITHOPOLIS,"1,448",0,13,0,0,0,0,4,9,0,0
-190,Fairfield County,Millersport,OH02308,MILLERSPORT,"1,050",0,2,0,0,0,0,1,1,0,0
-191,Fairfield County,Pickerington,OH02309,PICKERINGTON,"20,297",38,351,0,6,12,20,20,315,16,0
-192,Fairfield County,Sugar Grove,OH02312,SUGAR GROVE,433,0,1,0,0,0,0,0,1,0,0
-193,Franklin County,Reynoldsburg,OH02508,REYNOLDSBURG,936,3,26,0,1,1,1,3,22,1,0
-194,Butler County,Fairfield,OH02300,FAIRFIELD,"75,853",38,962,0,15,6,17,153,793,16,2
-195,Fayette County,Washington Court House,OH02401,WASHINGTON COURT HO,"14,136",41,548,0,16,14,11,79,459,10,4
-196,Fulton County,Fayette,OH02400,FAYETTE,"14,453",37,432,1,5,3,28,109,308,15,1
-197,Franklin County,Columbus,OHCOP00,COLUMBUS,"853,424","4,379","33,652",139,899,"1,919","1,422","6,955","22,613","4,084",370
-198,Fairfield County,Lithopolis,OH02307,LITHOPOLIS,42,0,0,0,0,0,0,0,0,0,0
-199,Fairfield County,Pickerington,OH02309,PICKERINGTON,76,0,1,0,0,0,0,0,1,0,0
-201,Franklin County,Bexley,OH02501,BEXLEY,"13,773",20,420,1,4,10,5,104,301,15,0
-202,Franklin County,Dublin,OH02503,DUBLIN,"39,242",27,456,1,10,8,8,51,388,17,1
-203,Franklin County,Gahanna,OH02504,GAHANNA,"35,243",25,791,1,13,5,6,87,677,27,6
-204,Franklin County,Grandview Heights,OH02505,GRANDVIEW HEIGHTS,"7,831",0,43,0,0,0,0,5,37,1,0
-205,Franklin County,Grove City,OH02506,GROVE CITY,"40,421",47,"1,365",4,14,24,5,112,"1,197",56,0
-206,Franklin County,Hilliard,OH02507,HILLIARD,"36,144",17,404,0,6,2,9,75,293,36,2
-207,Franklin County,Reynoldsburg,OH02508,REYNOLDSBURG,"27,631",71,780,1,16,35,19,98,656,26,3
-208,Franklin County,Upper Arlington,OH02509,UPPER ARLINGTON,"35,214",12,512,0,3,6,3,88,417,7,2
-209,Franklin County,Westerville,OH02510,WESTERVILLE,"30,887",35,740,0,9,13,13,60,667,13,2
-210,Franklin County,Whitehall,OH02511,WHITEHALL,"18,835",125,"1,269",0,11,69,45,187,"1,001",81,12
-211,Franklin County,Worthington,OH02512,WORTHINGTON,"14,692",11,267,2,2,3,4,27,227,13,1
-213,Franklin County,Groveport,OH02516,GROVEPORT,"5,583",12,185,0,3,6,3,29,144,12,1
-216,Franklin County,New Albany,OH02521,NEW ALBANY,"10,670",4,91,0,2,0,2,6,81,4,0
-219,Lake County,Madison,OH02535,MADISON TOWNSHIP,"18,661",19,187,0,2,5,12,51,129,7,0
-224,Fulton County,Archbold,OH02601,ARCHBOLD,"4,338",2,41,0,1,0,1,6,34,1,0
-225,Fulton County,Fayette,OH02603,FAYETTE,"1,265",2,12,0,2,0,0,2,10,0,1
-226,Fulton County,Swanton,OH02604,SWANTON,"3,768",5,51,0,4,0,1,8,39,4,0
-227,Fulton County,Wauseon,OH02605,WAUSEON,"7,407",10,169,0,1,1,8,14,151,4,0
-233,Geauga County,Chardon,OH02801,CHARDON,"5,199",10,96,0,1,0,9,4,91,1,0
-234,Geauga County,Burton,OH02803,BURTON,"1,460",0,1,0,0,0,0,0,1,0,0
-235,Geauga County,Middlefield,OH02805,MIDDLEFIELD,"2,715",1,86,0,0,0,1,2,84,0,0
-238,Geauga County,Chesterland,OH02810,CHESTER TOWNSHIP,"10,355",0,8,0,0,0,0,1,7,0,0
-243,Greene County,Xenia,OH02903,XENIA,"26,331",55,811,1,16,8,30,141,636,34,6
-244,Greene County,Yellow Springs,OH02904,YELLOW SPRINGS,"3,713",11,72,0,4,4,3,20,47,5,0
-245,Greene County,Bellbrook,OH02905,BELLBROOK,"7,159",5,39,0,1,0,4,0,39,0,0
-246,Greene County,Jamestown,OH02909,JAMESTOWN,"2,036",3,84,0,1,2,0,27,53,4,1
-247,Greene County,Beavercreek,OH02911,BEAVERCREEK,"46,572",38,"1,111",0,13,9,16,49,"1,013",49,2
-251,Dayton,Centerville,OH05701,CENTERVILLE,2,0,0,0,0,0,0,0,0,0,0
-252,Dayton,Kettering,OH05705,KETTERING,471,0,8,0,0,0,0,2,6,0,0
-254,Guernsey County,Cambridge,OH03001,CAMBRIDGE,"10,391",8,456,1,1,3,3,75,375,6,1
-255,Guernsey County,Byesville,OH03002,BYESVILLE,"2,372",0,16,0,0,0,0,4,9,3,0
-256,Guernsey County,Senecaville,OH03010,SENECAVILLE,448,0,0,0,0,0,0,0,0,0,0
-257,Hamilton County,Cincinnati,OHCIP00,CINCINNATI,"299,116","2,833","15,105",70,292,"1,196","1,275","3,448","10,172","1,485",1
-258,Clermont County,Milford,OH01303,MILFORD,29,0,1,0,0,0,0,0,1,0,0
-261,Hamilton County,Blue Ash,OH03104,BLUE ASH,"12,248",16,278,2,2,4,8,42,229,7,0
-263,Hamilton County,Cleves,OH03106,CLEVES,"3,418",0,1,0,0,0,0,0,1,0,0
-264,Hamilton County,Deer Park,OH03107,DEER PARK,"5,665",6,51,0,1,0,5,4,44,3,0
-269,Hamilton County,Forest Park,OH03112,FOREST PARK,"18,665",50,435,1,7,20,22,70,345,20,1
-271,Hamilton County,Greenhills,OH03115,GREENHILLS,"3,584",1,43,0,0,0,1,4,38,1,0
-272,Hamilton County,Harrison,OH03116,HARRISON,"11,246",6,182,1,0,5,0,16,157,9,0
-275,Clermont County,Loveland,OH03120,LOVELAND,"9,953",10,86,0,5,1,4,19,61,6,1
-277,Hamilton County,Montgomery,OH03123,MONTGOMERY,"10,638",4,152,0,2,1,1,8,139,5,0
-281,Hamilton County,Norwood,OH03128,NORWOOD,"19,994",68,895,0,15,28,25,132,707,56,2
-282,Hamilton County,Reading,OH03129,READING,"10,307",28,291,1,4,7,16,52,232,7,0
-283,Hamilton County,Springdale,OH03133,SPRINGDALE,"11,203",0,0,0,0,0,0,0,0,0,0
-293,Allen County,Bluffton,OH00201,BLUFFTON,170,0,2,0,0,0,0,0,2,0,0
-294,Hancock County,Findlay,OH03201,FINDLAY,"41,474",128,"1,304",3,25,24,76,216,"1,050",38,3
-295,Hancock County,McComb,OH03207,MCCOMB,"1,655",0,0,0,0,0,0,0,0,0,0
-304,Highland County,Greenfield,OH03601,GREENFIELD,"4,582",13,99,3,3,2,5,28,50,21,2
-305,Highland County,Hillsboro,OH03602,HILLSBORO,"6,576",9,168,0,7,1,1,23,134,11,1
-306,Highland County,Leesburg,OH03603,VILLAGE OF LEESBURG,"1,295",1,54,0,0,0,1,5,47,2,0
-307,Highland County,Lynchburg,OH03604,LYNCHBURG,"1,480",0,29,0,0,0,0,2,25,2,0
-310,Hocking County,Logan,OH03701,LOGAN,"7,077",18,289,0,5,3,10,21,254,14,2
-311,Hocking County,Laurelville,OH03702,LAURELVILLE,507,1,3,0,0,1,0,0,3,0,0
-313,Ashland County,Loudonville,OH00302,LOUDONVILLE,61,0,1,0,0,0,0,0,1,0,0
-316,Erie County,Milan,OH02208,MILAN,356,0,3,0,0,0,0,0,3,0,0
-325,Jefferson County,Steubenville,OH04103,STEUBENVILLE,"17,979",49,"1,132",3,4,11,31,89,"1,021",22,6
-335,Knox County,Mount Vernon,OH04201,MOUNT VERNON,"16,553",22,621,1,6,0,15,89,525,7,3
-337,Knox County,Fredericktown,OH04204,FREDERICKTOWN,"2,461",4,55,0,0,0,4,12,43,0,0
-340,Lake County,Eastlake,OH04301,EASTLAKE,"18,056",14,330,1,2,5,6,38,282,10,1
-343,Lake County,Mentor,OH04306,MENTOR,"46,663",72,908,0,11,17,44,105,780,23,6
-345,Lake County,Painesville,OH04308,PAINESVILLE,"19,719",11,22,1,1,0,9,7,13,2,0
-347,Lake County,Wickliffe,OH04311,WICKLIFFE,"12,679",9,152,0,0,4,5,26,118,8,0
-348,Lake County,Willoughby,OH04312,WILLOUGHBY,"22,857",34,440,0,1,17,16,37,385,18,1
-349,Lake County,Madison,OH04318,MADISON TOWNSHIP,"15,380",4,67,0,0,0,4,8,57,2,0
-358,Franklin County,Reynoldsburg,OH02508,REYNOLDSBURG,"9,137",25,256,0,6,12,7,32,216,8,1
-359,Franklin County,New Albany,OH02521,NEW ALBANY,168,0,1,0,0,0,0,0,1,0,0
-361,Licking County,Granville,OH04503,GRANVILLE,"5,787",0,39,0,0,0,0,5,32,2,0
-363,Licking County,Johnstown,OH04509,JOHNSTOWN,"5,025",2,63,0,1,0,1,4,56,3,0
-367,Logan County,Bellefontaine,OH04601,BELLEFONTAINE,"13,144",14,331,0,6,2,6,46,280,5,2
-368,Logan County,Russells Point,OH04602,RUSSELLS POINT,"1,367",4,22,1,2,0,1,3,19,0,0
-369,Logan County,West Liberty,OH04610,WEST LIBERTY,"1,785",1,5,0,0,0,1,1,3,1,0
-371,Lorain County,Elyria,OH04704,ELYRIA,"53,586",191,"1,146",3,39,64,85,248,842,56,12
-372,Lorain County,Vermilion,OH02204,VERMILION,"5,778",2,54,0,1,0,1,8,45,1,0
-373,Lorain County,Amherst,OH04701,AMHERST,"12,090",5,157,0,0,2,3,14,140,3,1
-374,Lorain County,Avon Lake,OH04703,AVON LAKE,"23,839",8,124,0,0,1,7,21,97,6,1
-375,Lorain County,Lorain,OH04705,LORAIN,"63,672",373,"2,019",2,30,87,254,590,"1,335",94,11
-376,Lorain County,Oberlin,OH04706,OBERLIN,"8,321",13,171,0,6,0,7,33,136,2,1
-377,Lorain County,North Ridgeville,OH04707,NORTH RIDGEVILLE,"33,586",17,140,1,7,2,7,47,89,4,0
-378,Lorain County,Sheffield Lake,OH04708,SHEFFIELD LAKE,"8,983",7,115,0,5,2,0,23,84,8,0
-379,Lorain County,Grafton,OH04710,GRAFTON,"6,182",1,40,0,1,0,0,16,24,0,0
-381,Lucas County,Toledo,OH04807,TOLEDO,"277,116","2,829","11,095",35,180,780,"1,834","3,103","7,247",745,0
-382,Fulton County,Swanton,OH02604,SWANTON,145,0,1,0,0,0,0,0,1,0,0
-383,Lucas County,Maumee,OH04801,MAUMEE,"13,809",5,305,0,0,3,2,31,265,9,0
-384,Lucas County,Oregon,OH04802,OREGON,"19,991",36,779,1,10,8,17,75,682,22,1
-388,Lucas County,Holland,OH04810,HOLLAND,"1,662",7,349,0,1,4,2,10,335,4,3
-389,Lucas County,Waterville,OH04811,WATERVILLE,"5,518",1,25,0,0,0,1,3,22,0,0
-390,Lucas County,Whitehouse,OH04812,WHITEHOUSE,"4,622",2,8,0,0,1,1,1,7,0,0
-397,Madison County,London,OH04901,LONDON,"10,202",14,254,0,2,2,10,52,189,13,1
-398,Madison County,West Jefferson,OH04902,WEST JEFFERSON,"4,347",2,58,0,0,0,2,5,51,2,0
-400,Mahoning County,Boardman,OH05002,BOARDMAN,"39,276",61,"1,482",0,14,31,16,164,"1,289",29,6
-401,Mahoning County,Youngstown,OH05009,YOUNGSTOWN,"63,878",447,"2,362",23,32,151,241,847,"1,283",232,82
-402,Columbiana County,Columbiana,OH01501,COLUMBIANA,650,0,4,0,0,0,0,0,4,0,0
-403,Columbiana County,Salem,OH01506,SALEM,4,0,0,0,0,0,0,0,0,0,0
-405,Mahoning County,Austintown,OH05001,AUSTINTOWN,"35,303",62,789,0,9,14,39,109,659,21,1
-407,Mahoning County,Canfield,OH05004,CANFIELD,"7,246",3,46,0,1,0,2,10,36,0,2
-411,Mahoning County,Struthers,OH05008,STRUTHERS,"10,228",15,216,0,1,4,10,58,148,10,0
-412,Mahoning County,Craig Beach,OH05011,CRAIG BEACH,"1,129",1,6,0,1,0,0,1,4,1,0
-413,Mahoning County,New Middletown,OH05012,NEW MIDDLETOWN,"1,553",0,15,0,0,0,0,4,9,2,0
-416,Clermont County,Goshen,OH05018,GOSHEN TOWNSHIP,"3,072",3,55,0,2,0,1,6,44,5,1
-418,Mahoning County,North Jackson,OH05021,JACKSON TOWNSHIP,"2,018",2,32,0,0,0,2,14,18,0,0
-421,Stark County,Alliance,OH07601,ALLIANCE,35,0,1,0,0,0,0,0,1,0,0
-425,Medina County,Brunswick,OH05201,BRUNSWICK,"34,838",21,194,1,2,4,14,22,161,11,0
-426,Medina County,Medina,OH05202,MEDINA,"26,199",17,324,1,5,5,6,55,269,0,0
-427,Medina County,Wadsworth,OH05203,WADSWORTH,"23,388",24,333,0,4,1,19,28,301,4,1
-429,Medina County,Spencer,OH05210,SPENCER,777,2,6,0,1,0,1,1,5,0,0
-430,Medina County,Hinckley,OH05212,HINCKLEY TOWNSHIP,"7,970",1,17,0,0,0,1,3,13,1,0
-434,Wayne County,Rittman,OH08502,RITTMAN,114,0,2,0,0,0,0,1,1,0,0
-435,Wayne County,Creston,OH08507,CRESTON,91,0,1,0,0,0,0,0,1,0,0
-443,Mercer County,Coldwater,OH05404,COLDWATER,"4,519",3,53,0,3,0,0,6,47,0,0
-444,Mercer County,Fort Recovery,OH05405,FORT RECOVERY,"1,436",1,12,0,0,0,1,3,8,1,0
-445,Mercer County,Rockford,OH05408,ROCKFORD,"1,099",0,4,0,0,0,0,0,4,0,0
-446,Mercer County,Saint Henry,OH05409,ST. HENRY,"2,527",1,8,0,0,0,1,1,7,0,0
-448,Miami County,Piqua,OH05502,PIQUA,"20,973",54,819,1,33,11,9,120,681,18,2
-449,Miami County,Tipp City,OH05503,TIPP CITY,"9,957",4,140,0,4,0,0,11,119,10,4
-450,Miami County,Troy,OH05504,TROY,"25,865",38,502,1,20,6,11,60,434,8,0
-451,Miami County,Covington,OH05506,COVINGTON,"2,637",3,16,0,0,0,3,2,14,0,0
-452,Dayton,Huber Heights,OH05714,HUBER HEIGHTS,995,2,24,0,0,1,1,3,20,1,0
-456,Dayton,Dayton,OH05702,DAYTON,"140,171","1,232","6,083",30,122,393,687,"1,779","3,688",616,26
-457,Dayton,Centerville,OH05701,CENTERVILLE,"23,780",14,373,0,2,4,8,30,327,16,0
-458,Dayton,Germantown,OH05703,GERMANTOWN,"5,477",4,68,0,2,1,1,15,49,4,0
-459,Dayton,Kettering,OH05705,KETTERING,"54,681",70,852,0,23,26,21,190,610,52,3
-461,Dayton,Miamisburg,OH05708,MIAMISBURG,"19,928",14,257,0,4,2,8,46,204,7,3
-462,Dayton,Moraine,OH05709,MORAINE,"6,360",27,541,0,8,10,9,60,456,25,4
-463,Dayton,Clayton,OH05711,CLAYTON,"13,149",5,118,0,0,4,1,17,92,9,0
-464,Dayton,Trotwood,OH05712,TROTWOOD,"24,308",69,891,3,15,35,16,257,489,145,6
-465,Dayton,Vandalia,OH05713,VANDALIA,"15,022",26,310,0,10,11,5,66,219,25,2
-466,Dayton,Huber Heights,OH05714,HUBER HEIGHTS,"37,001",75,927,0,15,20,40,114,762,51,5
-467,Dayton,West Carrollton,OH05715,WEST CARROLLTON,"12,898",23,285,1,5,11,6,66,198,21,4
-468,Dayton,Brookville,OH05716,BROOKVILLE,"5,896",6,67,0,3,3,0,15,47,5,0
-469,Dayton,Englewood,OH05718,ENGLEWOOD,"13,504",19,443,0,1,7,11,8,423,12,5
-470,Dayton,New Lebanon,OH05720,NEW LEBANON,"3,966",10,95,0,2,4,4,22,70,3,1
-474,Mahoning County,North Jackson,OH05727,JACKSON TOWNSHIP,"3,658",1,13,0,0,0,1,4,8,1,0
-479,Warren County,Springboro,OH08314,SPRINGBORO,"1,273",0,8,0,0,0,0,1,7,0,0
-484,Muskingum County,Zanesville,OH06001,ZANESVILLE,"25,457",100,"1,157",0,19,21,60,203,897,57,16
-485,Muskingum County,Dresden,OH06003,DRESDEN,"1,707",0,5,0,0,0,0,1,4,0,0
-486,Muskingum County,Frazeysburg,OH06004,FRAZEYSBURG,"1,294",1,9,0,0,0,1,4,5,0,0
-487,Muskingum County,New Concord,OH06006,NEW CONCORD,"2,337",0,7,0,0,0,0,0,7,0,0
-488,Muskingum County,Roseville,OH06009,ROSEVILLE,763,1,10,0,1,0,0,2,6,2,0
-493,Ottawa County,Oak Harbor,OH06201,OAK HARBOR,"2,731",1,36,0,1,0,0,8,28,0,0
-494,Ottawa County,Port Clinton,OH06202,PORT CLINTON,"5,928",21,170,0,12,3,6,31,126,13,0
-495,Ottawa County,Genoa,OH06205,GENOA,"2,276",1,7,0,0,0,1,2,5,0,1
-496,Ottawa County,Put in Bay,OH06207,PUT-IN-BAY,135,0,1,0,0,0,0,0,0,1,0
-502,Muskingum County,Roseville,OH06009,ROSEVILLE,"1,083",3,12,0,1,1,1,2,8,2,0
-503,Perry County,Crooksville,OH06401,CROOKSVILLE,"2,491",0,0,0,0,0,0,0,0,0,0
-504,Perry County,New Lexington,OH06402,NEW LEXINGTON,"4,716",11,134,0,6,1,4,14,112,8,1
-508,Perry County,Somerset,OH06411,SOMERSET,"1,460",0,4,0,0,0,0,1,3,0,0
-509,Perry County,Thornville,OH06412,THORNVILLE,997,0,3,0,0,0,0,1,2,0,0
-511,Pickaway County,Circleville,OH06501,CIRCLEVILLE,"13,972",57,714,0,13,21,23,136,550,28,4
-512,Pickaway County,Ashville,OH06502,ASHVILLE,"4,211",3,53,1,0,1,1,9,40,4,0
-519,Portage County,Aurora,OH06701,AURORA,"15,932",3,187,0,0,1,2,17,168,2,0
-520,Portage County,Garrettsville,OH06702,GARRETTSVILLE,"2,321",0,20,0,0,0,0,1,17,2,0
-521,Portage County,Kent,OH06703,KENT,"30,270",44,451,0,1,11,32,75,359,17,1
-522,Portage County,Windham,OH06706,WINDHAM,"2,199",4,36,0,0,0,4,10,24,2,0
-524,Portage County,Hiram,OH06708,HIRAM,"1,164",3,0,0,1,0,2,0,0,0,0
-526,Portage County,Streetsboro,OH06712,STREETSBORO,"16,308",11,343,0,2,5,4,24,309,10,0
-529,Portage County,Mogadore,OH07708,MOGADORE,"1,002",0,12,0,0,0,0,3,9,0,0
-530,Summit County,Tallmadge,OH07713,TALLMADGE,287,0,5,0,0,0,0,1,4,0,0
-532,Preble County,Camden,OH06802,CAMDEN,"1,951",0,2,0,0,0,0,0,2,0,0
-534,Preble County,West Alexandria,OH06809,WEST ALEXANDRIA,"1,339",1,13,0,1,0,0,4,9,0,0
-536,Putnam County,Ottawa,OH06901,OTTAWA,"4,394",6,14,0,2,0,4,0,13,1,0
-537,Putnam County,Columbus Grove,OH06904,COLUMBUS GROVE,"2,077",0,1,0,0,0,0,0,1,0,0
-538,Putnam County,Leipsic,OH06911,LEIPSIC,"2,022",1,12,0,0,0,1,4,8,0,0
-540,Putnam County,Pandora,OH06914,PANDORA,"1,146",0,3,0,0,0,0,1,2,0,0
-543,Richland County,Mansfield,OH07001,MANSFIELD,"46,507",248,"2,392",7,45,75,121,569,"1,745",78,19
-547,Richland County,Shelby,OH07004,SHELBY,"8,987",11,262,0,9,0,2,54,205,3,1
-548,Richland County,Bellville,OH07005,BELLVILLE,"1,864",0,18,0,0,0,0,2,15,1,0
-549,Richland County,Lexington,OH07007,LEXINGTON,"4,686",0,9,0,0,0,0,1,8,0,1
-551,Ross County,Chillicothe,OH07101,CHILLICOTHE,"21,695",93,"1,496",0,14,28,51,284,"1,160",52,6
-553,Sandusky County,Clyde,OH07202,CLYDE,"6,191",4,116,0,0,0,4,21,92,3,1
-554,Sandusky County,Fremont,OH07203,FREMONT,"16,241",31,866,1,2,12,16,151,699,16,0
-561,Seneca County,Tiffin,OH07402,TIFFIN,"17,481",18,390,0,2,4,12,55,331,4,1
-563,Shelby County,Sidney,OH07501,SIDNEY,"20,466",42,822,3,24,9,6,162,641,19,6
-564,Shelby County,Fort Loramie,OH07504,FORT LORAMIE,"1,500",0,2,0,0,0,0,0,1,1,0
-566,Stark County,Canton,OH07604,CANTON,"71,031",836,"3,766",16,97,188,535,"1,008","2,512",246,12
-567,Stark County,Massillon,OH07608,MASSILLON,"32,265",52,401,0,14,11,27,69,326,6,6
-568,Stark County,Alliance,OH07601,ALLIANCE,"21,803",75,799,0,14,11,50,109,649,41,6
-569,Stark County,Brewster,OH07602,BREWSTER,"2,154",0,14,0,0,0,0,2,12,0,1
-570,Stark County,Canal Fulton,OH07603,CANAL FULTON,"5,428",2,75,0,1,0,1,26,47,2,0
-571,Stark County,East Canton,OH07605,EAST CANTON,"1,589",0,10,0,0,0,0,0,10,0,0
-572,Stark County,Hartville,OH07606,HARTVILLE,"3,030",2,78,0,0,0,2,1,77,0,1
-573,Stark County,Louisville,OH07607,LOUISVILLE,"9,373",2,123,0,0,0,2,22,98,3,1
-574,Stark County,Minerva,OH07609,MINERVA,"1,931",1,20,0,0,0,1,4,14,2,0
-575,Stark County,Navarre,OH07610,NAVARRE,"1,901",1,22,0,0,0,1,3,18,1,0
-576,Stark County,North Canton,OH07611,NORTH CANTON,"17,348",12,281,0,4,3,5,41,232,8,0
-577,Stark County,Beach City,OH07612,BEACH CITY,989,0,6,0,0,0,0,1,4,1,0
-578,Stark County,North Lawrence,OH07622,LAWRENCE TOWNSHIP,"8,273",9,85,2,2,0,5,31,48,6,0
-579,Mahoning County,North Jackson,OH07624,JACKSON TOWNSHIP,"40,624",58,"1,101",1,14,24,19,120,963,18,7
-581,Stark County,Magnolia,OH07630,MAGNOLIA,714,1,13,0,1,0,0,2,10,1,0
-583,Summit County,Akron,OH07701,AKRON,"197,412","1,377","8,360",42,209,395,731,"2,301","5,304",755,103
-584,Summit County,Barberton,OH07702,BARBERTON,"26,050",103,881,1,19,14,69,158,682,41,8
-585,Summit County,Cuyahoga Falls,OH07703,CUYAHOGA FALLS,"49,145",49,"1,209",2,18,8,21,143,"1,027",39,1
-586,Summit County,Hudson,OH07705,HUDSON,"22,248",12,114,0,2,1,9,36,76,2,4
-588,Summit County,Macedonia,OH07707,MACEDONIA,"12,027",5,206,0,1,1,3,14,189,3,1
-589,Portage County,Mogadore,OH07708,MOGADORE,"2,827",0,37,0,0,0,0,9,27,1,0
-590,Summit County,Northfield,OH07709,NORTHFIELD,"3,669",5,39,0,0,1,4,4,32,3,0
-592,Summit County,Stow,OH07712,STOW,"34,692",32,690,1,19,6,6,102,584,4,0
-593,Summit County,Tallmadge,OH07713,TALLMADGE,"17,242",18,329,0,6,8,4,54,263,12,5
-594,Summit County,Twinsburg,OH07714,TWINSBURG,"18,891",18,111,2,0,4,12,9,99,3,0
-595,Summit County,Munroe Falls,OH07717,MUNROE FALLS,"5,051",1,39,0,0,0,1,7,32,0,0
-596,Summit County,Peninsula,OH07718,PENINSULA,563,0,22,0,0,0,0,2,19,1,0
-600,Summit County,Copley,OH07727,COPLEY TOWNSHIP,"17,280",15,163,1,1,2,11,24,133,6,0
-605,Mahoning County,Youngstown,OH05009,YOUNGSTOWN,11,0,0,0,0,0,0,0,0,0,0
-606,Trumbull County,Warren,OH07807,WARREN,"39,643",227,"1,608",11,32,101,83,494,"1,008",106,2
-607,Trumbull County,Hubbard,OH07802,HUBBARD,"7,533",8,110,0,3,0,5,10,99,1,2
-609,Trumbull County,Newton Falls,OH07805,NEWTON FALLS,"4,567",10,100,0,4,0,6,18,76,6,0
-610,Trumbull County,Niles,OH07806,NILES,"18,334",55,536,0,8,12,35,95,424,17,0
-611,Trumbull County,Cortland,OH07808,CORTLAND,"6,844",1,46,0,0,1,0,6,39,1,0
-614,Trumbull County,Lordstown,OH07814,LORDSTOWN,"3,242",3,44,0,1,0,2,10,31,3,1
-621,Tuscarawas County,Dennison,OH07901,DENNISON,"2,625",2,7,0,0,0,2,0,6,1,1
-633,Franklin County,Dublin,OH02503,DUBLIN,"2,510",1,29,0,1,0,0,3,25,1,0
-634,Union County,Marysville,OH08001,MARYSVILLE,"23,622",17,290,1,4,3,9,27,255,8,1
-636,Allen County,Delphos,OH00202,DELPHOS,"3,052",3,69,0,3,0,0,13,56,0,0
-637,Van Wert County,Van Wert,OH08101,VAN WERT,"10,713",22,330,1,7,3,11,56,268,6,0
-641,Butler County,Middletown,OH00903,MIDDLETOWN,"2,759",14,168,0,2,5,7,39,119,10,0
-643,Clermont County,Loveland,OH03120,LOVELAND,823,0,7,0,0,0,0,2,5,0,0
-644,Warren County,Franklin,OH08301,FRANKLIN,"11,779",31,443,1,6,13,11,70,359,14,1
-646,Warren County,Lebanon,OH08303,LEBANON,"20,741",4,116,0,0,1,3,12,101,3,2
-647,Warren County,Mason,OH08304,MASON,"33,406",12,357,0,5,3,4,31,321,5,0
-650,Warren County,Maineville,OH08311,MAINEVILLE,"1,070",0,1,0,0,0,0,1,0,0,0
-651,Warren County,Springboro,OH08314,SPRINGBORO,"17,359",10,114,0,5,0,5,14,98,2,0
-654,Washington County,Belpre,OH08401,BELPRE,"6,466",2,76,0,0,0,2,15,56,5,0
-655,Washington County,Marietta,OH08402,MARIETTA,"13,582",23,250,0,11,2,10,37,197,16,2
-659,Wayne County,Orrville,OH08501,ORRVILLE,"8,527",15,107,0,6,0,9,17,84,6,0
-660,Wayne County,Rittman,OH08502,RITTMAN,"6,496",9,107,0,3,2,4,35,64,8,1
-661,Wayne County,Wooster,OH08503,WOOSTER,"27,172",102,916,0,30,24,48,157,722,37,6
-662,Wayne County,Apple Creek,OH08504,APPLE CREEK,"1,188",2,4,0,0,0,2,0,4,0,0
-663,Wayne County,Creston,OH08507,CRESTON,"2,097",1,20,0,0,0,1,6,12,2,1
-664,Wayne County,Marshallville,OH08511,MARSHALLVILLE,761,1,1,0,1,0,0,0,1,0,0
-665,Wayne County,Smithville,OH08514,SMITHVILLE,"1,277",1,1,0,1,0,0,0,1,0,0
-667,Williams County,Montpelier,OH08602,MONTPELIER,"3,976",27,139,0,5,1,21,28,105,6,0
-668,Williams County,Pioneer,OH08607,PIONEER,"1,412",3,31,0,2,0,1,5,24,2,0
-670,Wood County,Bowling Green,OH08701,BOWLING GREEN,"31,779",41,587,0,20,6,15,86,486,15,3
-671,Wood County,North Baltimore,OH08702,NORTH BALTIMORE,"3,546",10,46,0,2,0,8,9,36,1,0
-672,Wood County,Perrysburg,OH08703,PERRYSBURG,"21,732",7,232,0,3,4,0,10,221,1,0
-674,Wood County,Bradner,OH08707,BRADNER,"1,024",1,2,0,0,0,1,0,2,0,0
-675,Wood County,Northwood,OH08718,NORTHWOOD,"5,423",19,138,0,2,4,13,17,116,5,0
-676,Wood County,Pemberville,OH08719,PEMBERVILLE,"1,425",0,1,0,0,0,0,0,1,0,0
-677,Wood County,Wayne,OH08724,WAYNE,927,0,0,0,0,0,0,0,0,0,0
+,County,City,POPULATION,VIOLENT CRIME,MURDER,RAPE,ROBBERY,AGGRAVATED ASSAULT
+7,Allen County,Lima,37220,275,5,52,81,137
+8,Allen County,Bluffton,3987,1,0,1,0,0
+9,Allen County,Delphos,3927,3,0,3,0,0
+10,Allen County,Spencerville,2184,0,0,0,0,0
+11,Allen County,Elida,1836,1,0,0,0,1
+12,Allen County,Fort Shawnee,12096,14,1,4,3,6
+16,Ashland County,Ashland,20485,25,0,7,4,14
+17,Ashland County,Loudonville,2581,3,1,1,1,0
+18,Ashland County,Ashland,29919,35,0,20,0,15
+19,Ashtabula County,Geneva,1199,7,0,3,1,3
+20,Ashtabula County,Roaming Shores,1466,0,0,0,0,0
+21,Ashtabula County,Ashtabula,49924,42,0,8,4,30
+22,Athens County,Athens,25526,34,0,4,6,24
+23,Athens County,Glouster,1793,3,0,1,0,2
+24,Athens County,Nelsonville,5284,13,0,2,4,7
+25,Athens County,Albany,899,0,0,0,0,0
+27,Athens County,Coolville,492,0,0,0,0,0
+28,Athens County,Athens,31510,20,1,9,4,6
+29,Auglaize County,Saint Marys,8215,3,0,0,1,2
+30,Auglaize County,Wapakoneta,9809,14,0,6,3,5
+31,Auglaize County,Minster,2866,0,0,0,0,0
+32,Auglaize County,New Bremen,2966,0,0,0,0,0
+33,Auglaize County,New Knoxville,864,0,0,0,0,0
+35,Belmont County,Barnesville,4096,0,0,0,0,0
+38,Belmont County,Martins Ferry,6731,13,0,6,0,7
+39,Belmont County,Powhatan Point,1562,0,0,0,0,0
+41,Belmont County,Saint Clairsville,5096,1,0,0,0,1
+42,Belmont County,Flushing,858,0,0,0,0,0
+44,Belmont County,Belmont,29108,34,2,10,2,20
+46,Brown County,Georgetown,4356,10,0,6,3,1
+47,Brown County,Ripley,1707,2,0,1,0,1
+48,Brown County,Mount Orab,3525,4,1,2,0,1
+52,Butler County,Fairfield,42627,90,1,11,12,66
+53,Butler County,Hamilton,62094,312,3,75,111,123
+54,Butler County,Middletown,46069,235,5,39,82,109
+57,Butler County,Oxford,22459,18,0,5,7,6
+58,Butler County,Oxford,2181,2,0,0,0,2
+59,Butler County,West Chester,61386,64,0,21,15,28
+65,Stark County,Minerva,1729,1,0,0,0,1
+66,Stark County,Magnolia,258,0,0,0,0,0
+71,Clark County,Springfield,58843,370,9,25,177,159
+72,Clark County,Enon,2381,0,0,0,0,0
+73,Clark County,South Charleston,1640,2,0,0,0,2
+75,Clark County,South Vienna,375,0,0,0,0,0
+77,Clermont County,Batavia,1656,0,0,0,0,0
+78,Clermont County,Bethel,2791,3,0,0,0,3
+79,Clermont County,Milford,6910,14,0,4,1,9
+80,Clermont County,Amelia,4982,3,0,0,0,3
+81,Clermont County,Felicity,825,3,0,1,0,2
+82,Clermont County,New Richmond,2663,6,0,0,0,6
+85,Clermont County,Williamsburg,2565,4,0,1,0,3
+86,Clermont County,Goshen,15860,7,0,5,1,1
+90,Clermont County,Loveland,2070,2,0,1,0,1
+92,Clinton County,Blanchester,4261,12,0,6,2,4
+93,Clinton County,New Vienna,1201,0,0,0,0,0
+94,Clinton County,Sabina,2534,3,0,2,0,1
+95,Clinton County,Wilmington,12416,23,0,3,8,12
+96,Highland County,Lynchburg,2,0,0,0,0,0
+98,Columbiana County,Columbiana,5583,3,0,1,1,1
+99,Columbiana County,East Palestine,4503,11,0,2,1,8
+100,Columbiana County,Lisbon,2680,1,0,1,0,0
+101,Columbiana County,Salem,11883,21,0,4,1,16
+103,Columbiana County,Wellsville,3347,0,0,0,0,0
+104,Columbiana County,New Waterford,1183,0,0,0,0,0
+109,Stark County,Minerva,2,0,0,0,0,0
+111,Coshocton County,West Lafayette,2287,3,0,2,0,1
+112,Coshocton County,Coshocton,34357,37,0,8,5,24
+117,Cuyahoga County,Cleveland,385351,5999,107,497,2697,2698
+119,Cuyahoga County,Bay Village,15327,2,0,1,0,1
+120,Cuyahoga County,Bedford,12641,25,1,1,16,7
+122,Cuyahoga County,Berea,18871,8,0,1,1,6
+123,Cuyahoga County,Brecksville,13432,2,0,1,0,1
+124,Cuyahoga County,Broadview Heights,19228,1,0,0,0,1
+127,Cuyahoga County,Cleveland Heights,44525,131,2,16,79,34
+128,Cuyahoga County,East Cleveland,17178,136,5,8,83,40
+129,Cuyahoga County,Euclid,47270,303,4,26,118,155
+130,Cuyahoga County,Fairview Park,16307,18,1,1,4,12
+131,Cuyahoga County,Garfield Heights,27846,0,0,0,0,0
+132,Cuyahoga County,Gates Mills,2232,2,0,0,1,1
+136,Cuyahoga County,Lakewood,50151,74,2,6,40,26
+137,Cuyahoga County,Lyndhurst,13586,18,0,0,7,11
+140,Cuyahoga County,North Olmsted,31779,26,0,6,11,9
+141,Cuyahoga County,North Royalton,30313,7,3,0,0,4
+143,Cuyahoga County,Olmsted Falls,8898,3,0,1,1,1
+144,Cuyahoga County,Parma,79340,141,0,39,37,65
+145,Cuyahoga County,Parma Heights,20094,1,0,0,0,1
+147,Cuyahoga County,Richmond Heights,10432,19,0,0,12,7
+148,Cuyahoga County,Rocky River,20342,7,0,1,2,4
+149,Cuyahoga County,Seven Hills,11668,3,0,0,1,2
+150,Cuyahoga County,Solon,23023,13,0,2,4,7
+151,Cuyahoga County,South Euclid,21628,33,0,5,14,14
+152,Cuyahoga County,Strongsville,44758,18,2,1,9,6
+157,Cuyahoga County,Westlake,32330,13,0,1,9,3
+166,Defiance County,Defiance,16594,26,0,14,3,9
+167,Defiance County,Defiance,18083,13,0,9,0,4
+168,Franklin County,Columbus,8276,45,1,9,20,15
+170,Delaware County,Powell,13029,6,0,2,2,2
+173,Franklin County,Dublin,4534,3,0,1,1,1
+174,Franklin County,Westerville,8531,9,0,3,3,3
+176,Erie County,Huron,6950,4,0,1,1,2
+177,Erie County,Sandusky,24861,70,1,13,31,25
+178,Lorain County,Vermilion,4603,1,0,0,0,1
+180,Erie County,Berlin Heights,713,0,0,0,0,0
+181,Erie County,Milan,983,1,0,1,0,0
+185,Franklin County,Columbus,10505,54,2,11,24,17
+186,Fairfield County,Lancaster,40026,127,0,24,33,70
+187,Fairfield County,Baltimore,2973,0,0,0,0,0
+188,Fairfield County,Carroll,520,0,0,0,0,0
+189,Fairfield County,Lithopolis,1448,0,0,0,0,0
+190,Fairfield County,Millersport,1050,0,0,0,0,0
+191,Fairfield County,Pickerington,20297,38,0,6,12,20
+192,Fairfield County,Sugar Grove,433,0,0,0,0,0
+193,Franklin County,Reynoldsburg,936,3,0,1,1,1
+194,Butler County,Fairfield,75853,38,0,15,6,17
+195,Fayette County,Washington Court House,14136,41,0,16,14,11
+196,Fulton County,Fayette,14453,37,1,5,3,28
+197,Franklin County,Columbus,853424,4379,139,899,1919,1422
+198,Fairfield County,Lithopolis,42,0,0,0,0,0
+199,Fairfield County,Pickerington,76,0,0,0,0,0
+201,Franklin County,Bexley,13773,20,1,4,10,5
+202,Franklin County,Dublin,39242,27,1,10,8,8
+203,Franklin County,Gahanna,35243,25,1,13,5,6
+204,Franklin County,Grandview Heights,7831,0,0,0,0,0
+205,Franklin County,Grove City,40421,47,4,14,24,5
+206,Franklin County,Hilliard,36144,17,0,6,2,9
+207,Franklin County,Reynoldsburg,27631,71,1,16,35,19
+208,Franklin County,Upper Arlington,35214,12,0,3,6,3
+209,Franklin County,Westerville,30887,35,0,9,13,13
+210,Franklin County,Whitehall,18835,125,0,11,69,45
+211,Franklin County,Worthington,14692,11,2,2,3,4
+213,Franklin County,Groveport,5583,12,0,3,6,3
+216,Franklin County,New Albany,10670,4,0,2,0,2
+219,Lake County,Madison,18661,19,0,2,5,12
+224,Fulton County,Archbold,4338,2,0,1,0,1
+225,Fulton County,Fayette,1265,2,0,2,0,0
+226,Fulton County,Swanton,3768,5,0,4,0,1
+227,Fulton County,Wauseon,7407,10,0,1,1,8
+233,Geauga County,Chardon,5199,10,0,1,0,9
+234,Geauga County,Burton,1460,0,0,0,0,0
+235,Geauga County,Middlefield,2715,1,0,0,0,1
+238,Geauga County,Chesterland,10355,0,0,0,0,0
+243,Greene County,Xenia,26331,55,1,16,8,30
+244,Greene County,Yellow Springs,3713,11,0,4,4,3
+245,Greene County,Bellbrook,7159,5,0,1,0,4
+246,Greene County,Jamestown,2036,3,0,1,2,0
+247,Greene County,Beavercreek,46572,38,0,13,9,16
+251,Dayton,Centerville,2,0,0,0,0,0
+252,Dayton,Kettering,471,0,0,0,0,0
+254,Guernsey County,Cambridge,10391,8,1,1,3,3
+255,Guernsey County,Byesville,2372,0,0,0,0,0
+256,Guernsey County,Senecaville,448,0,0,0,0,0
+257,Hamilton County,Cincinnati,299116,2833,70,292,1196,1275
+258,Clermont County,Milford,29,0,0,0,0,0
+261,Hamilton County,Blue Ash,12248,16,2,2,4,8
+263,Hamilton County,Cleves,3418,0,0,0,0,0
+264,Hamilton County,Deer Park,5665,6,0,1,0,5
+269,Hamilton County,Forest Park,18665,50,1,7,20,22
+271,Hamilton County,Greenhills,3584,1,0,0,0,1
+272,Hamilton County,Harrison,11246,6,1,0,5,0
+275,Clermont County,Loveland,9953,10,0,5,1,4
+277,Hamilton County,Montgomery,10638,4,0,2,1,1
+281,Hamilton County,Norwood,19994,68,0,15,28,25
+282,Hamilton County,Reading,10307,28,1,4,7,16
+283,Hamilton County,Springdale,11203,0,0,0,0,0
+293,Allen County,Bluffton,170,0,0,0,0,0
+294,Hancock County,Findlay,41474,128,3,25,24,76
+295,Hancock County,McComb,1655,0,0,0,0,0
+304,Highland County,Greenfield,4582,13,3,3,2,5
+305,Highland County,Hillsboro,6576,9,0,7,1,1
+306,Highland County,Leesburg,1295,1,0,0,0,1
+307,Highland County,Lynchburg,1480,0,0,0,0,0
+310,Hocking County,Logan,7077,18,0,5,3,10
+311,Hocking County,Laurelville,507,1,0,0,1,0
+313,Ashland County,Loudonville,61,0,0,0,0,0
+316,Erie County,Milan,356,0,0,0,0,0
+325,Jefferson County,Steubenville,17979,49,3,4,11,31
+335,Knox County,Mount Vernon,16553,22,1,6,0,15
+337,Knox County,Fredericktown,2461,4,0,0,0,4
+340,Lake County,Eastlake,18056,14,1,2,5,6
+343,Lake County,Mentor,46663,72,0,11,17,44
+345,Lake County,Painesville,19719,11,1,1,0,9
+347,Lake County,Wickliffe,12679,9,0,0,4,5
+348,Lake County,Willoughby,22857,34,0,1,17,16
+349,Lake County,Madison,15380,4,0,0,0,4
+358,Franklin County,Reynoldsburg,9137,25,0,6,12,7
+359,Franklin County,New Albany,168,0,0,0,0,0
+361,Licking County,Granville,5787,0,0,0,0,0
+363,Licking County,Johnstown,5025,2,0,1,0,1
+367,Logan County,Bellefontaine,13144,14,0,6,2,6
+368,Logan County,Russells Point,1367,4,1,2,0,1
+369,Logan County,West Liberty,1785,1,0,0,0,1
+371,Lorain County,Elyria,53586,191,3,39,64,85
+372,Lorain County,Vermilion,5778,2,0,1,0,1
+373,Lorain County,Amherst,12090,5,0,0,2,3
+374,Lorain County,Avon Lake,23839,8,0,0,1,7
+375,Lorain County,Lorain,63672,373,2,30,87,254
+376,Lorain County,Oberlin,8321,13,0,6,0,7
+377,Lorain County,North Ridgeville,33586,17,1,7,2,7
+378,Lorain County,Sheffield Lake,8983,7,0,5,2,0
+379,Lorain County,Grafton,6182,1,0,1,0,0
+381,Lucas County,Toledo,277116,2829,35,180,780,1834
+382,Fulton County,Swanton,145,0,0,0,0,0
+383,Lucas County,Maumee,13809,5,0,0,3,2
+384,Lucas County,Oregon,19991,36,1,10,8,17
+388,Lucas County,Holland,1662,7,0,1,4,2
+389,Lucas County,Waterville,5518,1,0,0,0,1
+390,Lucas County,Whitehouse,4622,2,0,0,1,1
+397,Madison County,London,10202,14,0,2,2,10
+398,Madison County,West Jefferson,4347,2,0,0,0,2
+400,Mahoning County,Boardman,39276,61,0,14,31,16
+401,Mahoning County,Youngstown,63878,447,23,32,151,241
+402,Columbiana County,Columbiana,650,0,0,0,0,0
+403,Columbiana County,Salem,4,0,0,0,0,0
+405,Mahoning County,Austintown,35303,62,0,9,14,39
+407,Mahoning County,Canfield,7246,3,0,1,0,2
+411,Mahoning County,Struthers,10228,15,0,1,4,10
+412,Mahoning County,Craig Beach,1129,1,0,1,0,0
+413,Mahoning County,New Middletown,1553,0,0,0,0,0
+416,Clermont County,Goshen,3072,3,0,2,0,1
+418,Mahoning County,North Jackson,2018,2,0,0,0,2
+421,Stark County,Alliance,35,0,0,0,0,0
+425,Medina County,Brunswick,34838,21,1,2,4,14
+426,Medina County,Medina,26199,17,1,5,5,6
+427,Medina County,Wadsworth,23388,24,0,4,1,19
+429,Medina County,Spencer,777,2,0,1,0,1
+430,Medina County,Hinckley,7970,1,0,0,0,1
+434,Wayne County,Rittman,114,0,0,0,0,0
+435,Wayne County,Creston,91,0,0,0,0,0
+443,Mercer County,Coldwater,4519,3,0,3,0,0
+444,Mercer County,Fort Recovery,1436,1,0,0,0,1
+445,Mercer County,Rockford,1099,0,0,0,0,0
+446,Mercer County,Saint Henry,2527,1,0,0,0,1
+448,Miami County,Piqua,20973,54,1,33,11,9
+449,Miami County,Tipp City,9957,4,0,4,0,0
+450,Miami County,Troy,25865,38,1,20,6,11
+451,Miami County,Covington,2637,3,0,0,0,3
+452,Dayton,Huber Heights,995,2,0,0,1,1
+456,Dayton,Dayton,140171,1232,30,122,393,687
+457,Dayton,Centerville,23780,14,0,2,4,8
+458,Dayton,Germantown,5477,4,0,2,1,1
+459,Dayton,Kettering,54681,70,0,23,26,21
+461,Dayton,Miamisburg,19928,14,0,4,2,8
+462,Dayton,Moraine,6360,27,0,8,10,9
+463,Dayton,Clayton,13149,5,0,0,4,1
+464,Dayton,Trotwood,24308,69,3,15,35,16
+465,Dayton,Vandalia,15022,26,0,10,11,5
+466,Dayton,Huber Heights,37001,75,0,15,20,40
+467,Dayton,West Carrollton,12898,23,1,5,11,6
+468,Dayton,Brookville,5896,6,0,3,3,0
+469,Dayton,Englewood,13504,19,0,1,7,11
+470,Dayton,New Lebanon,3966,10,0,2,4,4
+474,Mahoning County,North Jackson,3658,1,0,0,0,1
+479,Warren County,Springboro,1273,0,0,0,0,0
+484,Muskingum County,Zanesville,25457,100,0,19,21,60
+485,Muskingum County,Dresden,1707,0,0,0,0,0
+486,Muskingum County,Frazeysburg,1294,1,0,0,0,1
+487,Muskingum County,New Concord,2337,0,0,0,0,0
+488,Muskingum County,Roseville,763,1,0,1,0,0
+493,Ottawa County,Oak Harbor,2731,1,0,1,0,0
+494,Ottawa County,Port Clinton,5928,21,0,12,3,6
+495,Ottawa County,Genoa,2276,1,0,0,0,1
+496,Ottawa County,Put in Bay,135,0,0,0,0,0
+502,Muskingum County,Roseville,1083,3,0,1,1,1
+503,Perry County,Crooksville,2491,0,0,0,0,0
+504,Perry County,New Lexington,4716,11,0,6,1,4
+508,Perry County,Somerset,1460,0,0,0,0,0
+509,Perry County,Thornville,997,0,0,0,0,0
+511,Pickaway County,Circleville,13972,57,0,13,21,23
+512,Pickaway County,Ashville,4211,3,1,0,1,1
+519,Portage County,Aurora,15932,3,0,0,1,2
+520,Portage County,Garrettsville,2321,0,0,0,0,0
+521,Portage County,Kent,30270,44,0,1,11,32
+522,Portage County,Windham,2199,4,0,0,0,4
+524,Portage County,Hiram,1164,3,0,1,0,2
+526,Portage County,Streetsboro,16308,11,0,2,5,4
+529,Portage County,Mogadore,1002,0,0,0,0,0
+530,Summit County,Tallmadge,287,0,0,0,0,0
+532,Preble County,Camden,1951,0,0,0,0,0
+534,Preble County,West Alexandria,1339,1,0,1,0,0
+536,Putnam County,Ottawa,4394,6,0,2,0,4
+537,Putnam County,Columbus Grove,2077,0,0,0,0,0
+538,Putnam County,Leipsic,2022,1,0,0,0,1
+540,Putnam County,Pandora,1146,0,0,0,0,0
+543,Richland County,Mansfield,46507,248,7,45,75,121
+547,Richland County,Shelby,8987,11,0,9,0,2
+548,Richland County,Bellville,1864,0,0,0,0,0
+549,Richland County,Lexington,4686,0,0,0,0,0
+551,Ross County,Chillicothe,21695,93,0,14,28,51
+553,Sandusky County,Clyde,6191,4,0,0,0,4
+554,Sandusky County,Fremont,16241,31,1,2,12,16
+561,Seneca County,Tiffin,17481,18,0,2,4,12
+563,Shelby County,Sidney,20466,42,3,24,9,6
+564,Shelby County,Fort Loramie,1500,0,0,0,0,0
+566,Stark County,Canton,71031,836,16,97,188,535
+567,Stark County,Massillon,32265,52,0,14,11,27
+568,Stark County,Alliance,21803,75,0,14,11,50
+569,Stark County,Brewster,2154,0,0,0,0,0
+570,Stark County,Canal Fulton,5428,2,0,1,0,1
+571,Stark County,East Canton,1589,0,0,0,0,0
+572,Stark County,Hartville,3030,2,0,0,0,2
+573,Stark County,Louisville,9373,2,0,0,0,2
+574,Stark County,Minerva,1931,1,0,0,0,1
+575,Stark County,Navarre,1901,1,0,0,0,1
+576,Stark County,North Canton,17348,12,0,4,3,5
+577,Stark County,Beach City,989,0,0,0,0,0
+578,Stark County,North Lawrence,8273,9,2,2,0,5
+579,Mahoning County,North Jackson,40624,58,1,14,24,19
+581,Stark County,Magnolia,714,1,0,1,0,0
+583,Summit County,Akron,197412,1377,42,209,395,731
+584,Summit County,Barberton,26050,103,1,19,14,69
+585,Summit County,Cuyahoga Falls,49145,49,2,18,8,21
+586,Summit County,Hudson,22248,12,0,2,1,9
+588,Summit County,Macedonia,12027,5,0,1,1,3
+589,Portage County,Mogadore,2827,0,0,0,0,0
+590,Summit County,Northfield,3669,5,0,0,1,4
+592,Summit County,Stow,34692,32,1,19,6,6
+593,Summit County,Tallmadge,17242,18,0,6,8,4
+594,Summit County,Twinsburg,18891,18,2,0,4,12
+595,Summit County,Munroe Falls,5051,1,0,0,0,1
+596,Summit County,Peninsula,563,0,0,0,0,0
+600,Summit County,Copley,17280,15,1,1,2,11
+605,Mahoning County,Youngstown,11,0,0,0,0,0
+606,Trumbull County,Warren,39643,227,11,32,101,83
+607,Trumbull County,Hubbard,7533,8,0,3,0,5
+609,Trumbull County,Newton Falls,4567,10,0,4,0,6
+610,Trumbull County,Niles,18334,55,0,8,12,35
+611,Trumbull County,Cortland,6844,1,0,0,1,0
+614,Trumbull County,Lordstown,3242,3,0,1,0,2
+621,Tuscarawas County,Dennison,2625,2,0,0,0,2
+633,Franklin County,Dublin,2510,1,0,1,0,0
+634,Union County,Marysville,23622,17,1,4,3,9
+636,Allen County,Delphos,3052,3,0,3,0,0
+637,Van Wert County,Van Wert,10713,22,1,7,3,11
+641,Butler County,Middletown,2759,14,0,2,5,7
+643,Clermont County,Loveland,823,0,0,0,0,0
+644,Warren County,Franklin,11779,31,1,6,13,11
+646,Warren County,Lebanon,20741,4,0,0,1,3
+647,Warren County,Mason,33406,12,0,5,3,4
+650,Warren County,Maineville,1070,0,0,0,0,0
+651,Warren County,Springboro,17359,10,0,5,0,5
+654,Washington County,Belpre,6466,2,0,0,0,2
+655,Washington County,Marietta,13582,23,0,11,2,10
+659,Wayne County,Orrville,8527,15,0,6,0,9
+660,Wayne County,Rittman,6496,9,0,3,2,4
+661,Wayne County,Wooster,27172,102,0,30,24,48
+662,Wayne County,Apple Creek,1188,2,0,0,0,2
+663,Wayne County,Creston,2097,1,0,0,0,1
+664,Wayne County,Marshallville,761,1,0,1,0,0
+665,Wayne County,Smithville,1277,1,0,1,0,0
+667,Williams County,Montpelier,3976,27,0,5,1,21
+668,Williams County,Pioneer,1412,3,0,2,0,1
+670,Wood County,Bowling Green,31779,41,0,20,6,15
+671,Wood County,North Baltimore,3546,10,0,2,0,8
+672,Wood County,Perrysburg,21732,7,0,3,4,0
+674,Wood County,Bradner,1024,1,0,0,0,1
+675,Wood County,Northwood,5423,19,0,2,4,13
+676,Wood County,Pemberville,1425,0,0,0,0,0
+677,Wood County,Wayne,927,0,0,0,0,0
