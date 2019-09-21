@@ -1,0 +1,263 @@
+,County,City,POPULATION,VIOLENT CRIME,MURDER,RAPE,ROBBERY,AGGRAVATED ASSAULT
+11,Allen County,Lima,38214.0,366.0,3.0,42.0,78.0,243.0
+12,Allen County,Bluffton,3824.0,1.0,,,,1.0
+13,Allen County,Delphos,3917.0,1.0,,1.0,,
+14,Allen County,Spencerville,2198.0,1.0,,,,1.0
+15,Allen County,Elida,1859.0,,,,,
+22,Ashland County,Ashland,20306.0,14.0,,10.0,3.0,1.0
+23,Ashland County,Loudonville,2557.0,,,,,
+27,Ashtabula County,Conneaut,12895.0,10.0,,,3.0,7.0
+28,Ashtabula County,Geneva,1265.0,,,,,
+29,Ashtabula County,Kingsville,2881.0,1.0,,,,1.0
+30,Ashtabula County,Roaming Shores,1491.0,,,,,
+31,Ashtabula County,Ashtabula,51042.0,40.0,1.0,4.0,7.0,28.0
+33,Athens County,Athens,23721.0,17.0,,3.0,3.0,11.0
+34,Athens County,Glouster,1765.0,5.0,1.0,,1.0,3.0
+35,Athens County,Nelsonville,5334.0,13.0,,2.0,2.0,9.0
+36,Athens County,Albany,877.0,,,,,
+40,Athens County,Coolville,488.0,,,,,
+43,Auglaize County,Wapakoneta,9812.0,9.0,,2.0,,7.0
+45,Auglaize County,New Bremen,2979.0,3.0,,,,3.0
+48,Belmont County,Barnesville,4130.0,1.0,,,,1.0
+51,Belmont County,Martins Ferry,6805.0,10.0,,4.0,3.0,3.0
+52,Belmont County,Powhatan Point,1574.0,1.0,,,,1.0
+54,Belmont County,Saint Clairsville,5108.0,,,,,
+55,Belmont County,Bethesda,1243.0,,,,,
+59,Brown County,Georgetown,4458.0,3.0,,2.0,,1.0
+60,Brown County,Mount Orab,3640.0,1.0,,,,1.0
+62,Brown County,Sardinia,963.0,,,,,
+66,Butler County,Fairfield,42677.0,120.0,1.0,12.0,37.0,70.0
+67,Butler County,Hamilton,62268.0,378.0,6.0,52.0,189.0,131.0
+68,Butler County,Middletown,45971.0,285.0,,37.0,71.0,177.0
+69,Butler County,Monroe,15157.0,61.0,,8.0,5.0,48.0
+71,Butler County,Oxford,21338.0,47.0,,3.0,9.0,35.0
+73,Butler County,West Chester,59435.0,43.0,1.0,11.0,15.0,16.0
+81,Carroll County,Carrollton,3214.0,3.0,,,,3.0
+91,Clark County,Springfield,60012.0,427.0,6.0,46.0,208.0,167.0
+92,Clark County,Enon,2421.0,2.0,,,,2.0
+93,Clark County,South Charleston,1675.0,,,,,
+95,Clark County,South Vienna,381.0,,,,,
+99,Clermont County,Batavia,1633.0,2.0,,,2.0,
+100,Clermont County,Bethel,2737.0,2.0,,,,2.0
+101,Clermont County,Milford,6642.0,6.0,,,1.0,5.0
+102,Clermont County,Amelia,4870.0,1.0,,,1.0,
+103,Clermont County,Felicity,822.0,,,,,
+104,Clermont County,New Richmond,2603.0,,,,,
+105,Clermont County,Williamsburg,2514.0,6.0,,,3.0,3.0
+106,Clermont County,Goshen,15620.0,3.0,,2.0,,1.0
+110,Clermont County,Loveland,1959.0,1.0,,1.0,,
+113,Clinton County,Blanchester,4230.0,1.0,,,1.0,
+114,Clinton County,New Vienna,1210.0,,,,,
+115,Clinton County,Sabina,2546.0,2.0,,1.0,1.0,
+116,Clinton County,Wilmington,12439.0,27.0,1.0,6.0,8.0,12.0
+120,Columbiana County,Columbiana,5654.0,4.0,,,,4.0
+121,Columbiana County,East Liverpool,11010.0,12.0,,6.0,3.0,3.0
+122,Columbiana County,East Palestine,4631.0,6.0,,2.0,2.0,2.0
+123,Columbiana County,Lisbon,2771.0,5.0,,1.0,,4.0
+124,Columbiana County,Salem,12111.0,6.0,1.0,,1.0,4.0
+126,Columbiana County,Wellsville,3468.0,,,,,
+134,Coshocton County,West Lafayette,2303.0,,,,,
+143,Cuyahoga County,Cleveland,389181.0,5782.0,58.0,436.0,3496.0,1792.0
+145,Cuyahoga County,Bay Village,15435.0,,,,,
+147,Cuyahoga County,Bedford,12858.0,31.0,,7.0,11.0,13.0
+149,Cuyahoga County,Berea,18939.0,18.0,,3.0,4.0,11.0
+151,Cuyahoga County,Brecksville,13499.0,1.0,,,1.0,
+152,Cuyahoga County,Broadview Heights,19277.0,11.0,,,,11.0
+154,Cuyahoga County,Brook Park,18941.0,14.0,1.0,1.0,3.0,9.0
+156,Cuyahoga County,Cleveland Heights,46309.0,144.0,1.0,5.0,94.0,44.0
+158,Cuyahoga County,Euclid,48095.0,93.0,,13.0,23.0,57.0
+159,Cuyahoga County,Garfield Heights,28339.0,39.0,,4.0,22.0,13.0
+160,Cuyahoga County,Gates Mills,2256.0,,,,,
+164,Cuyahoga County,Lakewood,51167.0,48.0,1.0,10.0,24.0,13.0
+165,Cuyahoga County,Lyndhurst,13769.0,5.0,,2.0,,3.0
+170,Cuyahoga County,Olmsted Falls,8910.0,1.0,,,,1.0
+172,Cuyahoga County,Parma,80303.0,87.0,1.0,23.0,31.0,32.0
+173,Cuyahoga County,Parma Heights,20395.0,17.0,,5.0,4.0,8.0
+175,Cuyahoga County,Richmond Heights,10470.0,13.0,,,10.0,3.0
+176,Cuyahoga County,Seven Hills,11699.0,5.0,,,3.0,2.0
+177,Cuyahoga County,Shaker Heights,27920.0,41.0,,2.0,34.0,5.0
+178,Cuyahoga County,Solon,23105.0,7.0,,2.0,2.0,3.0
+179,Cuyahoga County,South Euclid,21929.0,31.0,,,22.0,9.0
+180,Cuyahoga County,Strongsville,44583.0,27.0,,3.0,4.0,20.0
+183,Cuyahoga County,Westlake,32418.0,3.0,,,,3.0
+191,Darke County,Arcanum,2098.0,,,,,
+194,Defiance County,Defiance,16790.0,31.0,1.0,11.0,3.0,16.0
+195,Defiance County,Hicksville,3489.0,,,,,
+200,Delaware County,Ostrander,659.0,,,,,
+201,Delaware County,Powell,12093.0,2.0,,,,2.0
+208,Erie County,Huron,7080.0,3.0,,1.0,1.0,1.0
+209,Erie County,Sandusky,25401.0,78.0,,5.0,28.0,45.0
+212,Erie County,Berlin Heights,702.0,,,,,
+213,Erie County,Milan,990.0,1.0,,1.0,,
+219,Fairfield County,Lancaster,38902.0,133.0,,34.0,41.0,58.0
+220,Fairfield County,Baltimore,2968.0,,,,,
+221,Fairfield County,Carroll,524.0,,,,,
+222,Fairfield County,Lithopolis,1170.0,,,,,
+223,Fairfield County,Millersport,1048.0,,,,,
+227,Fayette County,Washington Court House,14083.0,24.0,,5.0,10.0,9.0
+230,Franklin County,Columbus,816364.0,4446.0,78.0,692.0,2463.0,1213.0
+233,Franklin County,Bexley,13316.0,21.0,,,14.0,7.0
+234,Franklin County,Dublin,36712.0,9.0,,1.0,7.0,1.0
+235,Franklin County,Gahanna,34011.0,23.0,1.0,7.0,8.0,7.0
+236,Franklin County,Grandview Heights,7052.0,8.0,1.0,,5.0,2.0
+237,Franklin County,Grove City,37208.0,40.0,1.0,5.0,29.0,5.0
+238,Franklin County,Hilliard,31352.0,26.0,1.0,8.0,8.0,9.0
+239,Franklin County,Reynoldsburg,26729.0,52.0,1.0,5.0,35.0,11.0
+240,Franklin County,Upper Arlington,34369.0,10.0,,1.0,7.0,2.0
+241,Franklin County,Westerville,29306.0,11.0,,4.0,5.0,2.0
+242,Franklin County,Whitehall,18480.0,127.0,2.0,9.0,73.0,43.0
+246,Franklin County,Groveport,5598.0,5.0,,2.0,1.0,2.0
+249,Franklin County,New Albany,8743.0,2.0,,,,2.0
+265,Fulton County,Delta,3078.0,1.0,,,1.0,
+266,Fulton County,Fayette,1268.0,,,,,
+267,Fulton County,Swanton,3582.0,3.0,,1.0,1.0,1.0
+268,Fulton County,Wauseon,7301.0,8.0,,1.0,,7.0
+277,Geauga County,Chardon,5172.0,6.0,,,,6.0
+278,Geauga County,Burton,1459.0,,,,,
+279,Geauga County,Middlefield,2707.0,4.0,,,,4.0
+299,Guernsey County,Cambridge,10534.0,37.0,,7.0,13.0,17.0
+300,Guernsey County,Byesville,2415.0,1.0,,,,1.0
+342,Hancock County,Findlay,41660.0,76.0,1.0,13.0,18.0,44.0
+359,Highland County,Greenfield,4538.0,4.0,,2.0,,2.0
+360,Highland County,Hillsboro,6495.0,9.0,,4.0,2.0,3.0
+361,Highland County,Leesburg,1290.0,,,,,
+362,Highland County,Lynchburg,1470.0,1.0,,,,1.0
+366,Hocking County,Logan,7153.0,7.0,1.0,1.0,5.0,
+387,Jefferson County,Wintersville,3820.0,3.0,,,,3.0
+393,Knox County,Mount Vernon,16748.0,20.0,,6.0,6.0,8.0
+395,Knox County,Fredericktown,2469.0,,,,,
+399,Lake County,Eastlake,18423.0,16.0,,1.0,9.0,6.0
+402,Lake County,Madison,3179.0,,,,,
+403,Lake County,Mentor,46979.0,43.0,,20.0,11.0,12.0
+405,Lake County,Painesville,19655.0,45.0,,7.0,32.0,6.0
+407,Lake County,Wickliffe,12635.0,,,,,
+408,Lake County,Willoughby,22374.0,14.0,,3.0,4.0,7.0
+423,Licking County,Granville,5634.0,,,,,
+425,Licking County,Hebron,2354.0,1.0,,1.0,,
+426,Licking County,Johnstown,4862.0,3.0,,1.0,1.0,1.0
+429,Licking County,Saint Louisville,374.0,,,,,
+434,Logan County,Bellefontaine,13147.0,45.0,,10.0,12.0,23.0
+436,Logan County,De Graff,1267.0,,,,,
+437,Logan County,West Liberty,1784.0,2.0,,,,2.0
+442,Lorain County,Lorain,63582.0,303.0,6.0,30.0,161.0,106.0
+444,Lorain County,North Ridgeville,30905.0,14.0,,3.0,5.0,6.0
+445,Lorain County,Sheffield Lake,9050.0,6.0,,3.0,2.0,1.0
+446,Lorain County,Grafton,5716.0,4.0,,1.0,,3.0
+450,Lucas County,Toledo,283035.0,2902.0,28.0,129.0,962.0,1783.0
+452,Lucas County,Maumee,14081.0,12.0,,5.0,3.0,4.0
+453,Lucas County,Oregon,20188.0,28.0,,8.0,9.0,11.0
+455,Lucas County,Sylvania,29363.0,15.0,,,11.0,4.0
+456,Lucas County,Holland,1758.0,8.0,,,5.0,3.0
+457,Lucas County,Waterville,5496.0,5.0,,3.0,,2.0
+458,Lucas County,Whitehouse,4325.0,3.0,,2.0,,1.0
+463,Madison County,London,9867.0,16.0,,3.0,4.0,9.0
+464,Madison County,West Jefferson,4192.0,2.0,,,1.0,1.0
+468,Mahoning County,Boardman,40277.0,40.0,1.0,3.0,34.0,2.0
+469,Mahoning County,Youngstown,64927.0,528.0,14.0,27.0,170.0,317.0
+479,Mahoning County,Struthers,10522.0,11.0,,2.0,1.0,8.0
+480,Mahoning County,New Middletown,1594.0,,,,,
+498,Medina County,Brunswick,34402.0,16.0,1.0,1.0,5.0,9.0
+499,Medina County,Medina,26492.0,19.0,1.0,6.0,5.0,7.0
+500,Medina County,Wadsworth,21758.0,18.0,,8.0,3.0,7.0
+502,Medina County,Lodi,2778.0,1.0,,,,1.0
+503,Medina County,Seville,2333.0,2.0,,1.0,1.0,
+504,Medina County,Hinckley,7777.0,2.0,,2.0,,
+518,Mercer County,Celina,10392.0,11.0,,4.0,3.0,4.0
+519,Mercer County,Coldwater,4451.0,2.0,,,,2.0
+520,Mercer County,Fort Recovery,1422.0,,,,,
+521,Mercer County,Rockford,1117.0,,,,,
+522,Mercer County,Saint Henry,2480.0,,,,,
+525,Miami County,Piqua,20656.0,33.0,,18.0,14.0,1.0
+526,Miami County,Tipp City,9799.0,9.0,,4.0,3.0,2.0
+527,Miami County,Troy,25424.0,20.0,,4.0,9.0,7.0
+528,Miami County,Covington,2596.0,1.0,,,,1.0
+570,Muskingum County,Zanesville,25378.0,109.0,1.0,16.0,38.0,54.0
+571,Muskingum County,Dresden,1515.0,,,,,
+572,Muskingum County,Frazeysburg,1318.0,1.0,,1.0,,
+573,Muskingum County,New Concord,2489.0,1.0,,,,1.0
+574,Muskingum County,Roseville,752.0,1.0,,,,1.0
+579,Ottawa County,Oak Harbor,2750.0,3.0,,1.0,,2.0
+580,Ottawa County,Port Clinton,6046.0,16.0,,6.0,2.0,8.0
+582,Ottawa County,Genoa,2332.0,1.0,,,,1.0
+583,Ottawa County,Marblehead,899.0,,,,,
+588,Paulding County,Paulding,3521.0,,,,,
+589,Paulding County,Oakwood,594.0,,,,,
+594,Perry County,Crooksville,2513.0,,,,,
+595,Perry County,New Lexington,4749.0,14.0,,3.0,2.0,9.0
+598,Perry County,Somerset,1471.0,,,,,
+599,Perry County,Thornville,995.0,,,,,
+602,Pickaway County,Circleville,13491.0,23.0,,12.0,4.0,7.0
+603,Pickaway County,Ashville,4118.0,1.0,,,1.0,
+604,Pickaway County,Commercial Point,1587.0,,,,,
+611,Portage County,Aurora,15457.0,9.0,,1.0,3.0,5.0
+612,Portage County,Kent,30121.0,56.0,,5.0,26.0,25.0
+613,Portage County,Windham,2185.0,2.0,,1.0,,1.0
+614,Portage County,Hiram,1450.0,,,,,
+615,Portage County,Kent,,1.0,,1.0,,
+622,Preble County,Camden,2002.0,,,,,
+625,Preble County,West Alexandria,1355.0,,,,,
+628,Putnam County,Ottawa,4404.0,,,,,
+629,Putnam County,Columbus Grove,2086.0,1.0,,,,1.0
+630,Putnam County,Leipsic,2056.0,1.0,,,,1.0
+632,Putnam County,Pandora,1143.0,,,,,
+637,Richland County,Mansfield,46832.0,180.0,,44.0,82.0,54.0
+640,Richland County,Plymouth,930.0,,,,,
+641,Richland County,Shelby,9131.0,11.0,,6.0,4.0,1.0
+642,Richland County,Bellville,1887.0,,,,,
+643,Richland County,Lexington,4751.0,2.0,,2.0,,
+647,Ross County,Chillicothe,21679.0,73.0,,8.0,29.0,36.0
+650,Sandusky County,Clyde,6281.0,2.0,,1.0,,1.0
+651,Sandusky County,Fremont,16515.0,42.0,,1.0,14.0,27.0
+662,Shelby County,Sidney,20980.0,35.0,,8.0,18.0,9.0
+663,Shelby County,Fort Loramie,1498.0,,,,,
+668,Stark County,Canton,72598.0,673.0,11.0,72.0,357.0,233.0
+669,Stark County,Massillon,32159.0,73.0,,15.0,31.0,27.0
+670,Stark County,Alliance,22104.0,83.0,1.0,14.0,12.0,56.0
+671,Stark County,Brewster,2163.0,,,,,
+672,Stark County,Canal Fulton,5486.0,1.0,,,,1.0
+675,Stark County,Louisville,9143.0,6.0,,,2.0,4.0
+676,Stark County,Minerva,1937.0,,,,,
+677,Stark County,Navarre,1937.0,,,,,
+678,Stark County,North Canton,17380.0,12.0,,2.0,8.0,2.0
+679,Stark County,Beach City,1020.0,,,,,
+685,Stark County,Uniontown,3316.0,1.0,,,,1.0
+709,Trumbull County,Warren,40474.0,265.0,7.0,26.0,128.0,104.0
+710,Trumbull County,Girard,9771.0,35.0,,1.0,3.0,31.0
+711,Trumbull County,Hubbard,7758.0,5.0,,1.0,1.0,3.0
+713,Trumbull County,Newton Falls,4723.0,6.0,,1.0,,5.0
+714,Trumbull County,Niles,18950.0,51.0,,2.0,30.0,19.0
+718,Trumbull County,Lordstown,3363.0,1.0,,,1.0,
+726,Trumbull County,Vienna Center,3909.0,3.0,,,,3.0
+729,Tuscarawas County,Dennison,2634.0,1.0,,,,1.0
+742,Union County,Plain City,832.0,,,,,
+743,Union County,Marysville,22031.0,12.0,,1.0,2.0,9.0
+744,Union County,Richwood,2240.0,3.0,,1.0,,2.0
+748,Van Wert County,Van Wert,10852.0,22.0,1.0,3.0,1.0,17.0
+757,Warren County,Franklin,11831.0,15.0,,1.0,12.0,2.0
+758,Warren County,Lebanon,20480.0,20.0,,7.0,7.0,6.0
+759,Warren County,Mason,31204.0,11.0,,2.0,6.0,3.0
+762,Warren County,Maineville,1014.0,,,,,
+763,Warren County,Springboro,16480.0,12.0,,5.0,1.0,6.0
+767,Washington County,Belpre,6429.0,5.0,,,1.0,4.0
+768,Washington County,Marietta,14013.0,21.0,,6.0,7.0,8.0
+770,Washington County,Beverly,1302.0,1.0,1.0,,,
+775,Wayne County,Orrville,8400.0,7.0,,4.0,1.0,2.0
+776,Wayne County,Rittman,6390.0,7.0,,1.0,3.0,3.0
+777,Wayne County,Wooster,26468.0,42.0,,12.0,15.0,15.0
+778,Wayne County,Apple Creek,1173.0,,,,,
+779,Wayne County,Creston,2072.0,1.0,,,1.0,
+780,Wayne County,Marshallville,756.0,,,,,
+781,Wayne County,Shreve,1500.0,,,,,
+786,Williams County,Bryan,8512.0,1.0,,,1.0,
+787,Williams County,Montpelier,4050.0,23.0,,4.0,2.0,17.0
+788,Williams County,Edgerton,2000.0,,,,,
+789,Williams County,Pioneer,1373.0,2.0,,1.0,1.0,
+791,Wood County,Bowling Green,31844.0,49.0,,22.0,10.0,17.0
+792,Wood County,North Baltimore,3492.0,,,,,
+793,Wood County,Perrysburg,21279.0,5.0,,3.0,1.0,1.0
+794,Wood County,Rossford,6426.0,3.0,,1.0,1.0,1.0
+795,Wood County,Haskins,1213.0,,,,,
+796,Wood County,Luckey,1031.0,,,,,
+797,Wood County,Northwood,5370.0,9.0,,3.0,4.0,2.0
+800,Wood County,Walbridge,3065.0,2.0,,1.0,,1.0
+801,Wood County,Wayne,896.0,,,,,
